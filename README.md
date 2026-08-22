@@ -73,9 +73,9 @@ _Last updated: 22 Aug 2026_
 
 | Date | Problem | Difficulty | Pattern | Result | Solution |
 |---|---|---|---|:---:|---|
+| 23 Aug | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Array | 🟢 | [code](01-arrays/valid-anagram.py) |
 | 23 Aug | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Hashing | 🟢 | [code](01-arrays/contains-duplicate.py) |
 | 23 Aug | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | Array | 🟢 | [code](01-arrays/concatenation-of-array.py) |
-| 23 Aug | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | Array | 🟢 | [code](01-arrays/valid-anagram.py) |
 
 <!-- DSA-RECENT:END -->
 
@@ -88,8 +88,8 @@ _Last updated: 22 Aug 2026_
 | Due | Problem | Round | Solution |
 |---|---|---|---|
 | 24 Aug | Concatenation of Array | +1d | [code](01-arrays/concatenation-of-array.py) |
-| 24 Aug | Concatenation of Array | +1d | [code](01-arrays/valid-anagram.py) |
 | 24 Aug | Contains Duplicate | +1d | [code](01-arrays/contains-duplicate.py) |
+| 24 Aug | Valid Anagram | +1d | [code](01-arrays/valid-anagram.py) |
 
 <!-- DSA-REVISION:END -->
 
