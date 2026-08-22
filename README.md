@@ -2,10 +2,7 @@
 
 > A long-term record of my DSA preparation, problem-solving practice, and continuous improvement.
 
-I'm using this repository to document my daily DSA practice,
-track my weaknesses, revise important problems, and improve
-problem-solving speed.
-
+I'm using this repository to document my daily DSA practice, track my weaknesses, revise important problems, and improve problem-solving speed.
 
 ---
 
@@ -20,55 +17,18 @@ problem-solving speed.
 ## 📊 Progress
 
 <!-- DSA-STATS:START -->
-
-## 📊 DSA Progress
-
-| Metric | Count |
-|---|---:|
-| 🧩 Total Problems | 1 |
-| 🟢 Independent | 1 |
-| 🟡 Hint Needed | 0 |
-| 🔴 Solution Needed | 0 |
-| 🟢 Easy | 1 |
-| 🟡 Medium | 0 |
-| 🔴 Hard | 0 |
-
-### 🧠 Patterns
-
-| Pattern | Problems |
-|---|---:|
-| Array | 1 |
 <!-- DSA-STATS:END -->
 
-> 📌 This section is automatically updated using GitHub Actions.
+> 📌 Automatically updated using GitHub Actions.
 
 ---
 
 ## 🧠 Topics
 
 <!-- DSA-TOPICS:START -->
-
-| Topic | Problems | Status |
-|---|---:|---|
-| Arrays | 0 | 🔴 |
-| Strings | 0 | 🔴 |
-| Hashing | 0 | 🔴 |
-| Two Pointers | 0 | 🔴 |
-| Sliding Window | 0 | 🔴 |
-| Stack | 0 | 🔴 |
-| Binary Search | 0 | 🔴 |
-| Linked List | 0 | 🔴 |
-| Trees | 0 | 🔴 |
-| Heap | 0 | 🔴 |
-| Recursion / Backtracking | 0 | 🔴 |
-| Trie | 0 | 🔴 |
-| Graphs | 0 | 🔴 |
-| Greedy | 0 | 🔴 |
-| Dynamic Programming | 0 | 🔴 |
-
 <!-- DSA-TOPICS:END -->
 
-> 📌 Topic statistics are automatically generated from my solutions.
+> 📌 Automatically generated from my solutions.
 
 ---
 
