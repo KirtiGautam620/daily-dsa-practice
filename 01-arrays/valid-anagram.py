@@ -1,5 +1,5 @@
 '''
-Problem: Concatenation of Array
+Problem: Valid Anagram
 LeetCode: #1929
 Difficulty: Easy
 Pattern: Array
