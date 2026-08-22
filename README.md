@@ -19,7 +19,7 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 
 <!-- DSA-STATS:START -->
 
-**1** problem solved across **1** active day · 🔥 **1-day streak** (best: 1) · started 23 Aug 2026
+**1** problem solved across **1** active day · 🔥 **0-day streak** (best: 1) · started 23 Aug 2026
 
 | Difficulty | Solved | Share | |
 |---|---:|---:|---|
@@ -34,7 +34,7 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 | 🟡 Hint | 0 | 0% |
 | 🔴 Solution | 0 | 0% |
 
-_Last updated: 23 Aug 2026_
+_Last updated: 22 Aug 2026_
 
 <!-- DSA-STATS:END -->
 
@@ -47,10 +47,10 @@ _Last updated: 23 Aug 2026_
 | Topic | Solved | Easy | Med | Hard | Last solved | Status |
 |---|---:|---:|---:|---:|---|---|
 | [Arrays](01-arrays/) | 1 | 1 | 0 | 0 | 23 Aug | 🟡 In progress |
-| [Strings](02-strings/) | 0 | 0 | 0 | 0 | — | 🔴 Not started |
-| [Hashing](03-hashing/) | 0 | 0 | 0 | 0 | — | 🔴 Not started |
-| [Two Pointers](04-two-pointers/) | 0 | 0 | 0 | 0 | — | 🔴 Not started |
-| [Sliding Window](05-sliding-window/) | 0 | 0 | 0 | 0 | — | 🔴 Not started |
+| Strings | 0 | 0 | 0 | 0 | — | 🔴 Not started |
+| Hashing | 0 | 0 | 0 | 0 | — | 🔴 Not started |
+| Two Pointers | 0 | 0 | 0 | 0 | — | 🔴 Not started |
+| Sliding Window | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Stack | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Binary Search | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Linked List | 0 | 0 | 0 | 0 | — | 🔴 Not started |
@@ -61,7 +61,7 @@ _Last updated: 23 Aug 2026_
 | Graphs | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Greedy | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Dynamic Programming | 0 | 0 | 0 | 0 | — | 🔴 Not started |
-| [Contests](contests/) | 0 | 0 | 0 | 0 | — | 🔴 Not started |
+| Contests | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 
 <!-- DSA-TOPICS:END -->
 
