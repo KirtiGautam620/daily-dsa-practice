@@ -1,16 +1,10 @@
 '''
-Problem: Concatenation of array
-Leetcode: #1929
+Problem: Concatenation of Array
+LeetCode: #1929
 Difficulty: Easy
 Pattern: Array
-
-Status:  🟢 Independent
-
-Time Complexity: 0(n)
-Space Complexity: 0(n)
-
-Key Learning:
-create a new array by concating
+Status: Independent
+Date: 2026-08-23
 '''
 
 class Solution:
