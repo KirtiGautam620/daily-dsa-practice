@@ -142,6 +142,41 @@ python scripts/update_readme.py --check  # exit 1 if the README is stale
 
 ---
 
+## ⬆️ How to push my work
+
+⚠️ After every push, GitHub Actions regenerates the README and pushes its own commit
+(`chore: update DSA progress [skip ci]`). So my local branch is **always behind right after a push**.
+Always pull *before* committing the next time.
+
+```bash
+git pull            # 1. get the bot's README commit FIRST
+git add .           # 2. stage today's solution
+git commit -m "day1: solve anagram"
+git push            # 3. push
+git pull            # 4. pull the bot's regenerated README back down
+```
+
+### 😖 If I forget to pull first
+
+Symptom: `error: Your local changes to the following files would be overwritten by merge: README.md`
+
+```bash
+git stash           # park my local changes
+git pull            # fast-forward to the bot's commit
+git stash pop       # bring my changes back (auto-merges README)
+git add .
+git commit -m "day1: solve anagram"
+git push
+```
+
+### 📌 Rules of thumb
+
+- Never hand-edit the generated blocks (`DSA-STATS`, `DSA-TOPICS`, `DSA-RECENT`, `DSA-REVISION`) — the bot overwrites them.
+- Editing README prose is fine, just `git pull` first.
+- Want to skip the dance? Run `python scripts/update_readme.py` locally and commit the README yourself.
+
+---
+
 ## 📅 Practice System
 
 ### 🟢 Independent
