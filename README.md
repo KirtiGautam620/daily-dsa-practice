@@ -34,7 +34,6 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 | 🟡 Hint | 0 | 0% |
 | 🔴 Solution | 0 | 0% |
 
-_Last updated: 22 Aug 2026_
 
 <!-- DSA-STATS:END -->
 
