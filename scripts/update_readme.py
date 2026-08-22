@@ -7,6 +7,26 @@ ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
 
 
+# Map folder names to README topic names
+TOPICS = {
+    "01-arrays": "Arrays",
+    "02-strings": "Strings",
+    "03-hashing": "Hashing",
+    "04-two-pointers": "Two Pointers",
+    "05-sliding-window": "Sliding Window",
+    "06-stack": "Stack",
+    "07-binary-search": "Binary Search",
+    "08-linked-list": "Linked List",
+    "09-trees": "Trees",
+    "10-heap": "Heap",
+    "11-recursion-backtracking": "Recursion / Backtracking",
+    "12-trie": "Trie",
+    "13-graphs": "Graphs",
+    "14-greedy": "Greedy",
+    "15-dynamic-programming": "Dynamic Programming",
+}
+
+
 def parse_problem(file_path):
     text = file_path.read_text(encoding="utf-8")
 
@@ -34,22 +54,28 @@ def parse_problem(file_path):
     return metadata
 
 
+# -----------------------------------
+# Find all problems
+# -----------------------------------
+
 problems = []
 
 for file_path in ROOT.rglob("*.py"):
-    # Don't scan the automation script itself
+
+    # Ignore automation scripts
     if "scripts" in file_path.parts:
         continue
 
     metadata = parse_problem(file_path)
 
     if "Problem" in metadata:
+        metadata["folder"] = file_path.parent.name
         problems.append(metadata)
 
 
-# -----------------------------
-# Statistics
-# -----------------------------
+# -----------------------------------
+# Overall statistics
+# -----------------------------------
 
 total = len(problems)
 
@@ -63,63 +89,109 @@ status = Counter(
     for problem in problems
 )
 
-patterns = Counter(
-    problem.get("Pattern", "Unknown")
-    for problem in problems
-)
+
+# -----------------------------------
+# Topic statistics
+# -----------------------------------
+
+topic_counts = Counter()
+
+for problem in problems:
+    folder = problem.get("folder")
+
+    if folder in TOPICS:
+        topic_counts[TOPICS[folder]] += 1
 
 
-def progress_row(name, count):
-    return f"| {name} | {count} |"
+def topic_status(count):
+    if count == 0:
+        return "🔴"
+    elif count < 5:
+        return "🟡"
+    else:
+        return "🟢"
 
 
-stats = f"""<!-- DSA-STATS:START -->
+# -----------------------------------
+# Generate Progress section
+# -----------------------------------
 
-## 📊 DSA Progress
+progress = f"""<!-- DSA-STATS:START -->
 
-| Metric | Count |
+## 📊 Progress
+
+| Metric | Progress |
 |---|---:|
-| 🧩 Total Problems | {total} |
-| 🟢 Independent | {status.get("Independent", 0)} |
-| 🟡 Hint Needed | {status.get("Hint", 0)} |
-| 🔴 Solution Needed | {status.get("Solution", 0)} |
-| 🟢 Easy | {difficulty.get("Easy", 0)} |
-| 🟡 Medium | {difficulty.get("Medium", 0)} |
-| 🔴 Hard | {difficulty.get("Hard", 0)} |
+| Problems Solved | {total} |
+| Easy | {difficulty.get("Easy", 0)} |
+| Medium | {difficulty.get("Medium", 0)} |
+| Hard | {difficulty.get("Hard", 0)} |
+| Independent | {status.get("Independent", 0)} |
+| Hint Needed | {status.get("Hint", 0)} |
+| Solution Needed | {status.get("Solution", 0)} |
 
-### 🧠 Patterns
+<!-- DSA-STATS:END -->"""
 
-| Pattern | Problems |
-|---|---:|
+
+# -----------------------------------
+# Generate Topics section
+# -----------------------------------
+
+topics = """<!-- DSA-TOPICS:START -->
+
+## 🧠 Topics
+
+| Topic | Problems | Status |
+|---|---:|---|
 """
 
-for pattern, count in patterns.most_common():
-    stats += progress_row(pattern, count)
+for folder, topic in TOPICS.items():
+    count = topic_counts.get(topic, 0)
+    topics += f"| {topic} | {count} | {topic_status(count)} |\n"
 
-stats += """
-<!-- DSA-STATS:END -->
-"""
+topics += """
+<!-- DSA-TOPICS:END -->"""
 
 
-# -----------------------------
+# -----------------------------------
 # Update README
-# -----------------------------
+# -----------------------------------
 
 readme = README.read_text(encoding="utf-8")
 
-start_marker = "<!-- DSA-STATS:START -->"
-end_marker = "<!-- DSA-STATS:END -->"
 
-pattern = re.compile(
-    re.escape(start_marker) + r".*?" + re.escape(end_marker),
-    re.DOTALL,
+def replace_section(text, start_marker, end_marker, replacement):
+
+    pattern = re.compile(
+        re.escape(start_marker)
+        + r".*?"
+        + re.escape(end_marker),
+        re.DOTALL,
+    )
+
+    if pattern.search(text):
+        return pattern.sub(replacement, text)
+
+    return text + "\n\n" + replacement
+
+
+readme = replace_section(
+    readme,
+    "<!-- DSA-STATS:START -->",
+    "<!-- DSA-STATS:END -->",
+    progress,
 )
 
-if pattern.search(readme):
-    readme = pattern.sub(stats.strip(), readme)
-else:
-    readme += "\n\n" + stats
+readme = replace_section(
+    readme,
+    "<!-- DSA-TOPICS:START -->",
+    "<!-- DSA-TOPICS:END -->",
+    topics,
+)
+
 
 README.write_text(readme, encoding="utf-8")
 
-print(f"Updated README with {total} problems.")
+print(f"Found {total} problems.")
+print("Updated progress statistics.")
+print("Updated topic statistics.")
