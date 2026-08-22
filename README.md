@@ -19,18 +19,18 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 
 <!-- DSA-STATS:START -->
 
-**1** problem solved across **1** active day · 🔥 **0-day streak** (best: 1) · started 23 Aug 2026
+**2** problems solved across **1** active day · 🔥 **0-day streak** (best: 1) · started 23 Aug 2026
 
 | Difficulty | Solved | Share | |
 |---|---:|---:|---|
-| 🟩 Easy | 1 | 100% | `██████████` |
+| 🟩 Easy | 2 | 100% | `██████████` |
 | 🟨 Medium | 0 | 0% | `░░░░░░░░░░` |
 | 🟥 Hard | 0 | 0% | `░░░░░░░░░░` |
-| **Total** | **1** | | |
+| **Total** | **2** | | |
 
 | How it was solved | Count | Share |
 |---|---:|---:|
-| 🟢 Independent | 1 | 100% |
+| 🟢 Independent | 2 | 100% |
 | 🟡 Hint | 0 | 0% |
 | 🔴 Solution | 0 | 0% |
 
@@ -46,7 +46,7 @@ _Last updated: 22 Aug 2026_
 
 | Topic | Solved | Easy | Med | Hard | Last solved | Status |
 |---|---:|---:|---:|---:|---|---|
-| [Arrays](01-arrays/) | 1 | 1 | 0 | 0 | 23 Aug | 🟡 In progress |
+| [Arrays](01-arrays/) | 2 | 2 | 0 | 0 | 23 Aug | 🟡 In progress |
 | Strings | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Hashing | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Two Pointers | 0 | 0 | 0 | 0 | — | 🔴 Not started |
@@ -73,6 +73,7 @@ _Last updated: 22 Aug 2026_
 
 | Date | Problem | Difficulty | Pattern | Result | Solution |
 |---|---|---|---|:---:|---|
+| 23 Aug | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Hashing | 🟢 | [code](01-arrays/contains-duplicate.py) |
 | 23 Aug | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | Array | 🟢 | [code](01-arrays/concatenation-of-array.py) |
 
 <!-- DSA-RECENT:END -->
@@ -86,6 +87,7 @@ _Last updated: 22 Aug 2026_
 | Due | Problem | Round | Solution |
 |---|---|---|---|
 | 24 Aug | Concatenation of Array | +1d | [code](01-arrays/concatenation-of-array.py) |
+| 24 Aug | Contains Duplicate | +1d | [code](01-arrays/contains-duplicate.py) |
 
 <!-- DSA-REVISION:END -->
 
