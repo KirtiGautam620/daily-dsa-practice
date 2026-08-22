@@ -5,10 +5,19 @@ on:
     branches:
       - main
 
+  # Refresh daily so streaks and revision-due dates stay accurate
+  # even on days without a push.
+  schedule:
+    - cron: "30 2 * * *"
+
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
 
 jobs:
   update-progress:
@@ -16,10 +25,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
@@ -36,6 +45,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No README changes."
           else
-            git commit -m "chore: update DSA progress"
+            git commit -m "chore: update DSA progress [skip ci]"
             git push
           fi
