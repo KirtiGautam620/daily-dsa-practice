@@ -1,6 +1,6 @@
 '''
 Problem: Valid Anagram
-LeetCode: #1929
+LeetCode: #242
 Difficulty: Easy
 Pattern: Array
 Status: Independent
