@@ -19,7 +19,7 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 
 <!-- DSA-STATS:START -->
 
-**3** problems solved across **1** active day · 🔥 **0-day streak** (best: 1) · started 23 Aug 2026
+**3** problems solved across **1** active day · 🔥 **1-day streak** (best: 1) · started 23 Aug 2026
 
 | Difficulty | Solved | Share | |
 |---|---:|---:|---|
@@ -34,7 +34,7 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 | 🟡 Hint | 0 | 0% |
 | 🔴 Solution | 0 | 0% |
 
-_Last updated: 22 Aug 2026_
+_Last updated: 23 Aug 2026_
 
 <!-- DSA-STATS:END -->
 
