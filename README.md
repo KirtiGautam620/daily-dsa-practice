@@ -99,7 +99,7 @@ _Last updated: 24 Aug 2026_
 | 25 Aug | 1 |
 | 26 Aug | 2 |
 
-_24 Aug 2026 (IST) · mark done: `python3 scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
+_24 Aug 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
 <!-- DSA-REVISION:END -->
 
