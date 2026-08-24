@@ -99,7 +99,7 @@ _Last updated: 24 Aug 2026_
 | 25 Aug | 1 |
 | 26 Aug | 2 |
 
-_24 Aug 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
+_24 Aug 2026 (IST) · mark done: `python3 scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
 <!-- DSA-REVISION:END -->
 
@@ -146,8 +146,8 @@ Only `.py` files are scanned. A `#` comment block works just as well as a docstr
 Run it locally any time:
 
 ```bash
-python scripts/update_readme.py          # rewrite the README + revision tracker
-python scripts/update_readme.py --check  # exit 1 if either is stale
+python3 scripts/update_readme.py          # rewrite the README + revision tracker
+python3 scripts/update_readme.py --check  # exit 1 if either is stale
 ```
 
 A newly logged problem is picked up automatically and gets its own revision
