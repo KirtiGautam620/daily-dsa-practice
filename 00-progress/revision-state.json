@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "problems": {
+    "concatenation-of-array": {
+      "title": "Concatenation of Array",
+      "path": "01-arrays/concatenation-of-array.py",
+      "solved": "2026-08-23",
+      "rung": 0,
+      "anchor": "2026-08-23",
+      "history": []
+    },
+    "contains-duplicate": {
+      "title": "Contains Duplicate",
+      "path": "01-arrays/contains-duplicate.py",
+      "solved": "2026-08-23",
+      "rung": 0,
+      "anchor": "2026-08-23",
+      "history": []
+    },
+    "two-sum": {
+      "title": "Two Sum",
+      "path": "01-arrays/two-sum.py",
+      "solved": "2026-08-24",
+      "rung": 0,
+      "anchor": "2026-08-24",
+      "history": []
+    },
+    "valid-anagram": {
+      "title": "Valid Anagram",
+      "path": "01-arrays/valid-anagram.py",
+      "solved": "2026-08-23",
+      "rung": 0,
+      "anchor": "2026-08-23",
+      "history": []
+    }
+  }
+}

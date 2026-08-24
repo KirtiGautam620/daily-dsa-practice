@@ -24,9 +24,12 @@ from datetime import date, datetime
 import re
 import sys
 
+import revision as rev
+
 
 ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
+TRACKER = ROOT / "00-progress" / "revision-tracker.md"
 
 # Only Python solutions are picked up.
 SOURCE_SUFFIX = ".py"
@@ -68,10 +71,17 @@ DIFFICULTY_ICONS = {
     "Hard": "🟥",
 }
 
-# Spaced-repetition schedule, in days after the first solve.
-REVISION_OFFSETS = (1, 3, 7, 15, 30, 60)
-
 RECENT_LIMIT = 10
+
+# The README revision block is a dashboard, not a database: it must stay a
+# constant size whether 4 or 500+ problems are logged. Per-problem schedules
+# and full history live in 00-progress/revision-tracker.md instead.
+DUE_LIMIT = 15        # rows in "Due Today" before spilling to the tracker
+OVERDUE_LIMIT = 15    # rows in "Overdue" before spilling to the tracker
+UPCOMING_DAYS = 8     # calendar days listed in "Upcoming"
+
+# Short dates keep the dashboard narrow; the tracker carries full dates.
+DASH_DATE = "%d %b"
 
 
 # -----------------------------------
@@ -273,7 +283,10 @@ def build_topics(problems):
         dates = [p["parsed_date"] for p in items if p["parsed_date"]]
         last = max(dates).strftime("%d %b") if dates else "—"
 
-        name = f"[{topic}]({folder}/)" if (ROOT / folder).is_dir() else topic
+        # Link only once a folder holds something: empty directories aren't
+        # tracked by git, so linking on existence alone makes the table flip
+        # back and forth between local runs and the Actions runner.
+        name = f"[{topic}]({folder}/)" if count else topic
 
         lines.append(
             f"| {name} | {count} | {difficulty.get('Easy', 0)} | "
@@ -323,49 +336,179 @@ def build_recent(problems):
     return "\n".join(lines)
 
 
-def build_revision(problems, today):
-    """Problems whose next spaced-repetition review is due."""
-    due = []
+def topic_of(metadata):
+    return metadata.get("Pattern") or TOPICS.get(metadata.get("folder"), "—")
 
-    for problem in problems:
-        solved = problem["parsed_date"]
-        if not solved:
-            continue
 
-        elapsed = (today - solved).days
-        next_offset = next((o for o in REVISION_OFFSETS if o >= elapsed), None)
-        if next_offset is None:
-            continue
+def days_label(count):
+    return "1 day" if count == 1 else f"{count} days"
 
-        due_on = solved.fromordinal(solved.toordinal() + next_offset)
-        due.append((due_on, next_offset, problem))
 
-    due.sort(key=lambda item: (item[0], item[2].get("Problem", "")))
+def build_revision(rows, today):
+    """A fixed-size dashboard: what to revise today, what slipped, what's next.
+
+    Deliberately shallow — no per-problem ladders, no history, capped row
+    counts. Everything deeper belongs in 00-progress/revision-tracker.md.
+    """
+    overdue = [row for row in rows if row["overdue_days"] > 0]
+    due_today = [row for row in rows if row["due"] == today]
+    upcoming = [row for row in rows if row["due"] and row["due"] > today]
 
     lines = ["<!-- DSA-REVISION:START -->", ""]
 
-    if not due:
-        lines += [
-            "_Nothing scheduled — every logged problem has finished its revision cycle._",
-            "",
-            "<!-- DSA-REVISION:END -->",
-        ]
+    if not rows:
+        lines += ["_Nothing logged yet._", "", "<!-- DSA-REVISION:END -->"]
         return "\n".join(lines)
 
+    if due_today:
+        lines += [
+            f"### 🔴 Due Today · {len(due_today)}",
+            "",
+            "| Problem | Topic | Revision |",
+            "|---|---|---|",
+        ]
+        for row in due_today[:DUE_LIMIT]:
+            lines.append(
+                f"| {row['entry']['title']} | {topic_of(row['metadata'])} | "
+                f"{row['due'].strftime(DASH_DATE)} |"
+            )
+        hidden = len(due_today) - DUE_LIMIT
+        if hidden > 0:
+            lines.append(f"| _+{hidden} more — `python scripts/revise.py`_ | | |")
+        lines.append("")
+
+    if overdue:
+        lines += [
+            f"### ⚠️ Overdue · {len(overdue)}",
+            "",
+            "| Problem | Due | Overdue |",
+            "|---|---|---:|",
+        ]
+        # Most overdue first — those are the ones actually at risk.
+        for row in sorted(overdue, key=lambda r: -r["overdue_days"])[:OVERDUE_LIMIT]:
+            lines.append(
+                f"| {row['entry']['title']} | {row['due'].strftime(DASH_DATE)} | "
+                f"{days_label(row['overdue_days'])} |"
+            )
+        hidden = len(overdue) - OVERDUE_LIMIT
+        if hidden > 0:
+            lines.append(f"| _+{hidden} more — `python scripts/revise.py`_ | | |")
+        lines.append("")
+
+    if not overdue and not due_today:
+        lines += ["### ✅ Nothing due today", "", "All caught up.", ""]
+
+    if upcoming:
+        by_day = Counter(row["due"] for row in upcoming)
+        days = sorted(by_day)
+
+        lines += ["### ⏳ Upcoming", "", "| Date | Problems |", "|---|---:|"]
+        for day in days[:UPCOMING_DAYS]:
+            lines.append(f"| {day.strftime(DASH_DATE)} | {by_day[day]} |")
+
+        later = days[UPCOMING_DAYS:]
+        if later:
+            beyond = sum(by_day[day] for day in later)
+            lines.append(f"| _later_ | {beyond} |")
+        lines.append("")
+
     lines += [
-        "| Due | Problem | Round | Solution |",
-        "|---|---|---|---|",
+        f"_{rev.human(today)} (IST) · "
+        "mark done: `python scripts/revise.py \"<problem>\"` · "
+        "full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_",
+        "",
+        "<!-- DSA-REVISION:END -->",
+    ]
+    return "\n".join(lines)
+
+
+def build_tracker(rows, today):
+    """The per-problem ✅/⬜ ladder written to 00-progress/revision-tracker.md."""
+    header = " | ".join(f"R{i + 1}" for i in range(rev.ROUNDS))
+
+    lines = [
+        "<!-- DSA-TRACKER:START -->",
+        "",
+        f"_Generated by [`scripts/update_readme.py`](../scripts/update_readme.py) · "
+        f"{rev.human(today)} (IST). Do not hand-edit — "
+        f"use `python scripts/revise.py \"<problem>\"`._",
+        "",
+        "Ladder: **"
+        + " → ".join(str(o) for o in rev.CUMULATIVE_OFFSETS)
+        + " days** after the solve, each gap measured from the revision you "
+        "actually completed. ✅ done · ⬜ next up · ⚠️ next up but overdue · "
+        "· not yet scheduled.",
+        "",
+        f"| Problem | Solved | Done | {header} | Next due |",
+        "|---|---|:---:|" + "---|" * rev.ROUNDS + "---|",
     ]
 
-    for due_on, offset, problem in due[:RECENT_LIMIT]:
-        overdue = due_on < today
-        marker = "⚠️ today" if due_on == today else ("⚠️ overdue" if overdue else due_on.strftime("%d %b"))
-        lines.append(
-            f"| {marker} | {problem.get('Problem', 'Untitled')} | +{offset}d | "
-            f"[code]({problem['path']}) |"
-        )
+    if not rows:
+        lines = lines[:-2] + ["_No problems logged yet._", ""]
+    else:
+        for row in rows:
+            entry = row["entry"]
+            rung = rev.rung_of(entry)
+            done = rev.completed_dates(entry)
+            ahead = rev.projected_dates(entry)
 
-    lines += ["", "<!-- DSA-REVISION:END -->"]
+            cells = []
+            for index in range(rev.ROUNDS):
+                if index < rung and index in done:
+                    cells.append(f"✅ {done[index].strftime('%d %b')}")
+                elif index == rung:
+                    icon = "⚠️" if row["overdue_days"] else "⬜"
+                    cells.append(f"{icon} {ahead[index].strftime('%d %b')}")
+                elif index in ahead:
+                    cells.append(f"· {ahead[index].strftime('%d %b')}")
+                else:
+                    cells.append("✅")
+
+            if row["due"] is None:
+                next_cell = "🎓 graduated"
+            elif row["overdue_days"]:
+                next_cell = f"⚠️ {rev.human(row['due'])} ({row['overdue_days']}d late)"
+            elif row["due"] == today:
+                next_cell = f"🔴 {rev.human(row['due'])} (today)"
+            else:
+                next_cell = rev.human(row["due"])
+
+            lines.append(
+                f"| [{entry['title']}](../{row['metadata']['path']}) | "
+                f"{rev.human(rev.parse_iso(entry.get('solved')))} | "
+                f"{min(rung, rev.ROUNDS)}/{rev.ROUNDS} | "
+                + " | ".join(cells)
+                + f" | {next_cell} |"
+            )
+        lines.append("")
+
+    log = []
+    for row in rows:
+        for record in row["entry"].get("history", []):
+            when = rev.parse_iso(record.get("date"))
+            if when:
+                log.append((when, row["entry"]["title"], record))
+    log.sort(key=lambda item: (item[0], item[1]), reverse=True)
+
+    if log:
+        lines += [
+            "### 📝 Revision log",
+            "",
+            "| Revised on | Problem | Was scheduled | Result | Round |",
+            "|---|---|---|:---:|:---:|",
+        ]
+        for when, title, record in log[:40]:
+            result = record.get("result", "—")
+            icon = rev.RESULT_ICONS.get(result, "⚪")
+            scheduled = rev.human(rev.parse_iso(record.get("scheduled")))
+            rung_from = record.get("rung_from", 0)
+            lines.append(
+                f"| {rev.human(when)} | {title} | {scheduled} | "
+                f"{icon} {result} | R{int(rung_from) + 1} |"
+            )
+        lines.append("")
+
+    lines.append("<!-- DSA-TRACKER:END -->")
     return "\n".join(lines)
 
 
@@ -386,17 +529,25 @@ def replace_section(text, name, replacement):
     return text
 
 
+TRACKER_HEADER = "# 🔁 Revision Tracker\n\n<!-- DSA-TRACKER:START -->\n<!-- DSA-TRACKER:END -->\n"
+
+
 def main():
     check_only = "--check" in sys.argv
-    today = date.today()
+    today = rev.today_india()
 
     problems = collect_problems()
+
+    # Seed schedules for anything newly logged, then read them back.
+    state = rev.load_state()
+    state_changed = rev.sync_state(state, problems)
+    rows = rev.schedule_rows(state, problems, today)
 
     sections = {
         "STATS": build_progress(problems, today),
         "TOPICS": build_topics(problems),
         "RECENT": build_recent(problems),
-        "REVISION": build_revision(problems, today),
+        "REVISION": build_revision(rows, today),
     }
 
     original = README.read_text(encoding="utf-8")
@@ -404,16 +555,31 @@ def main():
     for name, block in sections.items():
         updated = replace_section(updated, name, block)
 
-    if updated == original:
-        print(f"Found {len(problems)} problems. README already up to date.")
+    tracker_original = (
+        TRACKER.read_text(encoding="utf-8") if TRACKER.exists() else TRACKER_HEADER
+    )
+    if "<!-- DSA-TRACKER:START -->" not in tracker_original:
+        tracker_original = TRACKER_HEADER
+    tracker_updated = replace_section(tracker_original, "TRACKER", build_tracker(rows, today))
+
+    stale = updated != original or tracker_updated != tracker_original or state_changed
+
+    if not stale:
+        print(f"Found {len(problems)} problems. Everything already up to date.")
         return 0
 
     if check_only:
-        print("README.md is out of date — run: python scripts/update_readme.py")
+        print("Generated files are out of date — run: python scripts/update_readme.py")
         return 1
 
-    README.write_text(updated, encoding="utf-8")
-    print(f"Found {len(problems)} problems. Updated README.md.")
+    if state_changed:
+        rev.save_state(state)
+    if updated != original:
+        README.write_text(updated, encoding="utf-8")
+    if tracker_updated != tracker_original:
+        TRACKER.write_text(tracker_updated, encoding="utf-8")
+
+    print(f"Found {len(problems)} problems. Updated README.md and revision-tracker.md.")
     return 0
 
 

@@ -82,16 +82,25 @@ _Last updated: 24 Aug 2026_
 
 ---
 
-## 🔁 Revision Due
+## 🔁 Revision Dashboard
 
 <!-- DSA-REVISION:START -->
 
-| Due | Problem | Round | Solution |
-|---|---|---|---|
-| ⚠️ today | Concatenation of Array | +1d | [code](01-arrays/concatenation-of-array.py) |
-| ⚠️ today | Contains Duplicate | +1d | [code](01-arrays/contains-duplicate.py) |
-| ⚠️ today | Valid Anagram | +1d | [code](01-arrays/valid-anagram.py) |
-| 25 Aug | Two Sum | +1d | [code](01-arrays/two-sum.py) |
+### 🔴 Due Today · 3
+
+| Problem | Topic | Revision |
+|---|---|---|
+| Concatenation of Array | Array | 24 Aug |
+| Contains Duplicate | Hashing | 24 Aug |
+| Valid Anagram | Array | 24 Aug |
+
+### ⏳ Upcoming
+
+| Date | Problems |
+|---|---:|
+| 25 Aug | 1 |
+
+_24 Aug 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
 <!-- DSA-REVISION:END -->
 
@@ -138,9 +147,12 @@ Only `.py` files are scanned. A `#` comment block works just as well as a docstr
 Run it locally any time:
 
 ```bash
-python scripts/update_readme.py          # rewrite the README
-python scripts/update_readme.py --check  # exit 1 if the README is stale
+python scripts/update_readme.py          # rewrite the README + revision tracker
+python scripts/update_readme.py --check  # exit 1 if either is stale
 ```
+
+A newly logged problem is picked up automatically and gets its own revision
+schedule — see [Revision](#-revision) below.
 
 ---
 
@@ -173,7 +185,7 @@ git push
 
 ### 📌 Rules of thumb
 
-- Never hand-edit the generated blocks (`DSA-STATS`, `DSA-TOPICS`, `DSA-RECENT`, `DSA-REVISION`) — the bot overwrites them.
+- Never hand-edit the generated blocks (`DSA-STATS`, `DSA-TOPICS`, `DSA-RECENT`, `DSA-REVISION`), `00-progress/revision-tracker.md`, or `00-progress/revision-state.json` — the bot overwrites them.
 - Editing README prose is fine, just `git pull` first.
 - Want to skip the dance? Run `python scripts/update_readme.py` locally and commit the README yourself.
 
@@ -195,11 +207,51 @@ Had to study the solution/editorial before solving.
 
 ### 🔁 Revision
 
-Problems are revised using:
+Every problem gets its **own** schedule, starting the day after I solve it:
 
 **1 → 3 → 7 → 15 → 30 → 60 days**
 
-The goal isn't just to solve problems once, but to retain the patterns and approaches.
+Those are the dates I land on if I never fall behind. Internally the ladder is
+stored as the *gaps between* revisions — `1, 2, 4, 8, 15, 30` days — and each gap
+is measured from the day I **actually** revised, not from the original solve date.
+Recall is what refreshes the memory, so the clock restarts there.
+
+What that means in practice:
+
+- Revise on time → exactly the classic dates above.
+- Revise three days late → the whole remaining ladder just slides forward three days. Nothing piles up in the past, nothing gets skipped.
+- After six clean revisions a problem **graduates** and drops off the schedule.
+
+Progress lives in [`00-progress/revision-state.json`](00-progress/revision-state.json)
+(machine-managed — never hand-edit) and is rendered as a ✅/⬜ ladder in the
+[Revision Tracker](00-progress/revision-tracker.md).
+
+### ✅ Marking a revision done
+
+```bash
+python scripts/revise.py                       # what's due right now
+python scripts/revise.py "Two Sum"             # revised it, remembered it
+python scripts/revise.py two-sum               # partial names work
+python scripts/revise.py --all                 # everything overdue + due today
+```
+
+Optionally record how it went — this changes what happens next:
+
+| Flag | Meaning | Next revision |
+|---|---|---|
+| _(default)_ `-r remembered` | Solved it cleanly | Climb a rung — the next, longer gap |
+| `-r partial` | Needed a nudge | Hold this rung — repeat the same gap |
+| `-r forgot` | Blanked completely | Back to the bottom — see it again tomorrow |
+
+```bash
+python scripts/revise.py "Two Sum" -r forgot
+python scripts/revise.py "Two Sum" --on 2026-08-23   # backfill a past revision
+python scripts/revise.py "Two Sum" --undo            # take back the last entry
+python scripts/revise.py --list                      # every problem + next date
+```
+
+Each run rewrites the README and the tracker, so one command is all it takes
+before committing. I never have to work out a date myself.
 
 ---
 
@@ -219,7 +271,8 @@ daily-dsa/
 │
 ├── 00-progress/
 │   ├── daily-log.md
-│   ├── revision-tracker.md
+│   ├── revision-tracker.md      # generated: the ✅/⬜ ladder
+│   ├── revision-state.json      # generated: machine-managed schedule
 │   ├── mistakes.md
 │   └── weak-topics.md
 │
@@ -242,7 +295,9 @@ daily-dsa/
 ├── contests/
 │
 ├── scripts/
-│   └── update_readme.py
+│   ├── update_readme.py         # regenerates README + tracker
+│   ├── revise.py                # "I revised this problem"
+│   └── revision.py              # spaced-repetition schedule + state
 │
 └── .github/
     └── workflows/

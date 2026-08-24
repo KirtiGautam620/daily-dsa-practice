@@ -6,9 +6,10 @@ on:
       - main
 
   # Refresh daily so streaks and revision-due dates stay accurate
-  # even on days without a push.
+  # even on days without a push. 22:30 UTC = 04:00 IST, so the rollover
+  # happens overnight in India.
   schedule:
-    - cron: "30 2 * * *"
+    - cron: "30 22 * * *"
 
   workflow_dispatch:
 
@@ -33,17 +34,21 @@ jobs:
           python-version: "3.x"
 
       - name: Update README
+        # Dates are computed in Asia/Kolkata by the script itself, but keeping
+        # the runner on IST too makes any log output easier to read.
+        env:
+          TZ: Asia/Kolkata
         run: python scripts/update_readme.py
 
-      - name: Commit README changes
+      - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add README.md
+          git add README.md 00-progress/revision-tracker.md 00-progress/revision-state.json
 
           if git diff --cached --quiet; then
-            echo "No README changes."
+            echo "No changes."
           else
             git commit -m "chore: update DSA progress [skip ci]"
             git push
