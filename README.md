@@ -86,11 +86,10 @@ _Last updated: 24 Aug 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 2
+### 🔴 Due Today · 1
 
 | Problem | Topic | Revision |
 |---|---|---|
-| Contains Duplicate | Hashing | 24 Aug |
 | Valid Anagram | Array | 24 Aug |
 
 ### ⏳ Upcoming
@@ -98,7 +97,7 @@ _Last updated: 24 Aug 2026_
 | Date | Problems |
 |---|---:|
 | 25 Aug | 1 |
-| 26 Aug | 1 |
+| 26 Aug | 2 |
 
 _24 Aug 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
@@ -187,7 +186,7 @@ git push
 
 - Never hand-edit the generated blocks (`DSA-STATS`, `DSA-TOPICS`, `DSA-RECENT`, `DSA-REVISION`), `00-progress/revision-tracker.md`, or `00-progress/revision-state.json` — the bot overwrites them.
 - Editing README prose is fine, just `git pull` first.
-- Want to skip the dance? Run `python scripts/update_readme.py` locally and commit the README yourself.
+- Want to skip the dance? Run `python3 scripts/update_readme.py` locally and commit the README yourself.
 
 ---
 
@@ -229,10 +228,10 @@ Progress lives in [`00-progress/revision-state.json`](00-progress/revision-state
 ### ✅ Marking a revision done
 
 ```bash
-python scripts/revise.py                       # what's due right now
-python scripts/revise.py "Two Sum"             # revised it, remembered it
-python scripts/revise.py two-sum               # partial names work
-python scripts/revise.py --all                 # everything overdue + due today
+python3 scripts/revise.py                       # what's due right now
+python3 scripts/revise.py "Two Sum"             # revised it, remembered it
+python3 scripts/revise.py two-sum               # partial names work
+python3 scripts/revise.py --all                 # everything overdue + due today
 ```
 
 Optionally record how it went — this changes what happens next:
@@ -244,10 +243,10 @@ Optionally record how it went — this changes what happens next:
 | `-r forgot` | Blanked completely | Back to the bottom — see it again tomorrow |
 
 ```bash
-python scripts/revise.py "Two Sum" -r forgot
-python scripts/revise.py "Two Sum" --on 2026-08-23   # backfill a past revision
-python scripts/revise.py "Two Sum" --undo            # take back the last entry
-python scripts/revise.py --list                      # every problem + next date
+python3 scripts/revise.py "Two Sum" -r forgot
+python3 scripts/revise.py "Two Sum" --on 2026-08-23   # backfill a past revision
+python3 scripts/revise.py "Two Sum" --undo            # take back the last entry
+python3 scripts/revise.py --list                      # every problem + next date
 ```
 
 Each run rewrites the README and the tracker, so one command is all it takes
