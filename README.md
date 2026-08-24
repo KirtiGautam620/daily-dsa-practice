@@ -86,18 +86,16 @@ _Last updated: 24 Aug 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 1
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Valid Anagram | Array | 24 Aug |
+All caught up.
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
 | 25 Aug | 1 |
-| 26 Aug | 2 |
+| 26 Aug | 3 |
 
 _24 Aug 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
