@@ -5,9 +5,18 @@
       "title": "Concatenation of Array",
       "path": "01-arrays/concatenation-of-array.py",
       "solved": "2026-08-23",
-      "rung": 0,
-      "anchor": "2026-08-23",
-      "history": []
+      "rung": 1,
+      "anchor": "2026-08-24",
+      "history": [
+        {
+          "date": "2026-08-24",
+          "scheduled": "2026-08-24",
+          "result": "remembered",
+          "rung_from": 0,
+          "rung_to": 1,
+          "anchor_from": "2026-08-23"
+        }
+      ]
     },
     "contains-duplicate": {
       "title": "Contains Duplicate",

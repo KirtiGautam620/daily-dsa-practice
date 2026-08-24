@@ -86,11 +86,10 @@ _Last updated: 24 Aug 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 3
+### 🔴 Due Today · 2
 
 | Problem | Topic | Revision |
 |---|---|---|
-| Concatenation of Array | Array | 24 Aug |
 | Contains Duplicate | Hashing | 24 Aug |
 | Valid Anagram | Array | 24 Aug |
 
@@ -99,6 +98,7 @@ _Last updated: 24 Aug 2026_
 | Date | Problems |
 |---|---:|
 | 25 Aug | 1 |
+| 26 Aug | 1 |
 
 _24 Aug 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
