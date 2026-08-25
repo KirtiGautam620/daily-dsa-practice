@@ -39,9 +39,18 @@
       "title": "Two Sum",
       "path": "01-arrays/two-sum.py",
       "solved": "2026-08-24",
-      "rung": 0,
-      "anchor": "2026-08-24",
-      "history": []
+      "rung": 1,
+      "anchor": "2026-08-25",
+      "history": [
+        {
+          "date": "2026-08-25",
+          "scheduled": "2026-08-25",
+          "result": "remembered",
+          "rung_from": 0,
+          "rung_to": 1,
+          "anchor_from": "2026-08-24"
+        }
+      ]
     },
     "valid-anagram": {
       "title": "Valid Anagram",

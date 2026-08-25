@@ -8,15 +8,16 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Problem | Solved | Done | R1 | R2 | R3 | R4 | R5 | R6 | Next due |
 |---|---|:---:|---|---|---|---|---|---|---|
-| [Two Sum](../01-arrays/two-sum.py) | 24 Aug 2026 | 0/6 | ⬜ 25 Aug | · 27 Aug | · 31 Aug | · 08 Sep | · 23 Sep | · 23 Oct | 🔴 25 Aug 2026 (today) |
 | [Concatenation of Array](../01-arrays/concatenation-of-array.py) | 23 Aug 2026 | 1/6 | ✅ 24 Aug | ⬜ 26 Aug | · 30 Aug | · 07 Sep | · 22 Sep | · 22 Oct | 26 Aug 2026 |
 | [Contains Duplicate](../01-arrays/contains-duplicate.py) | 23 Aug 2026 | 1/6 | ✅ 24 Aug | ⬜ 26 Aug | · 30 Aug | · 07 Sep | · 22 Sep | · 22 Oct | 26 Aug 2026 |
 | [Valid Anagram](../01-arrays/valid-anagram.py) | 23 Aug 2026 | 1/6 | ✅ 24 Aug | ⬜ 26 Aug | · 30 Aug | · 07 Sep | · 22 Sep | · 22 Oct | 26 Aug 2026 |
+| [Two Sum](../01-arrays/two-sum.py) | 24 Aug 2026 | 1/6 | ✅ 25 Aug | ⬜ 27 Aug | · 31 Aug | · 08 Sep | · 23 Sep | · 23 Oct | 27 Aug 2026 |
 
 ### 📝 Revision log
 
 | Revised on | Problem | Was scheduled | Result | Round |
 |---|---|---|:---:|:---:|
+| 25 Aug 2026 | Two Sum | 25 Aug 2026 | ✅ remembered | R1 |
 | 24 Aug 2026 | Valid Anagram | 24 Aug 2026 | ✅ remembered | R1 |
 | 24 Aug 2026 | Contains Duplicate | 24 Aug 2026 | ✅ remembered | R1 |
 | 24 Aug 2026 | Concatenation of Array | 24 Aug 2026 | ✅ remembered | R1 |
