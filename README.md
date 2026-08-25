@@ -9,7 +9,7 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 ## 🎯 Targets
 
 - 📚 [NeetCode 250](https://neetcode.io/)
-- 📚 TUF / Striver
+- 📚 [TUF](https://takeuforward.org/dsa/strivers-sde-sheet-top-coding-interview-problems)
 - 💻 [LeetCode](https://leetcode.com/)
 - 🏆 Competitive Programming
 
