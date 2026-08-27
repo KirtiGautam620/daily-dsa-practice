@@ -51,6 +51,14 @@
         }
       ]
     },
+    "longest-common-prefix": {
+      "title": "Longest Common Prefix",
+      "path": "01-arrays/longest-common-prefix.py",
+      "solved": "2026-08-27",
+      "rung": 0,
+      "anchor": "2026-08-27",
+      "history": []
+    },
     "two-sum": {
       "title": "Two Sum",
       "path": "01-arrays/two-sum.py",

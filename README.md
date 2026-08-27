@@ -19,19 +19,19 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 
 <!-- DSA-STATS:START -->
 
-**4** problems solved across **2** active days · 🔥 **0-day streak** (best: 2) · started 23 Aug 2026
+**5** problems solved across **3** active days · 🔥 **1-day streak** (best: 2) · started 23 Aug 2026
 
 | Difficulty | Solved | Share | |
 |---|---:|---:|---|
-| 🟩 Easy | 4 | 100% | `██████████` |
+| 🟩 Easy | 5 | 100% | `██████████` |
 | 🟨 Medium | 0 | 0% | `░░░░░░░░░░` |
 | 🟥 Hard | 0 | 0% | `░░░░░░░░░░` |
-| **Total** | **4** | | |
+| **Total** | **5** | | |
 
 | How it was solved | Count | Share |
 |---|---:|---:|
-| 🟢 Independent | 4 | 100% |
-| 🟡 Hint | 0 | 0% |
+| 🟢 Independent | 4 | 80% |
+| 🟡 Hint | 1 | 20% |
 | 🔴 Solution | 0 | 0% |
 
 _Last updated: 27 Aug 2026_
@@ -46,7 +46,7 @@ _Last updated: 27 Aug 2026_
 
 | Topic | Solved | Easy | Med | Hard | Last solved | Status |
 |---|---:|---:|---:|---:|---|---|
-| [Arrays](01-arrays/) | 4 | 4 | 0 | 0 | 24 Aug | 🟡 In progress |
+| [Arrays](01-arrays/) | 5 | 5 | 0 | 0 | 27 Aug | 🟢 Comfortable |
 | Strings | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Hashing | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Two Pointers | 0 | 0 | 0 | 0 | — | 🔴 Not started |
@@ -73,6 +73,7 @@ _Last updated: 27 Aug 2026_
 
 | Date | Problem | Difficulty | Pattern | Result | Solution |
 |---|---|---|---|:---:|---|
+| 27 Aug | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array | 🟡 | [code](01-arrays/longest-common-prefix.py) |
 | 24 Aug | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | 🟢 | [code](01-arrays/two-sum.py) |
 | 23 Aug | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Array | 🟢 | [code](01-arrays/valid-anagram.py) |
 | 23 Aug | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Hashing | 🟢 | [code](01-arrays/contains-duplicate.py) |
@@ -94,6 +95,7 @@ All caught up.
 
 | Date | Problems |
 |---|---:|
+| 28 Aug | 1 |
 | 30 Aug | 3 |
 | 31 Aug | 1 |
 
