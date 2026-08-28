@@ -55,9 +55,18 @@
       "title": "Longest Common Prefix",
       "path": "01-arrays/longest-common-prefix.py",
       "solved": "2026-08-27",
-      "rung": 0,
-      "anchor": "2026-08-27",
-      "history": []
+      "rung": 1,
+      "anchor": "2026-08-28",
+      "history": [
+        {
+          "date": "2026-08-28",
+          "scheduled": "2026-08-28",
+          "result": "remembered",
+          "rung_from": 0,
+          "rung_to": 1,
+          "anchor_from": "2026-08-27"
+        }
+      ]
     },
     "two-sum": {
       "title": "Two Sum",
