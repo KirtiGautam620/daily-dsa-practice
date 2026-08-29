@@ -1,5 +1,5 @@
 '''
-Problem: Two Sum
+Problem: Maximum Consecutive Ones
 LeetCode: #485
 Difficulty: Easy
 Pattern: Array
