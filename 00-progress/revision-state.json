@@ -68,6 +68,14 @@
         }
       ]
     },
+    "maximum-consecutive-ones": {
+      "title": "Maximum Consecutive Ones",
+      "path": "01-arrays/max-consecutive-ones.py",
+      "solved": "2026-08-29",
+      "rung": 0,
+      "anchor": "2026-08-29",
+      "history": []
+    },
     "remove-duplicates-from-sorted-array": {
       "title": "Remove duplicates from sorted array",
       "path": "01-arrays/remove-duplicates.py",
