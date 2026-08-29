@@ -8,6 +8,7 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Problem | Solved | Done | R1 | R2 | R3 | R4 | R5 | R6 | Next due |
 |---|---|:---:|---|---|---|---|---|---|---|
+| [Remove duplicates from sorted array](../01-arrays/remove-duplicates.py) | 27 Aug 2026 | 0/6 | ⚠️ 28 Aug | · 30 Aug | · 03 Sep | · 11 Sep | · 26 Sep | · 26 Oct | ⚠️ 28 Aug 2026 (1d late) |
 | [Concatenation of Array](../01-arrays/concatenation-of-array.py) | 23 Aug 2026 | 2/6 | ✅ 24 Aug | ✅ 26 Aug | ⬜ 30 Aug | · 07 Sep | · 22 Sep | · 22 Oct | 30 Aug 2026 |
 | [Contains Duplicate](../01-arrays/contains-duplicate.py) | 23 Aug 2026 | 2/6 | ✅ 24 Aug | ✅ 26 Aug | ⬜ 30 Aug | · 07 Sep | · 22 Sep | · 22 Oct | 30 Aug 2026 |
 | [Longest Common Prefix](../01-arrays/longest-common-prefix.py) | 27 Aug 2026 | 1/6 | ✅ 28 Aug | ⬜ 30 Aug | · 03 Sep | · 11 Sep | · 26 Sep | · 26 Oct | 30 Aug 2026 |

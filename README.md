@@ -19,19 +19,19 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 
 <!-- DSA-STATS:START -->
 
-**5** problems solved across **3** active days · 🔥 **0-day streak** (best: 2) · started 23 Aug 2026
+**6** problems solved across **3** active days · 🔥 **0-day streak** (best: 2) · started 23 Aug 2026
 
 | Difficulty | Solved | Share | |
 |---|---:|---:|---|
-| 🟩 Easy | 5 | 100% | `██████████` |
+| 🟩 Easy | 6 | 100% | `██████████` |
 | 🟨 Medium | 0 | 0% | `░░░░░░░░░░` |
 | 🟥 Hard | 0 | 0% | `░░░░░░░░░░` |
-| **Total** | **5** | | |
+| **Total** | **6** | | |
 
 | How it was solved | Count | Share |
 |---|---:|---:|
-| 🟢 Independent | 4 | 80% |
-| 🟡 Hint | 1 | 20% |
+| 🟢 Independent | 5 | 83% |
+| 🟡 Hint | 1 | 17% |
 | 🔴 Solution | 0 | 0% |
 
 _Last updated: 29 Aug 2026_
@@ -46,7 +46,7 @@ _Last updated: 29 Aug 2026_
 
 | Topic | Solved | Easy | Med | Hard | Last solved | Status |
 |---|---:|---:|---:|---:|---|---|
-| [Arrays](01-arrays/) | 5 | 5 | 0 | 0 | 27 Aug | 🟢 Comfortable |
+| [Arrays](01-arrays/) | 6 | 6 | 0 | 0 | 27 Aug | 🟢 Comfortable |
 | Strings | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Hashing | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Two Pointers | 0 | 0 | 0 | 0 | — | 🔴 Not started |
@@ -73,6 +73,7 @@ _Last updated: 29 Aug 2026_
 
 | Date | Problem | Difficulty | Pattern | Result | Solution |
 |---|---|---|---|:---:|---|
+| 27 Aug | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Array | 🟢 | [code](01-arrays/remove-duplicates.py) |
 | 27 Aug | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array | 🟡 | [code](01-arrays/longest-common-prefix.py) |
 | 24 Aug | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | 🟢 | [code](01-arrays/two-sum.py) |
 | 23 Aug | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Array | 🟢 | [code](01-arrays/valid-anagram.py) |
@@ -87,9 +88,11 @@ _Last updated: 29 Aug 2026_
 
 <!-- DSA-REVISION:START -->
 
-### ✅ Nothing due today
+### ⚠️ Overdue · 1
 
-All caught up.
+| Problem | Due | Overdue |
+|---|---|---:|
+| Remove duplicates from sorted array | 28 Aug | 1 day |
 
 ### ⏳ Upcoming
 
