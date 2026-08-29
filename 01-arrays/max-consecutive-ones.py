@@ -1,5 +1,5 @@
 '''
-Problem: Maximum Consecutive Ones
+Problem: Max Consecutive Ones
 LeetCode: #485
 Difficulty: Easy
 Pattern: Array
