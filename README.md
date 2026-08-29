@@ -73,7 +73,7 @@ _Last updated: 29 Aug 2026_
 
 | Date | Problem | Difficulty | Pattern | Result | Solution |
 |---|---|---|---|:---:|---|
-| 29 Aug | [Maximum Consecutive Ones](https://leetcode.com/problems/maximum-consecutive-ones/) | Easy | Array | 🟢 | [code](01-arrays/max-consecutive-ones.py) |
+| 29 Aug | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | Array | 🟢 | [code](01-arrays/max-consecutive-ones.py) |
 | 27 Aug | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array | 🟡 | [code](01-arrays/longest-common-prefix.py) |
 | 24 Aug | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | 🟢 | [code](01-arrays/two-sum.py) |
 | 23 Aug | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Array | 🟢 | [code](01-arrays/valid-anagram.py) |
