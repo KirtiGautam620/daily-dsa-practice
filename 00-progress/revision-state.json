@@ -101,6 +101,14 @@
         }
       ]
     },
+    "two-sum--01-arrays": {
+      "title": "Two Sum",
+      "path": "01-arrays/max-consecutive-ones.py",
+      "solved": "2026-08-29",
+      "rung": 0,
+      "anchor": "2026-08-29",
+      "history": []
+    },
     "valid-anagram": {
       "title": "Valid Anagram",
       "path": "01-arrays/valid-anagram.py",
