@@ -88,21 +88,19 @@ _Last updated: 30 Aug 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 5
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Concatenation of Array | Array | 30 Aug |
-| Contains Duplicate | Hashing | 30 Aug |
-| Longest Common Prefix | Array | 30 Aug |
-| Max Consecutive Ones | Array | 30 Aug |
-| Valid Anagram | Array | 30 Aug |
+All caught up.
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
 | 31 Aug | 1 |
+| 01 Sep | 1 |
+| 03 Sep | 1 |
+| 07 Sep | 2 |
+| 14 Sep | 1 |
 
 _30 Aug 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
