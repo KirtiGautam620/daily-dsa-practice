@@ -137,8 +137,8 @@
       "title": "Two Sum",
       "path": "01-arrays/two-sum.py",
       "solved": "2026-08-24",
-      "rung": 2,
-      "anchor": "2026-08-27",
+      "rung": 3,
+      "anchor": "2026-08-31",
       "history": [
         {
           "date": "2026-08-25",
@@ -155,6 +155,14 @@
           "rung_from": 1,
           "rung_to": 2,
           "anchor_from": "2026-08-25"
+        },
+        {
+          "date": "2026-08-31",
+          "scheduled": "2026-08-31",
+          "result": "remembered",
+          "rung_from": 2,
+          "rung_to": 3,
+          "anchor_from": "2026-08-27"
         }
       ]
     },

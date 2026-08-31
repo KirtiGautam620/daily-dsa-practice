@@ -88,11 +88,9 @@ _Last updated: 31 Aug 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 1
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Two Sum | Array | 31 Aug |
+All caught up.
 
 ### ⏳ Upcoming
 
@@ -101,6 +99,7 @@ _Last updated: 31 Aug 2026_
 | 01 Sep | 1 |
 | 03 Sep | 1 |
 | 07 Sep | 2 |
+| 08 Sep | 1 |
 | 14 Sep | 1 |
 
 _31 Aug 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
