@@ -88,17 +88,16 @@ _Last updated: 01 Sep 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 1
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Max Consecutive Ones | Array | 01 Sep |
+All caught up.
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
 | 03 Sep | 1 |
+| 05 Sep | 1 |
 | 07 Sep | 2 |
 | 08 Sep | 1 |
 | 14 Sep | 1 |

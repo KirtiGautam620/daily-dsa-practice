@@ -8,8 +8,8 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Problem | Solved | Done | R1 | R2 | R3 | R4 | R5 | R6 | Next due |
 |---|---|:---:|---|---|---|---|---|---|---|
-| [Max Consecutive Ones](../01-arrays/max-consecutive-ones.py) | 29 Aug 2026 | 1/6 | ✅ 30 Aug | ⬜ 01 Sep | · 05 Sep | · 13 Sep | · 28 Sep | · 28 Oct | 🔴 01 Sep 2026 (today) |
 | [Longest Common Prefix](../01-arrays/longest-common-prefix.py) | 27 Aug 2026 | 2/6 | ✅ 28 Aug | ✅ 30 Aug | ⬜ 03 Sep | · 11 Sep | · 26 Sep | · 26 Oct | 03 Sep 2026 |
+| [Max Consecutive Ones](../01-arrays/max-consecutive-ones.py) | 29 Aug 2026 | 2/6 | ✅ 30 Aug | ✅ 01 Sep | ⬜ 05 Sep | · 13 Sep | · 28 Sep | · 28 Oct | 05 Sep 2026 |
 | [Concatenation of Array](../01-arrays/concatenation-of-array.py) | 23 Aug 2026 | 3/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ⬜ 07 Sep | · 22 Sep | · 22 Oct | 07 Sep 2026 |
 | [Valid Anagram](../01-arrays/valid-anagram.py) | 23 Aug 2026 | 3/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ⬜ 07 Sep | · 22 Sep | · 22 Oct | 07 Sep 2026 |
 | [Two Sum](../01-arrays/two-sum.py) | 24 Aug 2026 | 3/6 | ✅ 25 Aug | ✅ 27 Aug | ✅ 31 Aug | ⬜ 08 Sep | · 23 Sep | · 23 Oct | 08 Sep 2026 |
@@ -19,6 +19,7 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Revised on | Problem | Was scheduled | Result | Round |
 |---|---|---|:---:|:---:|
+| 01 Sep 2026 | Max Consecutive Ones | 01 Sep 2026 | ✅ remembered | R2 |
 | 31 Aug 2026 | Two Sum | 31 Aug 2026 | ✅ remembered | R3 |
 | 30 Aug 2026 | Valid Anagram | 30 Aug 2026 | ✅ remembered | R3 |
 | 30 Aug 2026 | Max Consecutive Ones | 30 Aug 2026 | ✅ remembered | R1 |
