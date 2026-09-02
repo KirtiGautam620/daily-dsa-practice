@@ -75,6 +75,14 @@
         }
       ]
     },
+    "group-anagrams": {
+      "title": "Group Anagrams",
+      "path": "01-arrays/group_anagram.py",
+      "solved": "2026-09-02",
+      "rung": 0,
+      "anchor": "2026-09-02",
+      "history": []
+    },
     "longest-common-prefix": {
       "title": "Longest Common Prefix",
       "path": "01-arrays/longest-common-prefix.py",
