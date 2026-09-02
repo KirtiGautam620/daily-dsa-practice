@@ -108,6 +108,14 @@
         }
       ]
     },
+    "majority-element": {
+      "title": "Majority Element",
+      "path": "01-arrays/majority_element.py",
+      "solved": "2026-09-02",
+      "rung": 0,
+      "anchor": "2026-09-02",
+      "history": []
+    },
     "max-consecutive-ones": {
       "title": "Max Consecutive Ones",
       "path": "01-arrays/max-consecutive-ones.py",

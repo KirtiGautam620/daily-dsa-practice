@@ -19,19 +19,19 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 
 <!-- DSA-STATS:START -->
 
-**7** problems solved across **5** active days · 🔥 **1-day streak** (best: 2) · started 23 Aug 2026
+**8** problems solved across **5** active days · 🔥 **1-day streak** (best: 2) · started 23 Aug 2026
 
 | Difficulty | Solved | Share | |
 |---|---:|---:|---|
-| 🟩 Easy | 6 | 86% | `█████████░` |
-| 🟨 Medium | 1 | 14% | `█░░░░░░░░░` |
+| 🟩 Easy | 7 | 88% | `█████████░` |
+| 🟨 Medium | 1 | 12% | `█░░░░░░░░░` |
 | 🟥 Hard | 0 | 0% | `░░░░░░░░░░` |
-| **Total** | **7** | | |
+| **Total** | **8** | | |
 
 | How it was solved | Count | Share |
 |---|---:|---:|
-| 🟢 Independent | 5 | 71% |
-| 🟡 Hint | 2 | 29% |
+| 🟢 Independent | 6 | 75% |
+| 🟡 Hint | 2 | 25% |
 | 🔴 Solution | 0 | 0% |
 
 _Last updated: 02 Sep 2026_
@@ -46,7 +46,7 @@ _Last updated: 02 Sep 2026_
 
 | Topic | Solved | Easy | Med | Hard | Last solved | Status |
 |---|---:|---:|---:|---:|---|---|
-| [Arrays](01-arrays/) | 7 | 6 | 1 | 0 | 02 Sep | 🟢 Comfortable |
+| [Arrays](01-arrays/) | 8 | 7 | 1 | 0 | 02 Sep | 🟢 Comfortable |
 | Strings | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Hashing | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Two Pointers | 0 | 0 | 0 | 0 | — | 🔴 Not started |
@@ -73,6 +73,7 @@ _Last updated: 02 Sep 2026_
 
 | Date | Problem | Difficulty | Pattern | Result | Solution |
 |---|---|---|---|:---:|---|
+| 02 Sep | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Array | 🟢 | [code](01-arrays/majority_element.py) |
 | 02 Sep | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Array | 🟡 | [code](01-arrays/group_anagram.py) |
 | 29 Aug | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | Array | 🟢 | [code](01-arrays/max-consecutive-ones.py) |
 | 27 Aug | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array | 🟡 | [code](01-arrays/longest-common-prefix.py) |
@@ -97,7 +98,7 @@ All caught up.
 
 | Date | Problems |
 |---|---:|
-| 03 Sep | 2 |
+| 03 Sep | 3 |
 | 05 Sep | 1 |
 | 07 Sep | 2 |
 | 08 Sep | 1 |
