@@ -79,9 +79,18 @@
       "title": "Group Anagrams",
       "path": "01-arrays/group_anagram.py",
       "solved": "2026-09-02",
-      "rung": 0,
-      "anchor": "2026-09-02",
-      "history": []
+      "rung": 1,
+      "anchor": "2026-09-03",
+      "history": [
+        {
+          "date": "2026-09-03",
+          "scheduled": "2026-09-03",
+          "result": "remembered",
+          "rung_from": 0,
+          "rung_to": 1,
+          "anchor_from": "2026-09-02"
+        }
+      ]
     },
     "longest-common-prefix": {
       "title": "Longest Common Prefix",

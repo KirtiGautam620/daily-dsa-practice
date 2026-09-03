@@ -90,11 +90,10 @@ _Last updated: 03 Sep 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 3
+### 🔴 Due Today · 2
 
 | Problem | Topic | Revision |
 |---|---|---|
-| Group Anagrams | Array | 03 Sep |
 | Longest Common Prefix | Array | 03 Sep |
 | Majority Element | Array | 03 Sep |
 
@@ -102,7 +101,7 @@ _Last updated: 03 Sep 2026_
 
 | Date | Problems |
 |---|---:|
-| 05 Sep | 1 |
+| 05 Sep | 2 |
 | 07 Sep | 2 |
 | 08 Sep | 1 |
 | 14 Sep | 1 |
