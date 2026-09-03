@@ -96,8 +96,8 @@
       "title": "Longest Common Prefix",
       "path": "01-arrays/longest-common-prefix.py",
       "solved": "2026-08-27",
-      "rung": 2,
-      "anchor": "2026-08-30",
+      "rung": 3,
+      "anchor": "2026-09-03",
       "history": [
         {
           "date": "2026-08-28",
@@ -114,6 +114,14 @@
           "rung_from": 1,
           "rung_to": 2,
           "anchor_from": "2026-08-28"
+        },
+        {
+          "date": "2026-09-03",
+          "scheduled": "2026-09-03",
+          "result": "remembered",
+          "rung_from": 2,
+          "rung_to": 3,
+          "anchor_from": "2026-08-30"
         }
       ]
     },
