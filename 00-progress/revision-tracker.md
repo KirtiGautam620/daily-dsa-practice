@@ -8,8 +8,8 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Problem | Solved | Done | R1 | R2 | R3 | R4 | R5 | R6 | Next due |
 |---|---|:---:|---|---|---|---|---|---|---|
-| [Majority Element](../01-arrays/majority_element.py) | 02 Sep 2026 | 0/6 | ⬜ 03 Sep | · 05 Sep | · 09 Sep | · 17 Sep | · 02 Oct | · 01 Nov | 🔴 03 Sep 2026 (today) |
 | [Group Anagrams](../01-arrays/group_anagram.py) | 02 Sep 2026 | 1/6 | ✅ 03 Sep | ⬜ 05 Sep | · 09 Sep | · 17 Sep | · 02 Oct | · 01 Nov | 05 Sep 2026 |
+| [Majority Element](../01-arrays/majority_element.py) | 02 Sep 2026 | 1/6 | ✅ 03 Sep | ⬜ 05 Sep | · 09 Sep | · 17 Sep | · 02 Oct | · 01 Nov | 05 Sep 2026 |
 | [Max Consecutive Ones](../01-arrays/max-consecutive-ones.py) | 29 Aug 2026 | 2/6 | ✅ 30 Aug | ✅ 01 Sep | ⬜ 05 Sep | · 13 Sep | · 28 Sep | · 28 Oct | 05 Sep 2026 |
 | [Concatenation of Array](../01-arrays/concatenation-of-array.py) | 23 Aug 2026 | 3/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ⬜ 07 Sep | · 22 Sep | · 22 Oct | 07 Sep 2026 |
 | [Valid Anagram](../01-arrays/valid-anagram.py) | 23 Aug 2026 | 3/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ⬜ 07 Sep | · 22 Sep | · 22 Oct | 07 Sep 2026 |
@@ -21,6 +21,7 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Revised on | Problem | Was scheduled | Result | Round |
 |---|---|---|:---:|:---:|
+| 03 Sep 2026 | Majority Element | 03 Sep 2026 | ✅ remembered | R1 |
 | 03 Sep 2026 | Longest Common Prefix | 03 Sep 2026 | ✅ remembered | R3 |
 | 03 Sep 2026 | Group Anagrams | 03 Sep 2026 | ✅ remembered | R1 |
 | 01 Sep 2026 | Max Consecutive Ones | 01 Sep 2026 | ✅ remembered | R2 |

@@ -90,17 +90,15 @@ _Last updated: 03 Sep 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 1
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Majority Element | Array | 03 Sep |
+All caught up.
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
-| 05 Sep | 2 |
+| 05 Sep | 3 |
 | 07 Sep | 2 |
 | 08 Sep | 1 |
 | 11 Sep | 1 |
