@@ -183,6 +183,14 @@
       "anchor": "2026-08-27",
       "history": []
     },
+    "sort-colors": {
+      "title": "Sort Colors",
+      "path": "01-arrays/sort_colors.py",
+      "solved": "2026-09-04",
+      "rung": 0,
+      "anchor": "2026-09-04",
+      "history": []
+    },
     "two-sum": {
       "title": "Two Sum",
       "path": "01-arrays/two-sum.py",
