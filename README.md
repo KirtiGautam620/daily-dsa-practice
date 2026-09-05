@@ -91,11 +91,10 @@ _Last updated: 05 Sep 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 4
+### 🔴 Due Today · 3
 
 | Problem | Topic | Revision |
 |---|---|---|
-| Group Anagrams | Array | 05 Sep |
 | Majority Element | Array | 05 Sep |
 | Max Consecutive Ones | Array | 05 Sep |
 | Sort Colors | Array | 05 Sep |
@@ -106,6 +105,7 @@ _Last updated: 05 Sep 2026_
 |---|---:|
 | 07 Sep | 2 |
 | 08 Sep | 1 |
+| 09 Sep | 1 |
 | 11 Sep | 1 |
 | 14 Sep | 1 |
 
