@@ -224,6 +224,14 @@
         }
       ]
     },
+    "top-k-frequent-elements": {
+      "title": "Top K Frequent Elements",
+      "path": "01-arrays/top-k-frequent-elements.py",
+      "solved": "2026-09-06",
+      "rung": 0,
+      "anchor": "2026-09-06",
+      "history": []
+    },
     "two-sum": {
       "title": "Two Sum",
       "path": "01-arrays/two-sum.py",

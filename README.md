@@ -19,19 +19,19 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 
 <!-- DSA-STATS:START -->
 
-**9** problems solved across **6** active days · 🔥 **0-day streak** (best: 2) · started 23 Aug 2026
+**10** problems solved across **7** active days · 🔥 **1-day streak** (best: 2) · started 23 Aug 2026
 
 | Difficulty | Solved | Share | |
 |---|---:|---:|---|
-| 🟩 Easy | 7 | 78% | `████████░░` |
-| 🟨 Medium | 2 | 22% | `██░░░░░░░░` |
+| 🟩 Easy | 7 | 70% | `███████░░░` |
+| 🟨 Medium | 3 | 30% | `███░░░░░░░` |
 | 🟥 Hard | 0 | 0% | `░░░░░░░░░░` |
-| **Total** | **9** | | |
+| **Total** | **10** | | |
 
 | How it was solved | Count | Share |
 |---|---:|---:|
-| 🟢 Independent | 7 | 78% |
-| 🟡 Hint | 2 | 22% |
+| 🟢 Independent | 8 | 80% |
+| 🟡 Hint | 2 | 20% |
 | 🔴 Solution | 0 | 0% |
 
 _Last updated: 06 Sep 2026_
@@ -46,7 +46,7 @@ _Last updated: 06 Sep 2026_
 
 | Topic | Solved | Easy | Med | Hard | Last solved | Status |
 |---|---:|---:|---:|---:|---|---|
-| [Arrays](01-arrays/) | 9 | 7 | 2 | 0 | 04 Sep | 🟢 Comfortable |
+| [Arrays](01-arrays/) | 10 | 7 | 3 | 0 | 06 Sep | 🟢 Comfortable |
 | Strings | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Hashing | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Two Pointers | 0 | 0 | 0 | 0 | — | 🔴 Not started |
@@ -73,6 +73,7 @@ _Last updated: 06 Sep 2026_
 
 | Date | Problem | Difficulty | Pattern | Result | Solution |
 |---|---|---|---|:---:|---|
+| 06 Sep | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array | 🟢 | [code](01-arrays/top-k-frequent-elements.py) |
 | 04 Sep | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Array | 🟢 | [code](01-arrays/sort_colors.py) |
 | 02 Sep | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Array | 🟢 | [code](01-arrays/majority_element.py) |
 | 02 Sep | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Array | 🟡 | [code](01-arrays/group_anagram.py) |
@@ -99,7 +100,7 @@ All caught up.
 
 | Date | Problems |
 |---|---:|
-| 07 Sep | 3 |
+| 07 Sep | 4 |
 | 08 Sep | 1 |
 | 09 Sep | 2 |
 | 11 Sep | 1 |
