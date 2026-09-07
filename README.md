@@ -92,11 +92,10 @@ _Last updated: 07 Sep 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 2
+### 🔴 Due Today · 1
 
 | Problem | Topic | Revision |
 |---|---|---|
-| Top K Frequent Elements | Array | 07 Sep |
 | Valid Anagram | Array | 07 Sep |
 
 ### ⏳ Upcoming
@@ -104,7 +103,7 @@ _Last updated: 07 Sep 2026_
 | Date | Problems |
 |---|---:|
 | 08 Sep | 1 |
-| 09 Sep | 2 |
+| 09 Sep | 3 |
 | 11 Sep | 2 |
 | 13 Sep | 1 |
 | 14 Sep | 1 |
