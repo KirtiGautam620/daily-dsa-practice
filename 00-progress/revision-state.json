@@ -302,8 +302,8 @@
       "title": "Valid Anagram",
       "path": "01-arrays/valid-anagram.py",
       "solved": "2026-08-23",
-      "rung": 3,
-      "anchor": "2026-08-30",
+      "rung": 4,
+      "anchor": "2026-09-07",
       "history": [
         {
           "date": "2026-08-24",
@@ -328,6 +328,14 @@
           "rung_from": 2,
           "rung_to": 3,
           "anchor_from": "2026-08-26"
+        },
+        {
+          "date": "2026-09-07",
+          "scheduled": "2026-09-07",
+          "result": "remembered",
+          "rung_from": 3,
+          "rung_to": 4,
+          "anchor_from": "2026-08-30"
         }
       ]
     }
