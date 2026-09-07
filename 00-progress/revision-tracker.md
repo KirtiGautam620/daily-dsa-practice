@@ -8,7 +8,6 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Problem | Solved | Done | R1 | R2 | R3 | R4 | R5 | R6 | Next due |
 |---|---|:---:|---|---|---|---|---|---|---|
-| [Concatenation of Array](../01-arrays/concatenation-of-array.py) | 23 Aug 2026 | 3/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ⬜ 07 Sep | · 22 Sep | · 22 Oct | 🔴 07 Sep 2026 (today) |
 | [Sort Colors](../01-arrays/sort_colors.py) | 04 Sep 2026 | 1/6 | ✅ 05 Sep | ⬜ 07 Sep | · 11 Sep | · 19 Sep | · 04 Oct | · 03 Nov | 🔴 07 Sep 2026 (today) |
 | [Top K Frequent Elements](../01-arrays/top-k-frequent-elements.py) | 06 Sep 2026 | 0/6 | ⬜ 07 Sep | · 09 Sep | · 13 Sep | · 21 Sep | · 06 Oct | · 05 Nov | 🔴 07 Sep 2026 (today) |
 | [Valid Anagram](../01-arrays/valid-anagram.py) | 23 Aug 2026 | 3/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ⬜ 07 Sep | · 22 Sep | · 22 Oct | 🔴 07 Sep 2026 (today) |
@@ -18,11 +17,13 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 | [Longest Common Prefix](../01-arrays/longest-common-prefix.py) | 27 Aug 2026 | 3/6 | ✅ 28 Aug | ✅ 30 Aug | ✅ 03 Sep | ⬜ 11 Sep | · 26 Sep | · 26 Oct | 11 Sep 2026 |
 | [Max Consecutive Ones](../01-arrays/max-consecutive-ones.py) | 29 Aug 2026 | 3/6 | ✅ 30 Aug | ✅ 01 Sep | ✅ 05 Sep | ⬜ 13 Sep | · 28 Sep | · 28 Oct | 13 Sep 2026 |
 | [Contains Duplicate](../01-arrays/contains-duplicate.py) | 23 Aug 2026 | 4/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ✅ 30 Aug | ⬜ 14 Sep | · 14 Oct | 14 Sep 2026 |
+| [Concatenation of Array](../01-arrays/concatenation-of-array.py) | 23 Aug 2026 | 4/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ✅ 07 Sep | ⬜ 22 Sep | · 22 Oct | 22 Sep 2026 |
 
 ### 📝 Revision log
 
 | Revised on | Problem | Was scheduled | Result | Round |
 |---|---|---|:---:|:---:|
+| 07 Sep 2026 | Concatenation of Array | 07 Sep 2026 | ✅ remembered | R4 |
 | 05 Sep 2026 | Sort Colors | 05 Sep 2026 | ✅ remembered | R1 |
 | 05 Sep 2026 | Max Consecutive Ones | 05 Sep 2026 | ✅ remembered | R3 |
 | 05 Sep 2026 | Majority Element | 05 Sep 2026 | ✅ remembered | R2 |

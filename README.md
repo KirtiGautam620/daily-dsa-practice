@@ -92,11 +92,10 @@ _Last updated: 07 Sep 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 4
+### 🔴 Due Today · 3
 
 | Problem | Topic | Revision |
 |---|---|---|
-| Concatenation of Array | Array | 07 Sep |
 | Sort Colors | Array | 07 Sep |
 | Top K Frequent Elements | Array | 07 Sep |
 | Valid Anagram | Array | 07 Sep |
@@ -110,6 +109,7 @@ _Last updated: 07 Sep 2026_
 | 11 Sep | 1 |
 | 13 Sep | 1 |
 | 14 Sep | 1 |
+| 22 Sep | 1 |
 
 _07 Sep 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
