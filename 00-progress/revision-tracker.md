@@ -8,13 +8,13 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Problem | Solved | Done | R1 | R2 | R3 | R4 | R5 | R6 | Next due |
 |---|---|:---:|---|---|---|---|---|---|---|
-| [Group Anagrams](../01-arrays/group_anagram.py) | 02 Sep 2026 | 2/6 | ✅ 03 Sep | ✅ 05 Sep | ⬜ 09 Sep | · 17 Sep | · 02 Oct | · 01 Nov | 🔴 09 Sep 2026 (today) |
-| [Majority Element](../01-arrays/majority_element.py) | 02 Sep 2026 | 2/6 | ✅ 03 Sep | ✅ 05 Sep | ⬜ 09 Sep | · 17 Sep | · 02 Oct | · 01 Nov | 🔴 09 Sep 2026 (today) |
-| [Top K Frequent Elements](../01-arrays/top-k-frequent-elements.py) | 06 Sep 2026 | 1/6 | ✅ 07 Sep | ⬜ 09 Sep | · 13 Sep | · 21 Sep | · 06 Oct | · 05 Nov | 🔴 09 Sep 2026 (today) |
 | [Longest Common Prefix](../01-arrays/longest-common-prefix.py) | 27 Aug 2026 | 3/6 | ✅ 28 Aug | ✅ 30 Aug | ✅ 03 Sep | ⬜ 11 Sep | · 26 Sep | · 26 Oct | 11 Sep 2026 |
 | [Sort Colors](../01-arrays/sort_colors.py) | 04 Sep 2026 | 2/6 | ✅ 05 Sep | ✅ 07 Sep | ⬜ 11 Sep | · 19 Sep | · 04 Oct | · 03 Nov | 11 Sep 2026 |
 | [Max Consecutive Ones](../01-arrays/max-consecutive-ones.py) | 29 Aug 2026 | 3/6 | ✅ 30 Aug | ✅ 01 Sep | ✅ 05 Sep | ⬜ 13 Sep | · 28 Sep | · 28 Oct | 13 Sep 2026 |
+| [Top K Frequent Elements](../01-arrays/top-k-frequent-elements.py) | 06 Sep 2026 | 2/6 | ✅ 07 Sep | ✅ 09 Sep | ⬜ 13 Sep | · 21 Sep | · 06 Oct | · 05 Nov | 13 Sep 2026 |
 | [Contains Duplicate](../01-arrays/contains-duplicate.py) | 23 Aug 2026 | 4/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ✅ 30 Aug | ⬜ 14 Sep | · 14 Oct | 14 Sep 2026 |
+| [Group Anagrams](../01-arrays/group_anagram.py) | 02 Sep 2026 | 3/6 | ✅ 03 Sep | ✅ 05 Sep | ✅ 09 Sep | ⬜ 17 Sep | · 02 Oct | · 01 Nov | 17 Sep 2026 |
+| [Majority Element](../01-arrays/majority_element.py) | 02 Sep 2026 | 3/6 | ✅ 03 Sep | ✅ 05 Sep | ✅ 09 Sep | ⬜ 17 Sep | · 02 Oct | · 01 Nov | 17 Sep 2026 |
 | [Concatenation of Array](../01-arrays/concatenation-of-array.py) | 23 Aug 2026 | 4/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ✅ 07 Sep | ⬜ 22 Sep | · 22 Oct | 22 Sep 2026 |
 | [Valid Anagram](../01-arrays/valid-anagram.py) | 23 Aug 2026 | 4/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ✅ 07 Sep | ⬜ 22 Sep | · 22 Oct | 22 Sep 2026 |
 | [Two Sum](../01-arrays/two-sum.py) | 24 Aug 2026 | 4/6 | ✅ 25 Aug | ✅ 27 Aug | ✅ 31 Aug | ✅ 08 Sep | ⬜ 23 Sep | · 23 Oct | 23 Sep 2026 |
@@ -23,6 +23,9 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Revised on | Problem | Was scheduled | Result | Round |
 |---|---|---|:---:|:---:|
+| 09 Sep 2026 | Top K Frequent Elements | 09 Sep 2026 | ✅ remembered | R2 |
+| 09 Sep 2026 | Majority Element | 09 Sep 2026 | ✅ remembered | R3 |
+| 09 Sep 2026 | Group Anagrams | 09 Sep 2026 | ✅ remembered | R3 |
 | 08 Sep 2026 | Two Sum | 08 Sep 2026 | ✅ remembered | R4 |
 | 07 Sep 2026 | Valid Anagram | 07 Sep 2026 | ✅ remembered | R4 |
 | 07 Sep 2026 | Top K Frequent Elements | 07 Sep 2026 | ✅ remembered | R1 |

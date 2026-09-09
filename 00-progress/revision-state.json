@@ -87,8 +87,8 @@
       "title": "Group Anagrams",
       "path": "01-arrays/group_anagram.py",
       "solved": "2026-09-02",
-      "rung": 2,
-      "anchor": "2026-09-05",
+      "rung": 3,
+      "anchor": "2026-09-09",
       "history": [
         {
           "date": "2026-09-03",
@@ -105,6 +105,14 @@
           "rung_from": 1,
           "rung_to": 2,
           "anchor_from": "2026-09-03"
+        },
+        {
+          "date": "2026-09-09",
+          "scheduled": "2026-09-09",
+          "result": "remembered",
+          "rung_from": 2,
+          "rung_to": 3,
+          "anchor_from": "2026-09-05"
         }
       ]
     },
@@ -145,8 +153,8 @@
       "title": "Majority Element",
       "path": "01-arrays/majority_element.py",
       "solved": "2026-09-02",
-      "rung": 2,
-      "anchor": "2026-09-05",
+      "rung": 3,
+      "anchor": "2026-09-09",
       "history": [
         {
           "date": "2026-09-03",
@@ -163,6 +171,14 @@
           "rung_from": 1,
           "rung_to": 2,
           "anchor_from": "2026-09-03"
+        },
+        {
+          "date": "2026-09-09",
+          "scheduled": "2026-09-09",
+          "result": "remembered",
+          "rung_from": 2,
+          "rung_to": 3,
+          "anchor_from": "2026-09-05"
         }
       ]
     },
@@ -244,8 +260,8 @@
       "title": "Top K Frequent Elements",
       "path": "01-arrays/top-k-frequent-elements.py",
       "solved": "2026-09-06",
-      "rung": 1,
-      "anchor": "2026-09-07",
+      "rung": 2,
+      "anchor": "2026-09-09",
       "history": [
         {
           "date": "2026-09-07",
@@ -254,6 +270,14 @@
           "rung_from": 0,
           "rung_to": 1,
           "anchor_from": "2026-09-06"
+        },
+        {
+          "date": "2026-09-09",
+          "scheduled": "2026-09-09",
+          "result": "remembered",
+          "rung_from": 1,
+          "rung_to": 2,
+          "anchor_from": "2026-09-07"
         }
       ]
     },

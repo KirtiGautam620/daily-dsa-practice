@@ -92,21 +92,18 @@ _Last updated: 09 Sep 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 3
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Group Anagrams | Array | 09 Sep |
-| Majority Element | Array | 09 Sep |
-| Top K Frequent Elements | Array | 09 Sep |
+All caught up.
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
 | 11 Sep | 2 |
-| 13 Sep | 1 |
+| 13 Sep | 2 |
 | 14 Sep | 1 |
+| 17 Sep | 2 |
 | 22 Sep | 2 |
 | 23 Sep | 1 |
 
