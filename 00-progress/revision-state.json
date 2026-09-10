@@ -231,6 +231,14 @@
       "anchor": "2026-08-27",
       "history": []
     },
+    "set-mismatch": {
+      "title": "Set Mismatch",
+      "path": "01-arrays/set-mismatch.py",
+      "solved": "2026-09-10",
+      "rung": 0,
+      "anchor": "2026-09-10",
+      "history": []
+    },
     "sort-colors": {
       "title": "Sort Colors",
       "path": "01-arrays/sort_colors.py",

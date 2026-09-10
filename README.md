@@ -19,19 +19,19 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 
 <!-- DSA-STATS:START -->
 
-**10** problems solved across **7** active days · 🔥 **0-day streak** (best: 2) · started 23 Aug 2026
+**11** problems solved across **8** active days · 🔥 **1-day streak** (best: 2) · started 23 Aug 2026
 
 | Difficulty | Solved | Share | |
 |---|---:|---:|---|
-| 🟩 Easy | 7 | 70% | `███████░░░` |
-| 🟨 Medium | 3 | 30% | `███░░░░░░░` |
+| 🟩 Easy | 8 | 73% | `███████░░░` |
+| 🟨 Medium | 3 | 27% | `███░░░░░░░` |
 | 🟥 Hard | 0 | 0% | `░░░░░░░░░░` |
-| **Total** | **10** | | |
+| **Total** | **11** | | |
 
 | How it was solved | Count | Share |
 |---|---:|---:|
-| 🟢 Independent | 8 | 80% |
-| 🟡 Hint | 2 | 20% |
+| 🟢 Independent | 9 | 82% |
+| 🟡 Hint | 2 | 18% |
 | 🔴 Solution | 0 | 0% |
 
 _Last updated: 10 Sep 2026_
@@ -46,7 +46,7 @@ _Last updated: 10 Sep 2026_
 
 | Topic | Solved | Easy | Med | Hard | Last solved | Status |
 |---|---:|---:|---:|---:|---|---|
-| [Arrays](01-arrays/) | 10 | 7 | 3 | 0 | 06 Sep | 🟢 Comfortable |
+| [Arrays](01-arrays/) | 11 | 8 | 3 | 0 | 10 Sep | 🟢 Comfortable |
 | Strings | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Hashing | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Two Pointers | 0 | 0 | 0 | 0 | — | 🔴 Not started |
@@ -73,6 +73,7 @@ _Last updated: 10 Sep 2026_
 
 | Date | Problem | Difficulty | Pattern | Result | Solution |
 |---|---|---|---|:---:|---|
+| 10 Sep | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | Array | 🟢 | [code](01-arrays/set-mismatch.py) |
 | 06 Sep | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array | 🟢 | [code](01-arrays/top-k-frequent-elements.py) |
 | 04 Sep | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Array | 🟢 | [code](01-arrays/sort_colors.py) |
 | 02 Sep | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Array | 🟢 | [code](01-arrays/majority_element.py) |
@@ -82,7 +83,6 @@ _Last updated: 10 Sep 2026_
 | 24 Aug | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | 🟢 | [code](01-arrays/two-sum.py) |
 | 23 Aug | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Array | 🟢 | [code](01-arrays/valid-anagram.py) |
 | 23 Aug | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Hashing | 🟢 | [code](01-arrays/contains-duplicate.py) |
-| 23 Aug | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | Array | 🟢 | [code](01-arrays/concatenation-of-array.py) |
 
 <!-- DSA-RECENT:END -->
 
@@ -100,7 +100,7 @@ All caught up.
 
 | Date | Problems |
 |---|---:|
-| 11 Sep | 2 |
+| 11 Sep | 3 |
 | 13 Sep | 2 |
 | 14 Sep | 1 |
 | 17 Sep | 2 |
