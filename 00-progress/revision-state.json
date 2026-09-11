@@ -260,8 +260,8 @@
       "title": "Sort Colors",
       "path": "01-arrays/sort_colors.py",
       "solved": "2026-09-04",
-      "rung": 2,
-      "anchor": "2026-09-07",
+      "rung": 3,
+      "anchor": "2026-09-11",
       "history": [
         {
           "date": "2026-09-05",
@@ -278,6 +278,14 @@
           "rung_from": 1,
           "rung_to": 2,
           "anchor_from": "2026-09-05"
+        },
+        {
+          "date": "2026-09-11",
+          "scheduled": "2026-09-11",
+          "result": "remembered",
+          "rung_from": 2,
+          "rung_to": 3,
+          "anchor_from": "2026-09-07"
         }
       ]
     },
