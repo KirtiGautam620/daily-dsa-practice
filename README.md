@@ -92,11 +92,10 @@ _Last updated: 11 Sep 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 3
+### 🔴 Due Today · 2
 
 | Problem | Topic | Revision |
 |---|---|---|
-| Longest Common Prefix | Array | 11 Sep |
 | Set Mismatch | Array | 11 Sep |
 | Sort Colors | Array | 11 Sep |
 
@@ -109,6 +108,7 @@ _Last updated: 11 Sep 2026_
 | 17 Sep | 2 |
 | 22 Sep | 2 |
 | 23 Sep | 1 |
+| 26 Sep | 1 |
 
 _11 Sep 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
