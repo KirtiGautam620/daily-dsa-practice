@@ -92,18 +92,17 @@ _Last updated: 11 Sep 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 2
+### 🔴 Due Today · 1
 
 | Problem | Topic | Revision |
 |---|---|---|
-| Set Mismatch | Array | 11 Sep |
 | Sort Colors | Array | 11 Sep |
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
-| 13 Sep | 2 |
+| 13 Sep | 3 |
 | 14 Sep | 1 |
 | 17 Sep | 2 |
 | 22 Sep | 2 |

@@ -243,9 +243,18 @@
       "title": "Set Mismatch",
       "path": "01-arrays/set-mismatch.py",
       "solved": "2026-09-10",
-      "rung": 0,
-      "anchor": "2026-09-10",
-      "history": []
+      "rung": 1,
+      "anchor": "2026-09-11",
+      "history": [
+        {
+          "date": "2026-09-11",
+          "scheduled": "2026-09-11",
+          "result": "remembered",
+          "rung_from": 0,
+          "rung_to": 1,
+          "anchor_from": "2026-09-10"
+        }
+      ]
     },
     "sort-colors": {
       "title": "Sort Colors",
