@@ -239,6 +239,14 @@
       "anchor": "2026-08-27",
       "history": []
     },
+    "reverse-string": {
+      "title": "Reverse String",
+      "path": "04-two-pointers/revers_string.py",
+      "solved": "2026-09-12",
+      "rung": 0,
+      "anchor": "2026-09-12",
+      "history": []
+    },
     "set-mismatch": {
       "title": "Set Mismatch",
       "path": "01-arrays/set-mismatch.py",

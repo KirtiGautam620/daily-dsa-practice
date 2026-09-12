@@ -19,19 +19,19 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 
 <!-- DSA-STATS:START -->
 
-**11** problems solved across **8** active days · 🔥 **0-day streak** (best: 2) · started 23 Aug 2026
+**12** problems solved across **9** active days · 🔥 **1-day streak** (best: 2) · started 23 Aug 2026
 
 | Difficulty | Solved | Share | |
 |---|---:|---:|---|
-| 🟩 Easy | 8 | 73% | `███████░░░` |
-| 🟨 Medium | 3 | 27% | `███░░░░░░░` |
+| 🟩 Easy | 9 | 75% | `████████░░` |
+| 🟨 Medium | 3 | 25% | `██░░░░░░░░` |
 | 🟥 Hard | 0 | 0% | `░░░░░░░░░░` |
-| **Total** | **11** | | |
+| **Total** | **12** | | |
 
 | How it was solved | Count | Share |
 |---|---:|---:|
-| 🟢 Independent | 9 | 82% |
-| 🟡 Hint | 2 | 18% |
+| 🟢 Independent | 10 | 83% |
+| 🟡 Hint | 2 | 17% |
 | 🔴 Solution | 0 | 0% |
 
 _Last updated: 12 Sep 2026_
@@ -49,7 +49,7 @@ _Last updated: 12 Sep 2026_
 | [Arrays](01-arrays/) | 11 | 8 | 3 | 0 | 10 Sep | 🟢 Comfortable |
 | Strings | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Hashing | 0 | 0 | 0 | 0 | — | 🔴 Not started |
-| Two Pointers | 0 | 0 | 0 | 0 | — | 🔴 Not started |
+| [Two Pointers](04-two-pointers/) | 1 | 1 | 0 | 0 | 12 Sep | 🟡 In progress |
 | Sliding Window | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Stack | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Binary Search | 0 | 0 | 0 | 0 | — | 🔴 Not started |
@@ -73,6 +73,7 @@ _Last updated: 12 Sep 2026_
 
 | Date | Problem | Difficulty | Pattern | Result | Solution |
 |---|---|---|---|:---:|---|
+| 12 Sep | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers | 🟢 | [code](04-two-pointers/revers_string.py) |
 | 10 Sep | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | Array | 🟢 | [code](01-arrays/set-mismatch.py) |
 | 06 Sep | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array | 🟢 | [code](01-arrays/top-k-frequent-elements.py) |
 | 04 Sep | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Array | 🟢 | [code](01-arrays/sort_colors.py) |
@@ -82,7 +83,6 @@ _Last updated: 12 Sep 2026_
 | 27 Aug | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array | 🟡 | [code](01-arrays/longest-common-prefix.py) |
 | 24 Aug | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | 🟢 | [code](01-arrays/two-sum.py) |
 | 23 Aug | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Array | 🟢 | [code](01-arrays/valid-anagram.py) |
-| 23 Aug | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Hashing | 🟢 | [code](01-arrays/contains-duplicate.py) |
 
 <!-- DSA-RECENT:END -->
 
@@ -100,7 +100,7 @@ All caught up.
 
 | Date | Problems |
 |---|---:|
-| 13 Sep | 3 |
+| 13 Sep | 4 |
 | 14 Sep | 1 |
 | 17 Sep | 2 |
 | 19 Sep | 1 |

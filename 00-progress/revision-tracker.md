@@ -9,6 +9,7 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 | Problem | Solved | Done | R1 | R2 | R3 | R4 | R5 | R6 | Next due |
 |---|---|:---:|---|---|---|---|---|---|---|
 | [Max Consecutive Ones](../01-arrays/max-consecutive-ones.py) | 29 Aug 2026 | 3/6 | ✅ 30 Aug | ✅ 01 Sep | ✅ 05 Sep | ⬜ 13 Sep | · 28 Sep | · 28 Oct | 13 Sep 2026 |
+| [Reverse String](../04-two-pointers/revers_string.py) | 12 Sep 2026 | 0/6 | ⬜ 13 Sep | · 15 Sep | · 19 Sep | · 27 Sep | · 12 Oct | · 11 Nov | 13 Sep 2026 |
 | [Set Mismatch](../01-arrays/set-mismatch.py) | 10 Sep 2026 | 1/6 | ✅ 11 Sep | ⬜ 13 Sep | · 17 Sep | · 25 Sep | · 10 Oct | · 09 Nov | 13 Sep 2026 |
 | [Top K Frequent Elements](../01-arrays/top-k-frequent-elements.py) | 06 Sep 2026 | 2/6 | ✅ 07 Sep | ✅ 09 Sep | ⬜ 13 Sep | · 21 Sep | · 06 Oct | · 05 Nov | 13 Sep 2026 |
 | [Contains Duplicate](../01-arrays/contains-duplicate.py) | 23 Aug 2026 | 4/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ✅ 30 Aug | ⬜ 14 Sep | · 14 Oct | 14 Sep 2026 |
