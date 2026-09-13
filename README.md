@@ -92,25 +92,23 @@ _Last updated: 13 Sep 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 4
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Max Consecutive Ones | Array | 13 Sep |
-| Reverse String | Two Pointers | 13 Sep |
-| Set Mismatch | Array | 13 Sep |
-| Top K Frequent Elements | Array | 13 Sep |
+All caught up.
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
 | 14 Sep | 1 |
-| 17 Sep | 2 |
+| 15 Sep | 1 |
+| 17 Sep | 3 |
 | 19 Sep | 1 |
+| 21 Sep | 1 |
 | 22 Sep | 2 |
 | 23 Sep | 1 |
 | 26 Sep | 1 |
+| _later_ | 1 |
 
 _13 Sep 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 

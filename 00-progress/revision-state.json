@@ -194,8 +194,8 @@
       "title": "Max Consecutive Ones",
       "path": "01-arrays/max-consecutive-ones.py",
       "solved": "2026-08-29",
-      "rung": 3,
-      "anchor": "2026-09-05",
+      "rung": 4,
+      "anchor": "2026-09-13",
       "history": [
         {
           "date": "2026-08-30",
@@ -220,6 +220,14 @@
           "rung_from": 2,
           "rung_to": 3,
           "anchor_from": "2026-09-01"
+        },
+        {
+          "date": "2026-09-13",
+          "scheduled": "2026-09-13",
+          "result": "remembered",
+          "rung_from": 3,
+          "rung_to": 4,
+          "anchor_from": "2026-09-05"
         }
       ]
     },
@@ -243,16 +251,25 @@
       "title": "Reverse String",
       "path": "04-two-pointers/revers_string.py",
       "solved": "2026-09-12",
-      "rung": 0,
-      "anchor": "2026-09-12",
-      "history": []
+      "rung": 1,
+      "anchor": "2026-09-13",
+      "history": [
+        {
+          "date": "2026-09-13",
+          "scheduled": "2026-09-13",
+          "result": "remembered",
+          "rung_from": 0,
+          "rung_to": 1,
+          "anchor_from": "2026-09-12"
+        }
+      ]
     },
     "set-mismatch": {
       "title": "Set Mismatch",
       "path": "01-arrays/set-mismatch.py",
       "solved": "2026-09-10",
-      "rung": 1,
-      "anchor": "2026-09-11",
+      "rung": 2,
+      "anchor": "2026-09-13",
       "history": [
         {
           "date": "2026-09-11",
@@ -261,6 +278,14 @@
           "rung_from": 0,
           "rung_to": 1,
           "anchor_from": "2026-09-10"
+        },
+        {
+          "date": "2026-09-13",
+          "scheduled": "2026-09-13",
+          "result": "remembered",
+          "rung_from": 1,
+          "rung_to": 2,
+          "anchor_from": "2026-09-11"
         }
       ]
     },
@@ -301,8 +326,8 @@
       "title": "Top K Frequent Elements",
       "path": "01-arrays/top-k-frequent-elements.py",
       "solved": "2026-09-06",
-      "rung": 2,
-      "anchor": "2026-09-09",
+      "rung": 3,
+      "anchor": "2026-09-13",
       "history": [
         {
           "date": "2026-09-07",
@@ -319,6 +344,14 @@
           "rung_from": 1,
           "rung_to": 2,
           "anchor_from": "2026-09-07"
+        },
+        {
+          "date": "2026-09-13",
+          "scheduled": "2026-09-13",
+          "result": "remembered",
+          "rung_from": 2,
+          "rung_to": 3,
+          "anchor_from": "2026-09-09"
         }
       ]
     },
