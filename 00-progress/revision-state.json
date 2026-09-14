@@ -46,8 +46,8 @@
       "title": "Contains Duplicate",
       "path": "01-arrays/contains-duplicate.py",
       "solved": "2026-08-23",
-      "rung": 4,
-      "anchor": "2026-08-30",
+      "rung": 5,
+      "anchor": "2026-09-14",
       "history": [
         {
           "date": "2026-08-24",
@@ -79,6 +79,14 @@
           "result": "remembered",
           "rung_from": 3,
           "rung_to": 4,
+          "anchor_from": "2026-08-30"
+        },
+        {
+          "date": "2026-09-14",
+          "scheduled": "2026-09-14",
+          "result": "remembered",
+          "rung_from": 4,
+          "rung_to": 5,
           "anchor_from": "2026-08-30"
         }
       ]
