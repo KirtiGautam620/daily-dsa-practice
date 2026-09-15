@@ -92,18 +92,16 @@ _Last updated: 15 Sep 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 1
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Reverse String | Two Pointers | 15 Sep |
+All caught up.
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
 | 17 Sep | 3 |
-| 19 Sep | 1 |
+| 19 Sep | 2 |
 | 21 Sep | 1 |
 | 22 Sep | 2 |
 | 23 Sep | 1 |

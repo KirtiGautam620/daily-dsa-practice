@@ -259,8 +259,8 @@
       "title": "Reverse String",
       "path": "04-two-pointers/revers_string.py",
       "solved": "2026-09-12",
-      "rung": 1,
-      "anchor": "2026-09-13",
+      "rung": 2,
+      "anchor": "2026-09-15",
       "history": [
         {
           "date": "2026-09-13",
@@ -269,6 +269,14 @@
           "rung_from": 0,
           "rung_to": 1,
           "anchor_from": "2026-09-12"
+        },
+        {
+          "date": "2026-09-15",
+          "scheduled": "2026-09-15",
+          "result": "remembered",
+          "rung_from": 1,
+          "rung_to": 2,
+          "anchor_from": "2026-09-13"
         }
       ]
     },
