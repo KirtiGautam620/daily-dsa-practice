@@ -9,6 +9,7 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 | Problem | Solved | Done | R1 | R2 | R3 | R4 | R5 | R6 | Next due |
 |---|---|:---:|---|---|---|---|---|---|---|
 | [Group Anagrams](../01-arrays/group_anagram.py) | 02 Sep 2026 | 3/6 | ✅ 03 Sep | ✅ 05 Sep | ✅ 09 Sep | ⬜ 17 Sep | · 02 Oct | · 01 Nov | 17 Sep 2026 |
+| [Happy Number](../01-arrays/happy_numbers.py) | 16 Sep 2026 | 0/6 | ⬜ 17 Sep | · 19 Sep | · 23 Sep | · 01 Oct | · 16 Oct | · 15 Nov | 17 Sep 2026 |
 | [Majority Element](../01-arrays/majority_element.py) | 02 Sep 2026 | 3/6 | ✅ 03 Sep | ✅ 05 Sep | ✅ 09 Sep | ⬜ 17 Sep | · 02 Oct | · 01 Nov | 17 Sep 2026 |
 | [Set Mismatch](../01-arrays/set-mismatch.py) | 10 Sep 2026 | 2/6 | ✅ 11 Sep | ✅ 13 Sep | ⬜ 17 Sep | · 25 Sep | · 10 Oct | · 09 Nov | 17 Sep 2026 |
 | [Reverse String](../04-two-pointers/revers_string.py) | 12 Sep 2026 | 2/6 | ✅ 13 Sep | ✅ 15 Sep | ⬜ 19 Sep | · 27 Sep | · 12 Oct | · 11 Nov | 19 Sep 2026 |

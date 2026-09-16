@@ -124,6 +124,14 @@
         }
       ]
     },
+    "happy-number": {
+      "title": "Happy Number",
+      "path": "01-arrays/happy_numbers.py",
+      "solved": "2026-09-16",
+      "rung": 0,
+      "anchor": "2026-09-16",
+      "history": []
+    },
     "longest-common-prefix": {
       "title": "Longest Common Prefix",
       "path": "01-arrays/longest-common-prefix.py",
