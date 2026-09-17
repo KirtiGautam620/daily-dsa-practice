@@ -95,8 +95,8 @@
       "title": "Group Anagrams",
       "path": "01-arrays/group_anagram.py",
       "solved": "2026-09-02",
-      "rung": 3,
-      "anchor": "2026-09-09",
+      "rung": 4,
+      "anchor": "2026-09-17",
       "history": [
         {
           "date": "2026-09-03",
@@ -121,6 +121,14 @@
           "rung_from": 2,
           "rung_to": 3,
           "anchor_from": "2026-09-05"
+        },
+        {
+          "date": "2026-09-17",
+          "scheduled": "2026-09-17",
+          "result": "remembered",
+          "rung_from": 3,
+          "rung_to": 4,
+          "anchor_from": "2026-09-09"
         }
       ]
     },
@@ -128,9 +136,18 @@
       "title": "Happy Number",
       "path": "01-arrays/happy_numbers.py",
       "solved": "2026-09-16",
-      "rung": 0,
-      "anchor": "2026-09-16",
-      "history": []
+      "rung": 1,
+      "anchor": "2026-09-17",
+      "history": [
+        {
+          "date": "2026-09-17",
+          "scheduled": "2026-09-17",
+          "result": "remembered",
+          "rung_from": 0,
+          "rung_to": 1,
+          "anchor_from": "2026-09-16"
+        }
+      ]
     },
     "longest-common-prefix": {
       "title": "Longest Common Prefix",
@@ -177,8 +194,8 @@
       "title": "Majority Element",
       "path": "01-arrays/majority_element.py",
       "solved": "2026-09-02",
-      "rung": 3,
-      "anchor": "2026-09-09",
+      "rung": 4,
+      "anchor": "2026-09-17",
       "history": [
         {
           "date": "2026-09-03",
@@ -203,6 +220,14 @@
           "rung_from": 2,
           "rung_to": 3,
           "anchor_from": "2026-09-05"
+        },
+        {
+          "date": "2026-09-17",
+          "scheduled": "2026-09-17",
+          "result": "remembered",
+          "rung_from": 3,
+          "rung_to": 4,
+          "anchor_from": "2026-09-09"
         }
       ]
     },
@@ -292,8 +317,8 @@
       "title": "Set Mismatch",
       "path": "01-arrays/set-mismatch.py",
       "solved": "2026-09-10",
-      "rung": 2,
-      "anchor": "2026-09-13",
+      "rung": 3,
+      "anchor": "2026-09-17",
       "history": [
         {
           "date": "2026-09-11",
@@ -310,6 +335,14 @@
           "rung_from": 1,
           "rung_to": 2,
           "anchor_from": "2026-09-11"
+        },
+        {
+          "date": "2026-09-17",
+          "scheduled": "2026-09-17",
+          "result": "remembered",
+          "rung_from": 2,
+          "rung_to": 3,
+          "anchor_from": "2026-09-13"
         }
       ]
     },

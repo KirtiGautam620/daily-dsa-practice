@@ -92,26 +92,23 @@ _Last updated: 17 Sep 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 4
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Group Anagrams | Array | 17 Sep |
-| Happy Number | Array | 17 Sep |
-| Majority Element | Array | 17 Sep |
-| Set Mismatch | Array | 17 Sep |
+All caught up.
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
-| 19 Sep | 2 |
+| 19 Sep | 3 |
 | 21 Sep | 1 |
 | 22 Sep | 2 |
 | 23 Sep | 1 |
+| 25 Sep | 1 |
 | 26 Sep | 1 |
 | 28 Sep | 1 |
-| 14 Oct | 1 |
+| 02 Oct | 2 |
+| _later_ | 1 |
 
 _17 Sep 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
