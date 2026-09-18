@@ -136,8 +136,8 @@
       "title": "Happy Number",
       "path": "01-arrays/happy_numbers.py",
       "solved": "2026-09-16",
-      "rung": 1,
-      "anchor": "2026-09-17",
+      "rung": 2,
+      "anchor": "2026-09-19",
       "history": [
         {
           "date": "2026-09-17",
@@ -146,6 +146,14 @@
           "rung_from": 0,
           "rung_to": 1,
           "anchor_from": "2026-09-16"
+        },
+        {
+          "date": "2026-09-19",
+          "scheduled": "2026-09-19",
+          "result": "remembered",
+          "rung_from": 1,
+          "rung_to": 2,
+          "anchor_from": "2026-09-17"
         }
       ]
     },
@@ -292,8 +300,8 @@
       "title": "Reverse String",
       "path": "04-two-pointers/revers_string.py",
       "solved": "2026-09-12",
-      "rung": 2,
-      "anchor": "2026-09-15",
+      "rung": 3,
+      "anchor": "2026-09-19",
       "history": [
         {
           "date": "2026-09-13",
@@ -310,6 +318,14 @@
           "rung_from": 1,
           "rung_to": 2,
           "anchor_from": "2026-09-13"
+        },
+        {
+          "date": "2026-09-19",
+          "scheduled": "2026-09-19",
+          "result": "remembered",
+          "rung_from": 2,
+          "rung_to": 3,
+          "anchor_from": "2026-09-15"
         }
       ]
     },
@@ -350,8 +366,8 @@
       "title": "Sort Colors",
       "path": "01-arrays/sort_colors.py",
       "solved": "2026-09-04",
-      "rung": 3,
-      "anchor": "2026-09-11",
+      "rung": 4,
+      "anchor": "2026-09-19",
       "history": [
         {
           "date": "2026-09-05",
@@ -376,6 +392,14 @@
           "rung_from": 2,
           "rung_to": 3,
           "anchor_from": "2026-09-07"
+        },
+        {
+          "date": "2026-09-19",
+          "scheduled": "2026-09-19",
+          "result": "remembered",
+          "rung_from": 3,
+          "rung_to": 4,
+          "anchor_from": "2026-09-11"
         }
       ]
     },
