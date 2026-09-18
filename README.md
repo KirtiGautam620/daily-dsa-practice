@@ -19,19 +19,19 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 
 <!-- DSA-STATS:START -->
 
-**13** problems solved across **10** active days · 🔥 **0-day streak** (best: 2) · started 23 Aug 2026
+**14** problems solved across **11** active days · 🔥 **1-day streak** (best: 2) · started 23 Aug 2026
 
 | Difficulty | Solved | Share | |
 |---|---:|---:|---|
-| 🟩 Easy | 10 | 77% | `████████░░` |
-| 🟨 Medium | 3 | 23% | `██░░░░░░░░` |
+| 🟩 Easy | 11 | 79% | `████████░░` |
+| 🟨 Medium | 3 | 21% | `██░░░░░░░░` |
 | 🟥 Hard | 0 | 0% | `░░░░░░░░░░` |
-| **Total** | **13** | | |
+| **Total** | **14** | | |
 
 | How it was solved | Count | Share |
 |---|---:|---:|
-| 🟢 Independent | 11 | 85% |
-| 🟡 Hint | 2 | 15% |
+| 🟢 Independent | 12 | 86% |
+| 🟡 Hint | 2 | 14% |
 | 🔴 Solution | 0 | 0% |
 
 _Last updated: 19 Sep 2026_
@@ -46,7 +46,7 @@ _Last updated: 19 Sep 2026_
 
 | Topic | Solved | Easy | Med | Hard | Last solved | Status |
 |---|---:|---:|---:|---:|---|---|
-| [Arrays](01-arrays/) | 12 | 9 | 3 | 0 | 16 Sep | 🟢 Comfortable |
+| [Arrays](01-arrays/) | 13 | 10 | 3 | 0 | 18 Sep | 🟢 Comfortable |
 | Strings | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Hashing | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | [Two Pointers](04-two-pointers/) | 1 | 1 | 0 | 0 | 12 Sep | 🟡 In progress |
@@ -73,6 +73,7 @@ _Last updated: 19 Sep 2026_
 
 | Date | Problem | Difficulty | Pattern | Result | Solution |
 |---|---|---|---|:---:|---|
+| 18 Sep | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Array | 🟢 | [code](01-arrays/palindrom_number.py) |
 | 16 Sep | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | Array | 🟢 | [code](01-arrays/happy_numbers.py) |
 | 12 Sep | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers | 🟢 | [code](04-two-pointers/revers_string.py) |
 | 10 Sep | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | Array | 🟢 | [code](01-arrays/set-mismatch.py) |
@@ -82,7 +83,6 @@ _Last updated: 19 Sep 2026_
 | 02 Sep | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Array | 🟡 | [code](01-arrays/group_anagram.py) |
 | 29 Aug | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | Array | 🟢 | [code](01-arrays/max-consecutive-ones.py) |
 | 27 Aug | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array | 🟡 | [code](01-arrays/longest-common-prefix.py) |
-| 24 Aug | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | 🟢 | [code](01-arrays/two-sum.py) |
 
 <!-- DSA-RECENT:END -->
 
@@ -100,7 +100,7 @@ All caught up.
 
 | Date | Problems |
 |---|---:|
-| 21 Sep | 1 |
+| 21 Sep | 2 |
 | 22 Sep | 2 |
 | 23 Sep | 2 |
 | 25 Sep | 1 |

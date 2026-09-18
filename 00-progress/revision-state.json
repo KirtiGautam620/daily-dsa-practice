@@ -288,6 +288,23 @@
       "anchor": "2026-08-29",
       "history": []
     },
+    "palindrome-number": {
+      "title": "Palindrome Number",
+      "path": "01-arrays/palindrom_number.py",
+      "solved": "2026-09-18",
+      "rung": 1,
+      "anchor": "2026-09-19",
+      "history": [
+        {
+          "date": "2026-09-19",
+          "scheduled": "2026-09-19",
+          "result": "remembered",
+          "rung_from": 0,
+          "rung_to": 1,
+          "anchor_from": "2026-09-18"
+        }
+      ]
+    },
     "remove-duplicates-from-sorted-array": {
       "title": "Remove duplicates from sorted array",
       "path": "01-arrays/remove-duplicates.py",
