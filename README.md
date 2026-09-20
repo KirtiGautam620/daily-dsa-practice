@@ -19,19 +19,19 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 
 <!-- DSA-STATS:START -->
 
-**14** problems solved across **11** active days · 🔥 **0-day streak** (best: 2) · started 23 Aug 2026
+**15** problems solved across **11** active days · 🔥 **0-day streak** (best: 2) · started 23 Aug 2026
 
 | Difficulty | Solved | Share | |
 |---|---:|---:|---|
-| 🟩 Easy | 11 | 79% | `████████░░` |
-| 🟨 Medium | 3 | 21% | `██░░░░░░░░` |
+| 🟩 Easy | 12 | 80% | `████████░░` |
+| 🟨 Medium | 3 | 20% | `██░░░░░░░░` |
 | 🟥 Hard | 0 | 0% | `░░░░░░░░░░` |
-| **Total** | **14** | | |
+| **Total** | **15** | | |
 
 | How it was solved | Count | Share |
 |---|---:|---:|
-| 🟢 Independent | 12 | 86% |
-| 🟡 Hint | 2 | 14% |
+| 🟢 Independent | 13 | 87% |
+| 🟡 Hint | 2 | 13% |
 | 🔴 Solution | 0 | 0% |
 
 _Last updated: 20 Sep 2026_
@@ -46,7 +46,7 @@ _Last updated: 20 Sep 2026_
 
 | Topic | Solved | Easy | Med | Hard | Last solved | Status |
 |---|---:|---:|---:|---:|---|---|
-| [Arrays](01-arrays/) | 13 | 10 | 3 | 0 | 18 Sep | 🟢 Comfortable |
+| [Arrays](01-arrays/) | 14 | 11 | 3 | 0 | 18 Sep | 🟢 Comfortable |
 | Strings | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Hashing | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | [Two Pointers](04-two-pointers/) | 1 | 1 | 0 | 0 | 12 Sep | 🟡 In progress |
@@ -92,9 +92,11 @@ _Last updated: 20 Sep 2026_
 
 <!-- DSA-REVISION:START -->
 
-### ✅ Nothing due today
+### ⚠️ Overdue · 1
 
-All caught up.
+| Problem | Due | Overdue |
+|---|---|---:|
+| 3Sum | 25 Aug | 26 days |
 
 ### ⏳ Upcoming
 

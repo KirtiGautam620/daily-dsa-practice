@@ -1,6 +1,14 @@
 {
   "version": 1,
   "problems": {
+    "3sum": {
+      "title": "3Sum",
+      "path": "01-arrays/three-sum.py",
+      "solved": "2026-08-24",
+      "rung": 0,
+      "anchor": "2026-08-24",
+      "history": []
+    },
     "concatenation-of-array": {
       "title": "Concatenation of Array",
       "path": "01-arrays/concatenation-of-array.py",
