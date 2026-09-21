@@ -4,9 +4,9 @@
     "3sum": {
       "title": "3Sum",
       "path": "01-arrays/three-sum.py",
-      "solved": "2026-08-24",
+      "solved": "2026-09-21",
       "rung": 0,
-      "anchor": "2026-08-24",
+      "anchor": "2026-09-21",
       "history": []
     },
     "concatenation-of-array": {

@@ -19,7 +19,7 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 
 <!-- DSA-STATS:START -->
 
-**15** problems solved across **11** active days · 🔥 **0-day streak** (best: 2) · started 23 Aug 2026
+**15** problems solved across **12** active days · 🔥 **1-day streak** (best: 2) · started 23 Aug 2026
 
 | Difficulty | Solved | Share | |
 |---|---:|---:|---|
@@ -46,7 +46,7 @@ _Last updated: 21 Sep 2026_
 
 | Topic | Solved | Easy | Med | Hard | Last solved | Status |
 |---|---:|---:|---:|---:|---|---|
-| [Arrays](01-arrays/) | 14 | 11 | 3 | 0 | 18 Sep | 🟢 Comfortable |
+| [Arrays](01-arrays/) | 14 | 11 | 3 | 0 | 21 Sep | 🟢 Comfortable |
 | Strings | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Hashing | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | [Two Pointers](04-two-pointers/) | 1 | 1 | 0 | 0 | 12 Sep | 🟡 In progress |
@@ -73,6 +73,7 @@ _Last updated: 21 Sep 2026_
 
 | Date | Problem | Difficulty | Pattern | Result | Solution |
 |---|---|---|---|:---:|---|
+| 21 Sep | [3Sum](https://leetcode.com/problems/3sum/) | Easy | Array | 🟢 | [code](01-arrays/three-sum.py) |
 | 18 Sep | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Array | 🟢 | [code](01-arrays/palindrom_number.py) |
 | 16 Sep | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | Array | 🟢 | [code](01-arrays/happy_numbers.py) |
 | 12 Sep | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers | 🟢 | [code](04-two-pointers/revers_string.py) |
@@ -82,7 +83,6 @@ _Last updated: 21 Sep 2026_
 | 02 Sep | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Array | 🟢 | [code](01-arrays/majority_element.py) |
 | 02 Sep | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Array | 🟡 | [code](01-arrays/group_anagram.py) |
 | 29 Aug | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | Array | 🟢 | [code](01-arrays/max-consecutive-ones.py) |
-| 27 Aug | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array | 🟡 | [code](01-arrays/longest-common-prefix.py) |
 
 <!-- DSA-RECENT:END -->
 
@@ -99,17 +99,11 @@ _Last updated: 21 Sep 2026_
 | Palindrome Number | Array | 21 Sep |
 | Top K Frequent Elements | Array | 21 Sep |
 
-### ⚠️ Overdue · 1
-
-| Problem | Due | Overdue |
-|---|---|---:|
-| 3Sum | 25 Aug | 27 days |
-
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
-| 22 Sep | 2 |
+| 22 Sep | 3 |
 | 23 Sep | 2 |
 | 25 Sep | 1 |
 | 26 Sep | 1 |
