@@ -300,8 +300,8 @@
       "title": "Palindrome Number",
       "path": "01-arrays/palindrom_number.py",
       "solved": "2026-09-18",
-      "rung": 1,
-      "anchor": "2026-09-19",
+      "rung": 2,
+      "anchor": "2026-09-21",
       "history": [
         {
           "date": "2026-09-19",
@@ -310,6 +310,14 @@
           "rung_from": 0,
           "rung_to": 1,
           "anchor_from": "2026-09-18"
+        },
+        {
+          "date": "2026-09-21",
+          "scheduled": "2026-09-21",
+          "result": "remembered",
+          "rung_from": 1,
+          "rung_to": 2,
+          "anchor_from": "2026-09-19"
         }
       ]
     },
@@ -432,8 +440,8 @@
       "title": "Top K Frequent Elements",
       "path": "01-arrays/top-k-frequent-elements.py",
       "solved": "2026-09-06",
-      "rung": 3,
-      "anchor": "2026-09-13",
+      "rung": 4,
+      "anchor": "2026-09-21",
       "history": [
         {
           "date": "2026-09-07",
@@ -458,6 +466,14 @@
           "rung_from": 2,
           "rung_to": 3,
           "anchor_from": "2026-09-09"
+        },
+        {
+          "date": "2026-09-21",
+          "scheduled": "2026-09-21",
+          "result": "remembered",
+          "rung_from": 3,
+          "rung_to": 4,
+          "anchor_from": "2026-09-13"
         }
       ]
     },
