@@ -7,7 +7,7 @@ Status: Independent
 Date: 2026-09-21
 '''
 class Solution:
-    def threeSum(self, nums: list[int]) -> list[list[int]]:
+    def threeSum(self, nums) -> list[list[int]]:
         l=set()
         for i in range(len(nums)):
             d={}
