@@ -5,16 +5,25 @@
       "title": "3Sum",
       "path": "01-arrays/three-sum.py",
       "solved": "2026-09-21",
-      "rung": 0,
-      "anchor": "2026-09-21",
-      "history": []
+      "rung": 1,
+      "anchor": "2026-09-22",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "scheduled": "2026-09-22",
+          "result": "remembered",
+          "rung_from": 0,
+          "rung_to": 1,
+          "anchor_from": "2026-09-21"
+        }
+      ]
     },
     "concatenation-of-array": {
       "title": "Concatenation of Array",
       "path": "01-arrays/concatenation-of-array.py",
       "solved": "2026-08-23",
-      "rung": 4,
-      "anchor": "2026-09-07",
+      "rung": 5,
+      "anchor": "2026-09-22",
       "history": [
         {
           "date": "2026-08-24",
@@ -47,6 +56,14 @@
           "rung_from": 3,
           "rung_to": 4,
           "anchor_from": "2026-08-30"
+        },
+        {
+          "date": "2026-09-22",
+          "scheduled": "2026-09-22",
+          "result": "remembered",
+          "rung_from": 4,
+          "rung_to": 5,
+          "anchor_from": "2026-09-07"
         }
       ]
     },
@@ -530,8 +547,8 @@
       "title": "Valid Anagram",
       "path": "01-arrays/valid-anagram.py",
       "solved": "2026-08-23",
-      "rung": 4,
-      "anchor": "2026-09-07",
+      "rung": 5,
+      "anchor": "2026-09-22",
       "history": [
         {
           "date": "2026-08-24",
@@ -564,6 +581,14 @@
           "rung_from": 3,
           "rung_to": 4,
           "anchor_from": "2026-08-30"
+        },
+        {
+          "date": "2026-09-22",
+          "scheduled": "2026-09-22",
+          "result": "remembered",
+          "rung_from": 4,
+          "rung_to": 5,
+          "anchor_from": "2026-09-07"
         }
       ]
     }
