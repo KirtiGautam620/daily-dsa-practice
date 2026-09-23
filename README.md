@@ -19,7 +19,7 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 
 <!-- DSA-STATS:START -->
 
-**15** problems solved across **12** active days · 🔥 **1-day streak** (best: 2) · started 23 Aug 2026
+**15** problems solved across **12** active days · 🔥 **0-day streak** (best: 2) · started 23 Aug 2026
 
 | Difficulty | Solved | Share | |
 |---|---:|---:|---|
@@ -34,7 +34,7 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 | 🟡 Hint | 2 | 13% |
 | 🔴 Solution | 0 | 0% |
 
-_Last updated: 22 Sep 2026_
+_Last updated: 23 Sep 2026_
 
 <!-- DSA-STATS:END -->
 
@@ -92,15 +92,17 @@ _Last updated: 22 Sep 2026_
 
 <!-- DSA-REVISION:START -->
 
-### ✅ Nothing due today
+### 🔴 Due Today · 2
 
-All caught up.
+| Problem | Topic | Revision |
+|---|---|---|
+| Happy Number | Array | 23 Sep |
+| Two Sum | Array | 23 Sep |
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
-| 23 Sep | 2 |
 | 24 Sep | 1 |
 | 25 Sep | 2 |
 | 26 Sep | 1 |
@@ -108,9 +110,10 @@ All caught up.
 | 28 Sep | 1 |
 | 02 Oct | 2 |
 | 04 Oct | 1 |
-| _later_ | 4 |
+| 06 Oct | 1 |
+| _later_ | 3 |
 
-_22 Sep 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
+_23 Sep 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
 <!-- DSA-REVISION:END -->
 
