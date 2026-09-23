@@ -161,8 +161,8 @@
       "title": "Happy Number",
       "path": "01-arrays/happy_numbers.py",
       "solved": "2026-09-16",
-      "rung": 2,
-      "anchor": "2026-09-19",
+      "rung": 3,
+      "anchor": "2026-09-23",
       "history": [
         {
           "date": "2026-09-17",
@@ -179,6 +179,14 @@
           "rung_from": 1,
           "rung_to": 2,
           "anchor_from": "2026-09-17"
+        },
+        {
+          "date": "2026-09-23",
+          "scheduled": "2026-09-23",
+          "result": "remembered",
+          "rung_from": 2,
+          "rung_to": 3,
+          "anchor_from": "2026-09-19"
         }
       ]
     },
@@ -498,8 +506,8 @@
       "title": "Two Sum",
       "path": "01-arrays/two-sum.py",
       "solved": "2026-08-24",
-      "rung": 4,
-      "anchor": "2026-09-08",
+      "rung": 5,
+      "anchor": "2026-09-23",
       "history": [
         {
           "date": "2026-08-25",
@@ -532,6 +540,14 @@
           "rung_from": 3,
           "rung_to": 4,
           "anchor_from": "2026-08-31"
+        },
+        {
+          "date": "2026-09-23",
+          "scheduled": "2026-09-23",
+          "result": "remembered",
+          "rung_from": 4,
+          "rung_to": 5,
+          "anchor_from": "2026-09-08"
         }
       ]
     },
