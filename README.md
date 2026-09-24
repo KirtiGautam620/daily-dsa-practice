@@ -92,11 +92,9 @@ _Last updated: 24 Sep 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 1
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| 3Sum | Array | 24 Sep |
+All caught up.
 
 ### ⏳ Upcoming
 
@@ -105,7 +103,7 @@ _Last updated: 24 Sep 2026_
 | 25 Sep | 2 |
 | 26 Sep | 1 |
 | 27 Sep | 1 |
-| 28 Sep | 1 |
+| 28 Sep | 2 |
 | 01 Oct | 1 |
 | 02 Oct | 2 |
 | 04 Oct | 1 |

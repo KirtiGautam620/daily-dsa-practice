@@ -5,8 +5,8 @@
       "title": "3Sum",
       "path": "01-arrays/three-sum.py",
       "solved": "2026-09-21",
-      "rung": 1,
-      "anchor": "2026-09-22",
+      "rung": 2,
+      "anchor": "2026-09-24",
       "history": [
         {
           "date": "2026-09-22",
@@ -15,6 +15,14 @@
           "rung_from": 0,
           "rung_to": 1,
           "anchor_from": "2026-09-21"
+        },
+        {
+          "date": "2026-09-24",
+          "scheduled": "2026-09-24",
+          "result": "remembered",
+          "rung_from": 1,
+          "rung_to": 2,
+          "anchor_from": "2026-09-22"
         }
       ]
     },
