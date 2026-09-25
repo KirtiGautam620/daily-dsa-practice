@@ -92,12 +92,9 @@ _Last updated: 25 Sep 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 2
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Palindrome Number | Array | 25 Sep |
-| Set Mismatch | Array | 25 Sep |
+All caught up.
 
 ### ⏳ Upcoming
 
@@ -108,10 +105,10 @@ _Last updated: 25 Sep 2026_
 | 28 Sep | 2 |
 | 01 Oct | 1 |
 | 02 Oct | 2 |
+| 03 Oct | 1 |
 | 04 Oct | 1 |
 | 06 Oct | 1 |
-| 14 Oct | 1 |
-| _later_ | 3 |
+| _later_ | 5 |
 
 _25 Sep 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 

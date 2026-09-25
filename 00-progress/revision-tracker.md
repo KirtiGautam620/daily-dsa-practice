@@ -8,8 +8,6 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Problem | Solved | Done | R1 | R2 | R3 | R4 | R5 | R6 | Next due |
 |---|---|:---:|---|---|---|---|---|---|---|
-| [Palindrome Number](../01-arrays/palindrom_number.py) | 18 Sep 2026 | 2/6 | ✅ 19 Sep | ✅ 21 Sep | ⬜ 25 Sep | · 03 Oct | · 18 Oct | · 17 Nov | 🔴 25 Sep 2026 (today) |
-| [Set Mismatch](../01-arrays/set-mismatch.py) | 10 Sep 2026 | 3/6 | ✅ 11 Sep | ✅ 13 Sep | ✅ 17 Sep | ⬜ 25 Sep | · 10 Oct | · 09 Nov | 🔴 25 Sep 2026 (today) |
 | [Longest Common Prefix](../01-arrays/longest-common-prefix.py) | 27 Aug 2026 | 4/6 | ✅ 28 Aug | ✅ 30 Aug | ✅ 03 Sep | ✅ 11 Sep | ⬜ 26 Sep | · 26 Oct | 26 Sep 2026 |
 | [Reverse String](../04-two-pointers/revers_string.py) | 12 Sep 2026 | 3/6 | ✅ 13 Sep | ✅ 15 Sep | ✅ 19 Sep | ⬜ 27 Sep | · 12 Oct | · 11 Nov | 27 Sep 2026 |
 | [3Sum](../01-arrays/three-sum.py) | 21 Sep 2026 | 2/6 | ✅ 22 Sep | ✅ 24 Sep | ⬜ 28 Sep | · 06 Oct | · 21 Oct | · 20 Nov | 28 Sep 2026 |
@@ -17,8 +15,10 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 | [Happy Number](../01-arrays/happy_numbers.py) | 16 Sep 2026 | 3/6 | ✅ 17 Sep | ✅ 19 Sep | ✅ 23 Sep | ⬜ 01 Oct | · 16 Oct | · 15 Nov | 01 Oct 2026 |
 | [Group Anagrams](../01-arrays/group_anagram.py) | 02 Sep 2026 | 4/6 | ✅ 03 Sep | ✅ 05 Sep | ✅ 09 Sep | ✅ 17 Sep | ⬜ 02 Oct | · 01 Nov | 02 Oct 2026 |
 | [Majority Element](../01-arrays/majority_element.py) | 02 Sep 2026 | 4/6 | ✅ 03 Sep | ✅ 05 Sep | ✅ 09 Sep | ✅ 17 Sep | ⬜ 02 Oct | · 01 Nov | 02 Oct 2026 |
+| [Palindrome Number](../01-arrays/palindrom_number.py) | 18 Sep 2026 | 3/6 | ✅ 19 Sep | ✅ 21 Sep | ✅ 25 Sep | ⬜ 03 Oct | · 18 Oct | · 17 Nov | 03 Oct 2026 |
 | [Sort Colors](../01-arrays/sort_colors.py) | 04 Sep 2026 | 4/6 | ✅ 05 Sep | ✅ 07 Sep | ✅ 11 Sep | ✅ 19 Sep | ⬜ 04 Oct | · 03 Nov | 04 Oct 2026 |
 | [Top K Frequent Elements](../01-arrays/top-k-frequent-elements.py) | 06 Sep 2026 | 4/6 | ✅ 07 Sep | ✅ 09 Sep | ✅ 13 Sep | ✅ 21 Sep | ⬜ 06 Oct | · 05 Nov | 06 Oct 2026 |
+| [Set Mismatch](../01-arrays/set-mismatch.py) | 10 Sep 2026 | 4/6 | ✅ 11 Sep | ✅ 13 Sep | ✅ 17 Sep | ✅ 25 Sep | ⬜ 10 Oct | · 09 Nov | 10 Oct 2026 |
 | [Contains Duplicate](../01-arrays/contains-duplicate.py) | 23 Aug 2026 | 5/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ✅ 30 Aug | ✅ 14 Sep | ⬜ 14 Oct | 14 Oct 2026 |
 | [Concatenation of Array](../01-arrays/concatenation-of-array.py) | 23 Aug 2026 | 5/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ✅ 07 Sep | ✅ 22 Sep | ⬜ 22 Oct | 22 Oct 2026 |
 | [Valid Anagram](../01-arrays/valid-anagram.py) | 23 Aug 2026 | 5/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ✅ 07 Sep | ✅ 22 Sep | ⬜ 22 Oct | 22 Oct 2026 |
@@ -28,6 +28,8 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Revised on | Problem | Was scheduled | Result | Round |
 |---|---|---|:---:|:---:|
+| 25 Sep 2026 | Set Mismatch | 25 Sep 2026 | ✅ remembered | R4 |
+| 25 Sep 2026 | Palindrome Number | 25 Sep 2026 | ✅ remembered | R3 |
 | 24 Sep 2026 | 3Sum | 24 Sep 2026 | ✅ remembered | R2 |
 | 23 Sep 2026 | Two Sum | 23 Sep 2026 | ✅ remembered | R5 |
 | 23 Sep 2026 | Happy Number | 23 Sep 2026 | ✅ remembered | R3 |
@@ -66,7 +68,5 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 | 05 Sep 2026 | Majority Element | 05 Sep 2026 | ✅ remembered | R2 |
 | 05 Sep 2026 | Group Anagrams | 05 Sep 2026 | ✅ remembered | R2 |
 | 03 Sep 2026 | Majority Element | 03 Sep 2026 | ✅ remembered | R1 |
-| 03 Sep 2026 | Longest Common Prefix | 03 Sep 2026 | ✅ remembered | R3 |
-| 03 Sep 2026 | Group Anagrams | 03 Sep 2026 | ✅ remembered | R1 |
 
 <!-- DSA-TRACKER:END -->
