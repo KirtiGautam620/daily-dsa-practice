@@ -5,8 +5,8 @@
       "title": "3Sum",
       "path": "01-arrays/three-sum.py",
       "solved": "2026-09-21",
-      "rung": 2,
-      "anchor": "2026-09-24",
+      "rung": 3,
+      "anchor": "2026-09-28",
       "history": [
         {
           "date": "2026-09-22",
@@ -23,6 +23,14 @@
           "rung_from": 1,
           "rung_to": 2,
           "anchor_from": "2026-09-22"
+        },
+        {
+          "date": "2026-09-28",
+          "scheduled": "2026-09-28",
+          "result": "remembered",
+          "rung_from": 2,
+          "rung_to": 3,
+          "anchor_from": "2026-09-24"
         }
       ]
     },
@@ -292,8 +300,8 @@
       "title": "Max Consecutive Ones",
       "path": "01-arrays/max-consecutive-ones.py",
       "solved": "2026-08-29",
-      "rung": 4,
-      "anchor": "2026-09-13",
+      "rung": 5,
+      "anchor": "2026-09-28",
       "history": [
         {
           "date": "2026-08-30",
@@ -326,6 +334,14 @@
           "rung_from": 3,
           "rung_to": 4,
           "anchor_from": "2026-09-05"
+        },
+        {
+          "date": "2026-09-28",
+          "scheduled": "2026-09-28",
+          "result": "remembered",
+          "rung_from": 4,
+          "rung_to": 5,
+          "anchor_from": "2026-09-13"
         }
       ]
     },

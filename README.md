@@ -92,12 +92,9 @@ _Last updated: 28 Sep 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 2
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| 3Sum | Array | 28 Sep |
-| Max Consecutive Ones | Array | 28 Sep |
+All caught up.
 
 ### ⏳ Upcoming
 
@@ -107,11 +104,11 @@ _Last updated: 28 Sep 2026_
 | 02 Oct | 2 |
 | 03 Oct | 1 |
 | 04 Oct | 1 |
-| 06 Oct | 1 |
+| 06 Oct | 2 |
 | 10 Oct | 1 |
 | 12 Oct | 1 |
 | 14 Oct | 1 |
-| _later_ | 4 |
+| _later_ | 5 |
 
 _28 Sep 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
