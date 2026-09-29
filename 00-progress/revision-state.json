@@ -663,6 +663,14 @@
           "anchor_from": "2026-09-07"
         }
       ]
+    },
+    "valid-palindrome": {
+      "title": "Valid Palindrome",
+      "path": "04-two-pointers/valid_palindrome.py",
+      "solved": "2026-09-29",
+      "rung": 0,
+      "anchor": "2026-09-29",
+      "history": []
     }
   }
 }
