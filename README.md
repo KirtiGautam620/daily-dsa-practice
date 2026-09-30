@@ -92,18 +92,16 @@ _Last updated: 30 Sep 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 1
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Valid Palindrome | Two Pointers | 30 Sep |
+All caught up.
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
 | 01 Oct | 1 |
-| 02 Oct | 2 |
+| 02 Oct | 3 |
 | 03 Oct | 1 |
 | 04 Oct | 1 |
 | 06 Oct | 2 |

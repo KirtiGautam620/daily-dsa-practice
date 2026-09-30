@@ -668,9 +668,18 @@
       "title": "Valid Palindrome",
       "path": "04-two-pointers/valid_palindrome.py",
       "solved": "2026-09-29",
-      "rung": 0,
-      "anchor": "2026-09-29",
-      "history": []
+      "rung": 1,
+      "anchor": "2026-09-30",
+      "history": [
+        {
+          "date": "2026-09-30",
+          "scheduled": "2026-09-30",
+          "result": "remembered",
+          "rung_from": 0,
+          "rung_to": 1,
+          "anchor_from": "2026-09-29"
+        }
+      ]
     }
   }
 }

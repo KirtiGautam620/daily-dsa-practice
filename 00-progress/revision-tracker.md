@@ -8,10 +8,10 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Problem | Solved | Done | R1 | R2 | R3 | R4 | R5 | R6 | Next due |
 |---|---|:---:|---|---|---|---|---|---|---|
-| [Valid Palindrome](../04-two-pointers/valid_palindrome.py) | 29 Sep 2026 | 0/6 | ⬜ 30 Sep | · 02 Oct | · 06 Oct | · 14 Oct | · 29 Oct | · 28 Nov | 🔴 30 Sep 2026 (today) |
 | [Happy Number](../01-arrays/happy_numbers.py) | 16 Sep 2026 | 3/6 | ✅ 17 Sep | ✅ 19 Sep | ✅ 23 Sep | ⬜ 01 Oct | · 16 Oct | · 15 Nov | 01 Oct 2026 |
 | [Group Anagrams](../01-arrays/group_anagram.py) | 02 Sep 2026 | 4/6 | ✅ 03 Sep | ✅ 05 Sep | ✅ 09 Sep | ✅ 17 Sep | ⬜ 02 Oct | · 01 Nov | 02 Oct 2026 |
 | [Majority Element](../01-arrays/majority_element.py) | 02 Sep 2026 | 4/6 | ✅ 03 Sep | ✅ 05 Sep | ✅ 09 Sep | ✅ 17 Sep | ⬜ 02 Oct | · 01 Nov | 02 Oct 2026 |
+| [Valid Palindrome](../04-two-pointers/valid_palindrome.py) | 29 Sep 2026 | 1/6 | ✅ 30 Sep | ⬜ 02 Oct | · 06 Oct | · 14 Oct | · 29 Oct | · 28 Nov | 02 Oct 2026 |
 | [Palindrome Number](../01-arrays/palindrom_number.py) | 18 Sep 2026 | 3/6 | ✅ 19 Sep | ✅ 21 Sep | ✅ 25 Sep | ⬜ 03 Oct | · 18 Oct | · 17 Nov | 03 Oct 2026 |
 | [Sort Colors](../01-arrays/sort_colors.py) | 04 Sep 2026 | 4/6 | ✅ 05 Sep | ✅ 07 Sep | ✅ 11 Sep | ✅ 19 Sep | ⬜ 04 Oct | · 03 Nov | 04 Oct 2026 |
 | [3Sum](../01-arrays/three-sum.py) | 21 Sep 2026 | 3/6 | ✅ 22 Sep | ✅ 24 Sep | ✅ 28 Sep | ⬜ 06 Oct | · 21 Oct | · 20 Nov | 06 Oct 2026 |
@@ -29,6 +29,7 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Revised on | Problem | Was scheduled | Result | Round |
 |---|---|---|:---:|:---:|
+| 30 Sep 2026 | Valid Palindrome | 30 Sep 2026 | ✅ remembered | R1 |
 | 28 Sep 2026 | Max Consecutive Ones | 28 Sep 2026 | ✅ remembered | R5 |
 | 28 Sep 2026 | 3Sum | 28 Sep 2026 | ✅ remembered | R3 |
 | 27 Sep 2026 | Reverse String | 27 Sep 2026 | ✅ remembered | R4 |
@@ -68,6 +69,5 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 | 07 Sep 2026 | Top K Frequent Elements | 07 Sep 2026 | ✅ remembered | R1 |
 | 07 Sep 2026 | Sort Colors | 07 Sep 2026 | ✅ remembered | R2 |
 | 07 Sep 2026 | Concatenation of Array | 07 Sep 2026 | ✅ remembered | R4 |
-| 05 Sep 2026 | Sort Colors | 05 Sep 2026 | ✅ remembered | R1 |
 
 <!-- DSA-TRACKER:END -->
