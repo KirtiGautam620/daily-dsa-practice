@@ -92,13 +92,9 @@ _Last updated: 02 Oct 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 3
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Group Anagrams | Array | 02 Oct |
-| Majority Element | Array | 02 Oct |
-| Valid Palindrome | Two Pointers | 02 Oct |
+All caught up.
 
 ### ⏳ Upcoming
 
@@ -106,13 +102,13 @@ _Last updated: 02 Oct 2026_
 |---|---:|
 | 03 Oct | 1 |
 | 04 Oct | 1 |
-| 06 Oct | 2 |
+| 06 Oct | 3 |
 | 10 Oct | 1 |
 | 12 Oct | 1 |
 | 14 Oct | 1 |
 | 16 Oct | 1 |
 | 22 Oct | 2 |
-| _later_ | 3 |
+| _later_ | 5 |
 
 _02 Oct 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 

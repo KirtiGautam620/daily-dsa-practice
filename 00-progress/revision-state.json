@@ -136,8 +136,8 @@
       "title": "Group Anagrams",
       "path": "01-arrays/group_anagram.py",
       "solved": "2026-09-02",
-      "rung": 4,
-      "anchor": "2026-09-17",
+      "rung": 5,
+      "anchor": "2026-10-02",
       "history": [
         {
           "date": "2026-09-03",
@@ -170,6 +170,14 @@
           "rung_from": 3,
           "rung_to": 4,
           "anchor_from": "2026-09-09"
+        },
+        {
+          "date": "2026-10-02",
+          "scheduled": "2026-10-02",
+          "result": "remembered",
+          "rung_from": 4,
+          "rung_to": 5,
+          "anchor_from": "2026-09-17"
         }
       ]
     },
@@ -267,8 +275,8 @@
       "title": "Majority Element",
       "path": "01-arrays/majority_element.py",
       "solved": "2026-09-02",
-      "rung": 4,
-      "anchor": "2026-09-17",
+      "rung": 5,
+      "anchor": "2026-10-02",
       "history": [
         {
           "date": "2026-09-03",
@@ -301,6 +309,14 @@
           "rung_from": 3,
           "rung_to": 4,
           "anchor_from": "2026-09-09"
+        },
+        {
+          "date": "2026-10-02",
+          "scheduled": "2026-10-02",
+          "result": "remembered",
+          "rung_from": 4,
+          "rung_to": 5,
+          "anchor_from": "2026-09-17"
         }
       ]
     },
@@ -676,8 +692,8 @@
       "title": "Valid Palindrome",
       "path": "04-two-pointers/valid_palindrome.py",
       "solved": "2026-09-29",
-      "rung": 1,
-      "anchor": "2026-09-30",
+      "rung": 2,
+      "anchor": "2026-10-02",
       "history": [
         {
           "date": "2026-09-30",
@@ -686,6 +702,14 @@
           "rung_from": 0,
           "rung_to": 1,
           "anchor_from": "2026-09-29"
+        },
+        {
+          "date": "2026-10-02",
+          "scheduled": "2026-10-02",
+          "result": "remembered",
+          "rung_from": 1,
+          "rung_to": 2,
+          "anchor_from": "2026-09-30"
         }
       ]
     }
