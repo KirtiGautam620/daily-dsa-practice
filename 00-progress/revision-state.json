@@ -381,8 +381,8 @@
       "title": "Palindrome Number",
       "path": "01-arrays/palindrom_number.py",
       "solved": "2026-09-18",
-      "rung": 3,
-      "anchor": "2026-09-25",
+      "rung": 4,
+      "anchor": "2026-10-03",
       "history": [
         {
           "date": "2026-09-19",
@@ -407,6 +407,14 @@
           "rung_from": 2,
           "rung_to": 3,
           "anchor_from": "2026-09-21"
+        },
+        {
+          "date": "2026-10-03",
+          "scheduled": "2026-10-03",
+          "result": "remembered",
+          "rung_from": 3,
+          "rung_to": 4,
+          "anchor_from": "2026-09-25"
         }
       ]
     },
