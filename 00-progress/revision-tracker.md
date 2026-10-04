@@ -8,7 +8,6 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Problem | Solved | Done | R1 | R2 | R3 | R4 | R5 | R6 | Next due |
 |---|---|:---:|---|---|---|---|---|---|---|
-| [Sort Colors](../01-arrays/sort_colors.py) | 04 Sep 2026 | 4/6 | ✅ 05 Sep | ✅ 07 Sep | ✅ 11 Sep | ✅ 19 Sep | ⬜ 04 Oct | · 03 Nov | 🔴 04 Oct 2026 (today) |
 | [3Sum](../01-arrays/three-sum.py) | 21 Sep 2026 | 3/6 | ✅ 22 Sep | ✅ 24 Sep | ✅ 28 Sep | ⬜ 06 Oct | · 21 Oct | · 20 Nov | 06 Oct 2026 |
 | [Top K Frequent Elements](../01-arrays/top-k-frequent-elements.py) | 06 Sep 2026 | 4/6 | ✅ 07 Sep | ✅ 09 Sep | ✅ 13 Sep | ✅ 21 Sep | ⬜ 06 Oct | · 05 Nov | 06 Oct 2026 |
 | [Valid Palindrome](../04-two-pointers/valid_palindrome.py) | 29 Sep 2026 | 2/6 | ✅ 30 Sep | ✅ 02 Oct | ⬜ 06 Oct | · 14 Oct | · 29 Oct | · 28 Nov | 06 Oct 2026 |
@@ -24,11 +23,13 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 | [Max Consecutive Ones](../01-arrays/max-consecutive-ones.py) | 29 Aug 2026 | 5/6 | ✅ 30 Aug | ✅ 01 Sep | ✅ 05 Sep | ✅ 13 Sep | ✅ 28 Sep | ⬜ 28 Oct | 28 Oct 2026 |
 | [Group Anagrams](../01-arrays/group_anagram.py) | 02 Sep 2026 | 5/6 | ✅ 03 Sep | ✅ 05 Sep | ✅ 09 Sep | ✅ 17 Sep | ✅ 02 Oct | ⬜ 01 Nov | 01 Nov 2026 |
 | [Majority Element](../01-arrays/majority_element.py) | 02 Sep 2026 | 5/6 | ✅ 03 Sep | ✅ 05 Sep | ✅ 09 Sep | ✅ 17 Sep | ✅ 02 Oct | ⬜ 01 Nov | 01 Nov 2026 |
+| [Sort Colors](../01-arrays/sort_colors.py) | 04 Sep 2026 | 5/6 | ✅ 05 Sep | ✅ 07 Sep | ✅ 11 Sep | ✅ 19 Sep | ✅ 04 Oct | ⬜ 03 Nov | 03 Nov 2026 |
 
 ### 📝 Revision log
 
 | Revised on | Problem | Was scheduled | Result | Round |
 |---|---|---|:---:|:---:|
+| 04 Oct 2026 | Sort Colors | 04 Oct 2026 | ✅ remembered | R5 |
 | 03 Oct 2026 | Palindrome Number | 03 Oct 2026 | ✅ remembered | R4 |
 | 02 Oct 2026 | Valid Palindrome | 02 Oct 2026 | ✅ remembered | R2 |
 | 02 Oct 2026 | Majority Element | 02 Oct 2026 | ✅ remembered | R5 |
@@ -68,6 +69,5 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 | 11 Sep 2026 | Longest Common Prefix | 11 Sep 2026 | ✅ remembered | R4 |
 | 09 Sep 2026 | Top K Frequent Elements | 09 Sep 2026 | ✅ remembered | R2 |
 | 09 Sep 2026 | Majority Element | 09 Sep 2026 | ✅ remembered | R3 |
-| 09 Sep 2026 | Group Anagrams | 09 Sep 2026 | ✅ remembered | R3 |
 
 <!-- DSA-TRACKER:END -->
