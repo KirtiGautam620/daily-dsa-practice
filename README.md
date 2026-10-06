@@ -34,7 +34,7 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 | 🟡 Hint | 2 | 12% |
 | 🔴 Solution | 0 | 0% |
 
-_Last updated: 05 Oct 2026_
+_Last updated: 06 Oct 2026_
 
 <!-- DSA-STATS:END -->
 
@@ -92,15 +92,18 @@ _Last updated: 05 Oct 2026_
 
 <!-- DSA-REVISION:START -->
 
-### ✅ Nothing due today
+### 🔴 Due Today · 3
 
-All caught up.
+| Problem | Topic | Revision |
+|---|---|---|
+| 3Sum | Array | 06 Oct |
+| Top K Frequent Elements | Array | 06 Oct |
+| Valid Palindrome | Two Pointers | 06 Oct |
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
-| 06 Oct | 3 |
 | 10 Oct | 1 |
 | 12 Oct | 1 |
 | 14 Oct | 1 |
@@ -108,9 +111,10 @@ All caught up.
 | 18 Oct | 1 |
 | 22 Oct | 2 |
 | 23 Oct | 1 |
-| _later_ | 5 |
+| 26 Oct | 1 |
+| _later_ | 4 |
 
-_05 Oct 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
+_06 Oct 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
 <!-- DSA-REVISION:END -->
 
