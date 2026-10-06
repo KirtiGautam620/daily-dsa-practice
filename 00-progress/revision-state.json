@@ -5,8 +5,8 @@
       "title": "3Sum",
       "path": "01-arrays/three-sum.py",
       "solved": "2026-09-21",
-      "rung": 3,
-      "anchor": "2026-09-28",
+      "rung": 4,
+      "anchor": "2026-10-06",
       "history": [
         {
           "date": "2026-09-22",
@@ -31,6 +31,14 @@
           "rung_from": 2,
           "rung_to": 3,
           "anchor_from": "2026-09-24"
+        },
+        {
+          "date": "2026-10-06",
+          "scheduled": "2026-10-06",
+          "result": "remembered",
+          "rung_from": 3,
+          "rung_to": 4,
+          "anchor_from": "2026-09-28"
         }
       ]
     },
@@ -561,8 +569,8 @@
       "title": "Top K Frequent Elements",
       "path": "01-arrays/top-k-frequent-elements.py",
       "solved": "2026-09-06",
-      "rung": 4,
-      "anchor": "2026-09-21",
+      "rung": 5,
+      "anchor": "2026-10-06",
       "history": [
         {
           "date": "2026-09-07",
@@ -595,6 +603,14 @@
           "rung_from": 3,
           "rung_to": 4,
           "anchor_from": "2026-09-13"
+        },
+        {
+          "date": "2026-10-06",
+          "scheduled": "2026-10-06",
+          "result": "remembered",
+          "rung_from": 4,
+          "rung_to": 5,
+          "anchor_from": "2026-09-21"
         }
       ]
     },
@@ -708,8 +724,8 @@
       "title": "Valid Palindrome",
       "path": "04-two-pointers/valid_palindrome.py",
       "solved": "2026-09-29",
-      "rung": 2,
-      "anchor": "2026-10-02",
+      "rung": 3,
+      "anchor": "2026-10-06",
       "history": [
         {
           "date": "2026-09-30",
@@ -726,6 +742,14 @@
           "rung_from": 1,
           "rung_to": 2,
           "anchor_from": "2026-09-30"
+        },
+        {
+          "date": "2026-10-06",
+          "scheduled": "2026-10-06",
+          "result": "remembered",
+          "rung_from": 2,
+          "rung_to": 3,
+          "anchor_from": "2026-10-02"
         }
       ]
     }
