@@ -19,18 +19,18 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 
 <!-- DSA-STATS:START -->
 
-**16** problems solved across **13** active days · 🔥 **0-day streak** (best: 2) · started 23 Aug 2026
+**17** problems solved across **14** active days · 🔥 **1-day streak** (best: 2) · started 23 Aug 2026
 
 | Difficulty | Solved | Share | |
 |---|---:|---:|---|
-| 🟩 Easy | 13 | 81% | `████████░░` |
-| 🟨 Medium | 3 | 19% | `██░░░░░░░░` |
+| 🟩 Easy | 13 | 76% | `████████░░` |
+| 🟨 Medium | 4 | 24% | `██░░░░░░░░` |
 | 🟥 Hard | 0 | 0% | `░░░░░░░░░░` |
-| **Total** | **16** | | |
+| **Total** | **17** | | |
 
 | How it was solved | Count | Share |
 |---|---:|---:|
-| 🟢 Independent | 14 | 88% |
+| 🟢 Independent | 15 | 88% |
 | 🟡 Hint | 2 | 12% |
 | 🔴 Solution | 0 | 0% |
 
@@ -46,7 +46,7 @@ _Last updated: 08 Oct 2026_
 
 | Topic | Solved | Easy | Med | Hard | Last solved | Status |
 |---|---:|---:|---:|---:|---|---|
-| [Arrays](01-arrays/) | 14 | 11 | 3 | 0 | 21 Sep | 🟢 Comfortable |
+| [Arrays](01-arrays/) | 15 | 11 | 4 | 0 | 08 Oct | 💪 Strong |
 | Strings | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Hashing | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | [Two Pointers](04-two-pointers/) | 2 | 2 | 0 | 0 | 29 Sep | 🟡 In progress |
@@ -73,6 +73,7 @@ _Last updated: 08 Oct 2026_
 
 | Date | Problem | Difficulty | Pattern | Result | Solution |
 |---|---|---|---|:---:|---|
+| 08 Oct | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Array | 🟢 | [code](01-arrays/longest_consecutive_sequence.py) |
 | 29 Sep | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | 🟢 | [code](04-two-pointers/valid_palindrome.py) |
 | 21 Sep | [3Sum](https://leetcode.com/problems/3sum/) | Easy | Array | 🟢 | [code](01-arrays/three-sum.py) |
 | 18 Sep | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Array | 🟢 | [code](01-arrays/palindrom_number.py) |
@@ -82,7 +83,6 @@ _Last updated: 08 Oct 2026_
 | 06 Sep | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array | 🟢 | [code](01-arrays/top-k-frequent-elements.py) |
 | 04 Sep | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Array | 🟢 | [code](01-arrays/sort_colors.py) |
 | 02 Sep | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Array | 🟢 | [code](01-arrays/majority_element.py) |
-| 02 Sep | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Array | 🟡 | [code](01-arrays/group_anagram.py) |
 
 <!-- DSA-RECENT:END -->
 
@@ -100,6 +100,7 @@ All caught up.
 
 | Date | Problems |
 |---|---:|
+| 09 Oct | 1 |
 | 10 Oct | 1 |
 | 12 Oct | 1 |
 | 14 Oct | 2 |
@@ -107,8 +108,7 @@ All caught up.
 | 18 Oct | 1 |
 | 21 Oct | 1 |
 | 22 Oct | 2 |
-| 23 Oct | 1 |
-| _later_ | 6 |
+| _later_ | 7 |
 
 _08 Oct 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
