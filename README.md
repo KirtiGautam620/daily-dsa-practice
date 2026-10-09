@@ -19,7 +19,7 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 
 <!-- DSA-STATS:START -->
 
-**17** problems solved across **14** active days · 🔥 **1-day streak** (best: 2) · started 23 Aug 2026
+**17** problems solved across **14** active days · 🔥 **0-day streak** (best: 2) · started 23 Aug 2026
 
 | Difficulty | Solved | Share | |
 |---|---:|---:|---|
@@ -34,7 +34,7 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 | 🟡 Hint | 2 | 12% |
 | 🔴 Solution | 0 | 0% |
 
-_Last updated: 09 Oct 2026_
+_Last updated: 10 Oct 2026_
 
 <!-- DSA-STATS:END -->
 
@@ -100,7 +100,6 @@ All caught up.
 
 | Date | Problems |
 |---|---:|
-| 10 Oct | 1 |
 | 11 Oct | 1 |
 | 12 Oct | 1 |
 | 14 Oct | 2 |
@@ -108,9 +107,10 @@ All caught up.
 | 18 Oct | 1 |
 | 21 Oct | 1 |
 | 22 Oct | 2 |
+| 23 Oct | 1 |
 | _later_ | 7 |
 
-_09 Oct 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
+_10 Oct 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
 <!-- DSA-REVISION:END -->
 
