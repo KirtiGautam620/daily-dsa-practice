@@ -283,9 +283,18 @@
       "title": "Longest Consecutive Sequence",
       "path": "01-arrays/longest_consecutive_sequence.py",
       "solved": "2026-10-08",
-      "rung": 0,
-      "anchor": "2026-10-08",
-      "history": []
+      "rung": 1,
+      "anchor": "2026-10-09",
+      "history": [
+        {
+          "date": "2026-10-09",
+          "scheduled": "2026-10-09",
+          "result": "remembered",
+          "rung_from": 0,
+          "rung_to": 1,
+          "anchor_from": "2026-10-08"
+        }
+      ]
     },
     "majority-element": {
       "title": "Majority Element",
