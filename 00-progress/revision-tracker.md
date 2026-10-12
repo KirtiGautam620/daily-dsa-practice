@@ -8,7 +8,6 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Problem | Solved | Done | R1 | R2 | R3 | R4 | R5 | R6 | Next due |
 |---|---|:---:|---|---|---|---|---|---|---|
-| [Reverse String](../04-two-pointers/revers_string.py) | 12 Sep 2026 | 4/6 | ✅ 13 Sep | ✅ 15 Sep | ✅ 19 Sep | ✅ 27 Sep | ⬜ 12 Oct | · 11 Nov | 🔴 12 Oct 2026 (today) |
 | [Contains Duplicate](../01-arrays/contains-duplicate.py) | 23 Aug 2026 | 5/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ✅ 30 Aug | ✅ 14 Sep | ⬜ 14 Oct | 14 Oct 2026 |
 | [Valid Palindrome](../04-two-pointers/valid_palindrome.py) | 29 Sep 2026 | 3/6 | ✅ 30 Sep | ✅ 02 Oct | ✅ 06 Oct | ⬜ 14 Oct | · 29 Oct | · 28 Nov | 14 Oct 2026 |
 | [Longest Consecutive Sequence](../01-arrays/longest_consecutive_sequence.py) | 08 Oct 2026 | 2/6 | ✅ 09 Oct | ✅ 11 Oct | ⬜ 15 Oct | · 23 Oct | · 07 Nov | · 07 Dec | 15 Oct 2026 |
@@ -25,11 +24,13 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 | [Sort Colors](../01-arrays/sort_colors.py) | 04 Sep 2026 | 5/6 | ✅ 05 Sep | ✅ 07 Sep | ✅ 11 Sep | ✅ 19 Sep | ✅ 04 Oct | ⬜ 03 Nov | 03 Nov 2026 |
 | [Top K Frequent Elements](../01-arrays/top-k-frequent-elements.py) | 06 Sep 2026 | 5/6 | ✅ 07 Sep | ✅ 09 Sep | ✅ 13 Sep | ✅ 21 Sep | ✅ 06 Oct | ⬜ 05 Nov | 05 Nov 2026 |
 | [Set Mismatch](../01-arrays/set-mismatch.py) | 10 Sep 2026 | 5/6 | ✅ 11 Sep | ✅ 13 Sep | ✅ 17 Sep | ✅ 25 Sep | ✅ 10 Oct | ⬜ 09 Nov | 09 Nov 2026 |
+| [Reverse String](../04-two-pointers/revers_string.py) | 12 Sep 2026 | 5/6 | ✅ 13 Sep | ✅ 15 Sep | ✅ 19 Sep | ✅ 27 Sep | ✅ 12 Oct | ⬜ 11 Nov | 11 Nov 2026 |
 
 ### 📝 Revision log
 
 | Revised on | Problem | Was scheduled | Result | Round |
 |---|---|---|:---:|:---:|
+| 12 Oct 2026 | Reverse String | 12 Oct 2026 | ✅ remembered | R5 |
 | 11 Oct 2026 | Longest Consecutive Sequence | 11 Oct 2026 | ✅ remembered | R2 |
 | 10 Oct 2026 | Set Mismatch | 10 Oct 2026 | ✅ remembered | R5 |
 | 09 Oct 2026 | Longest Consecutive Sequence | 09 Oct 2026 | ✅ remembered | R1 |
@@ -69,6 +70,5 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 | 14 Sep 2026 | Contains Duplicate | 14 Sep 2026 | ✅ remembered | R5 |
 | 13 Sep 2026 | Top K Frequent Elements | 13 Sep 2026 | ✅ remembered | R3 |
 | 13 Sep 2026 | Set Mismatch | 13 Sep 2026 | ✅ remembered | R2 |
-| 13 Sep 2026 | Reverse String | 13 Sep 2026 | ✅ remembered | R1 |
 
 <!-- DSA-TRACKER:END -->
