@@ -291,8 +291,8 @@
       "title": "Longest Consecutive Sequence",
       "path": "01-arrays/longest_consecutive_sequence.py",
       "solved": "2026-10-08",
-      "rung": 2,
-      "anchor": "2026-10-11",
+      "rung": 3,
+      "anchor": "2026-10-15",
       "history": [
         {
           "date": "2026-10-09",
@@ -309,6 +309,14 @@
           "rung_from": 1,
           "rung_to": 2,
           "anchor_from": "2026-10-09"
+        },
+        {
+          "date": "2026-10-15",
+          "scheduled": "2026-10-15",
+          "result": "remembered",
+          "rung_from": 2,
+          "rung_to": 3,
+          "anchor_from": "2026-10-11"
         }
       ]
     },

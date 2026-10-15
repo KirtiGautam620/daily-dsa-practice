@@ -92,11 +92,9 @@ _Last updated: 15 Oct 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 1
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Longest Consecutive Sequence | Array | 15 Oct |
+All caught up.
 
 ### ⏳ Upcoming
 
@@ -106,7 +104,7 @@ _Last updated: 15 Oct 2026_
 | 18 Oct | 1 |
 | 21 Oct | 1 |
 | 22 Oct | 2 |
-| 23 Oct | 1 |
+| 23 Oct | 2 |
 | 26 Oct | 1 |
 | 28 Oct | 1 |
 | 29 Oct | 1 |
