@@ -92,11 +92,9 @@ _Last updated: 16 Oct 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 1
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Happy Number | Array | 16 Oct |
+All caught up.
 
 ### ⏳ Upcoming
 
@@ -110,7 +108,7 @@ _Last updated: 16 Oct 2026_
 | 28 Oct | 1 |
 | 29 Oct | 1 |
 | 01 Nov | 2 |
-| _later_ | 4 |
+| _later_ | 5 |
 
 _16 Oct 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
