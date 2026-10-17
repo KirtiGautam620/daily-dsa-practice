@@ -475,6 +475,14 @@
         }
       ]
     },
+    "plus-one": {
+      "title": "Plus One",
+      "path": "01-arrays/plus_one.py",
+      "solved": "2026-10-17",
+      "rung": 0,
+      "anchor": "2026-10-17",
+      "history": []
+    },
     "remove-duplicates-from-sorted-array": {
       "title": "Remove duplicates from sorted array",
       "path": "01-arrays/remove-duplicates.py",
