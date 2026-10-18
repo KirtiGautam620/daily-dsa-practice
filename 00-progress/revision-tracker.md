@@ -8,8 +8,7 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Problem | Solved | Done | R1 | R2 | R3 | R4 | R5 | R6 | Next due |
 |---|---|:---:|---|---|---|---|---|---|---|
-| [Palindrome Number](../01-arrays/palindrom_number.py) | 18 Sep 2026 | 4/6 | ✅ 19 Sep | ✅ 21 Sep | ✅ 25 Sep | ✅ 03 Oct | ⬜ 18 Oct | · 17 Nov | 🔴 18 Oct 2026 (today) |
-| [Plus One](../01-arrays/plus_one.py) | 17 Oct 2026 | 0/6 | ⬜ 18 Oct | · 20 Oct | · 24 Oct | · 01 Nov | · 16 Nov | · 16 Dec | 🔴 18 Oct 2026 (today) |
+| [Plus One](../01-arrays/plus_one.py) | 17 Oct 2026 | 1/6 | ✅ 18 Oct | ⬜ 20 Oct | · 24 Oct | · 01 Nov | · 16 Nov | · 16 Dec | 20 Oct 2026 |
 | [3Sum](../01-arrays/three-sum.py) | 21 Sep 2026 | 4/6 | ✅ 22 Sep | ✅ 24 Sep | ✅ 28 Sep | ✅ 06 Oct | ⬜ 21 Oct | · 20 Nov | 21 Oct 2026 |
 | [Concatenation of Array](../01-arrays/concatenation-of-array.py) | 23 Aug 2026 | 5/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ✅ 07 Sep | ✅ 22 Sep | ⬜ 22 Oct | 22 Oct 2026 |
 | [Valid Anagram](../01-arrays/valid-anagram.py) | 23 Aug 2026 | 5/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ✅ 07 Sep | ✅ 22 Sep | ⬜ 22 Oct | 22 Oct 2026 |
@@ -25,12 +24,15 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 | [Set Mismatch](../01-arrays/set-mismatch.py) | 10 Sep 2026 | 5/6 | ✅ 11 Sep | ✅ 13 Sep | ✅ 17 Sep | ✅ 25 Sep | ✅ 10 Oct | ⬜ 09 Nov | 09 Nov 2026 |
 | [Reverse String](../04-two-pointers/revers_string.py) | 12 Sep 2026 | 5/6 | ✅ 13 Sep | ✅ 15 Sep | ✅ 19 Sep | ✅ 27 Sep | ✅ 12 Oct | ⬜ 11 Nov | 11 Nov 2026 |
 | [Happy Number](../01-arrays/happy_numbers.py) | 16 Sep 2026 | 5/6 | ✅ 17 Sep | ✅ 19 Sep | ✅ 23 Sep | ✅ 01 Oct | ✅ 16 Oct | ⬜ 15 Nov | 15 Nov 2026 |
+| [Palindrome Number](../01-arrays/palindrom_number.py) | 18 Sep 2026 | 5/6 | ✅ 19 Sep | ✅ 21 Sep | ✅ 25 Sep | ✅ 03 Oct | ✅ 18 Oct | ⬜ 17 Nov | 17 Nov 2026 |
 | [Contains Duplicate](../01-arrays/contains-duplicate.py) | 23 Aug 2026 | 6/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ✅ 30 Aug | ✅ 14 Sep | ✅ 14 Oct | 🎓 graduated |
 
 ### 📝 Revision log
 
 | Revised on | Problem | Was scheduled | Result | Round |
 |---|---|---|:---:|:---:|
+| 18 Oct 2026 | Plus One | 18 Oct 2026 | ✅ remembered | R1 |
+| 18 Oct 2026 | Palindrome Number | 18 Oct 2026 | ✅ remembered | R5 |
 | 16 Oct 2026 | Happy Number | 16 Oct 2026 | ✅ remembered | R5 |
 | 15 Oct 2026 | Longest Consecutive Sequence | 15 Oct 2026 | ✅ remembered | R3 |
 | 14 Oct 2026 | Valid Palindrome | 14 Oct 2026 | ✅ remembered | R4 |
@@ -69,7 +71,5 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 | 19 Sep 2026 | Happy Number | 19 Sep 2026 | ✅ remembered | R2 |
 | 17 Sep 2026 | Set Mismatch | 17 Sep 2026 | ✅ remembered | R3 |
 | 17 Sep 2026 | Majority Element | 17 Sep 2026 | ✅ remembered | R4 |
-| 17 Sep 2026 | Happy Number | 17 Sep 2026 | ✅ remembered | R1 |
-| 17 Sep 2026 | Group Anagrams | 17 Sep 2026 | ✅ remembered | R4 |
 
 <!-- DSA-TRACKER:END -->

@@ -438,8 +438,8 @@
       "title": "Palindrome Number",
       "path": "01-arrays/palindrom_number.py",
       "solved": "2026-09-18",
-      "rung": 4,
-      "anchor": "2026-10-03",
+      "rung": 5,
+      "anchor": "2026-10-18",
       "history": [
         {
           "date": "2026-09-19",
@@ -472,6 +472,14 @@
           "rung_from": 3,
           "rung_to": 4,
           "anchor_from": "2026-09-25"
+        },
+        {
+          "date": "2026-10-18",
+          "scheduled": "2026-10-18",
+          "result": "remembered",
+          "rung_from": 4,
+          "rung_to": 5,
+          "anchor_from": "2026-10-03"
         }
       ]
     },
@@ -479,9 +487,18 @@
       "title": "Plus One",
       "path": "01-arrays/plus_one.py",
       "solved": "2026-10-17",
-      "rung": 0,
-      "anchor": "2026-10-17",
-      "history": []
+      "rung": 1,
+      "anchor": "2026-10-18",
+      "history": [
+        {
+          "date": "2026-10-18",
+          "scheduled": "2026-10-18",
+          "result": "remembered",
+          "rung_from": 0,
+          "rung_to": 1,
+          "anchor_from": "2026-10-17"
+        }
+      ]
     },
     "remove-duplicates-from-sorted-array": {
       "title": "Remove duplicates from sorted array",
