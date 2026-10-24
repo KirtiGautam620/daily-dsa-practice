@@ -5,8 +5,8 @@
       "title": "3Sum",
       "path": "01-arrays/three-sum.py",
       "solved": "2026-09-21",
-      "rung": 4,
-      "anchor": "2026-10-06",
+      "rung": 5,
+      "anchor": "2026-10-24",
       "history": [
         {
           "date": "2026-09-22",
@@ -39,6 +39,14 @@
           "rung_from": 3,
           "rung_to": 4,
           "anchor_from": "2026-09-28"
+        },
+        {
+          "date": "2026-10-24",
+          "scheduled": "2026-10-21",
+          "result": "remembered",
+          "rung_from": 4,
+          "rung_to": 5,
+          "anchor_from": "2026-10-06"
         }
       ]
     },
@@ -46,8 +54,8 @@
       "title": "Concatenation of Array",
       "path": "01-arrays/concatenation-of-array.py",
       "solved": "2026-08-23",
-      "rung": 5,
-      "anchor": "2026-09-22",
+      "rung": 6,
+      "anchor": "2026-10-24",
       "history": [
         {
           "date": "2026-08-24",
@@ -88,6 +96,14 @@
           "rung_from": 4,
           "rung_to": 5,
           "anchor_from": "2026-09-07"
+        },
+        {
+          "date": "2026-10-24",
+          "scheduled": "2026-10-22",
+          "result": "remembered",
+          "rung_from": 5,
+          "rung_to": 6,
+          "anchor_from": "2026-09-22"
         }
       ]
     },
@@ -299,8 +315,8 @@
       "title": "Longest Consecutive Sequence",
       "path": "01-arrays/longest_consecutive_sequence.py",
       "solved": "2026-10-08",
-      "rung": 3,
-      "anchor": "2026-10-15",
+      "rung": 4,
+      "anchor": "2026-10-24",
       "history": [
         {
           "date": "2026-10-09",
@@ -325,6 +341,14 @@
           "rung_from": 2,
           "rung_to": 3,
           "anchor_from": "2026-10-11"
+        },
+        {
+          "date": "2026-10-24",
+          "scheduled": "2026-10-23",
+          "result": "remembered",
+          "rung_from": 3,
+          "rung_to": 4,
+          "anchor_from": "2026-10-15"
         }
       ]
     },
@@ -487,8 +511,8 @@
       "title": "Plus One",
       "path": "01-arrays/plus_one.py",
       "solved": "2026-10-17",
-      "rung": 2,
-      "anchor": "2026-10-20",
+      "rung": 3,
+      "anchor": "2026-10-24",
       "history": [
         {
           "date": "2026-10-18",
@@ -505,6 +529,14 @@
           "rung_from": 1,
           "rung_to": 2,
           "anchor_from": "2026-10-18"
+        },
+        {
+          "date": "2026-10-24",
+          "scheduled": "2026-10-24",
+          "result": "remembered",
+          "rung_from": 2,
+          "rung_to": 3,
+          "anchor_from": "2026-10-20"
         }
       ]
     },
@@ -716,8 +748,8 @@
       "title": "Two Sum",
       "path": "01-arrays/two-sum.py",
       "solved": "2026-08-24",
-      "rung": 5,
-      "anchor": "2026-09-23",
+      "rung": 6,
+      "anchor": "2026-10-24",
       "history": [
         {
           "date": "2026-08-25",
@@ -758,6 +790,14 @@
           "rung_from": 4,
           "rung_to": 5,
           "anchor_from": "2026-09-08"
+        },
+        {
+          "date": "2026-10-24",
+          "scheduled": "2026-10-23",
+          "result": "remembered",
+          "rung_from": 5,
+          "rung_to": 6,
+          "anchor_from": "2026-09-23"
         }
       ]
     },
@@ -773,8 +813,8 @@
       "title": "Valid Anagram",
       "path": "01-arrays/valid-anagram.py",
       "solved": "2026-08-23",
-      "rung": 5,
-      "anchor": "2026-09-22",
+      "rung": 6,
+      "anchor": "2026-10-24",
       "history": [
         {
           "date": "2026-08-24",
@@ -815,6 +855,14 @@
           "rung_from": 4,
           "rung_to": 5,
           "anchor_from": "2026-09-07"
+        },
+        {
+          "date": "2026-10-24",
+          "scheduled": "2026-10-22",
+          "result": "remembered",
+          "rung_from": 5,
+          "rung_to": 6,
+          "anchor_from": "2026-09-22"
         }
       ]
     },
