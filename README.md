@@ -34,7 +34,7 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 | 🟡 Hint | 2 | 11% |
 | 🔴 Solution | 0 | 0% |
 
-_Last updated: 23 Oct 2026_
+_Last updated: 24 Oct 2026_
 
 <!-- DSA-STATS:END -->
 
@@ -92,26 +92,26 @@ _Last updated: 23 Oct 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 2
+### 🔴 Due Today · 1
 
 | Problem | Topic | Revision |
 |---|---|---|
-| Longest Consecutive Sequence | Array | 23 Oct |
-| Two Sum | Array | 23 Oct |
+| Plus One | Array | 24 Oct |
 
-### ⚠️ Overdue · 3
+### ⚠️ Overdue · 5
 
 | Problem | Due | Overdue |
 |---|---|---:|
-| 3Sum | 21 Oct | 2 days |
-| Concatenation of Array | 22 Oct | 1 day |
-| Valid Anagram | 22 Oct | 1 day |
+| 3Sum | 21 Oct | 3 days |
+| Concatenation of Array | 22 Oct | 2 days |
+| Valid Anagram | 22 Oct | 2 days |
+| Longest Consecutive Sequence | 23 Oct | 1 day |
+| Two Sum | 23 Oct | 1 day |
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
-| 24 Oct | 1 |
 | 26 Oct | 1 |
 | 28 Oct | 1 |
 | 29 Oct | 1 |
@@ -119,9 +119,10 @@ _Last updated: 23 Oct 2026_
 | 03 Nov | 1 |
 | 05 Nov | 1 |
 | 09 Nov | 1 |
-| _later_ | 3 |
+| 11 Nov | 1 |
+| _later_ | 2 |
 
-_23 Oct 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
+_24 Oct 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
 <!-- DSA-REVISION:END -->
 
