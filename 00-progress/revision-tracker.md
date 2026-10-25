@@ -8,6 +8,7 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Problem | Solved | Done | R1 | R2 | R3 | R4 | R5 | R6 | Next due |
 |---|---|:---:|---|---|---|---|---|---|---|
+| [Count Subarrays With Loose Bounds](../01-arrays/count-array-loose-bound.py) | 25 Oct 2026 | 0/6 | ⬜ 26 Oct | · 28 Oct | · 01 Nov | · 09 Nov | · 24 Nov | · 24 Dec | 26 Oct 2026 |
 | [Longest Common Prefix](../01-arrays/longest-common-prefix.py) | 27 Aug 2026 | 5/6 | ✅ 28 Aug | ✅ 30 Aug | ✅ 03 Sep | ✅ 11 Sep | ✅ 26 Sep | ⬜ 26 Oct | 26 Oct 2026 |
 | [Max Consecutive Ones](../01-arrays/max-consecutive-ones.py) | 29 Aug 2026 | 5/6 | ✅ 30 Aug | ✅ 01 Sep | ✅ 05 Sep | ✅ 13 Sep | ✅ 28 Sep | ⬜ 28 Oct | 28 Oct 2026 |
 | [Valid Palindrome](../04-two-pointers/valid_palindrome.py) | 29 Sep 2026 | 4/6 | ✅ 30 Sep | ✅ 02 Oct | ✅ 06 Oct | ✅ 14 Oct | ⬜ 29 Oct | · 28 Nov | 29 Oct 2026 |

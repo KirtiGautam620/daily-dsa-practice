@@ -19,19 +19,19 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 
 <!-- DSA-STATS:START -->
 
-**18** problems solved across **15** active days · 🔥 **0-day streak** (best: 2) · started 23 Aug 2026
+**19** problems solved across **16** active days · 🔥 **1-day streak** (best: 2) · started 23 Aug 2026
 
 | Difficulty | Solved | Share | |
 |---|---:|---:|---|
-| 🟩 Easy | 14 | 78% | `████████░░` |
-| 🟨 Medium | 4 | 22% | `██░░░░░░░░` |
+| 🟩 Easy | 14 | 74% | `███████░░░` |
+| 🟨 Medium | 5 | 26% | `███░░░░░░░` |
 | 🟥 Hard | 0 | 0% | `░░░░░░░░░░` |
-| **Total** | **18** | | |
+| **Total** | **19** | | |
 
 | How it was solved | Count | Share |
 |---|---:|---:|
-| 🟢 Independent | 16 | 89% |
-| 🟡 Hint | 2 | 11% |
+| 🟢 Independent | 16 | 84% |
+| 🟡 Hint | 3 | 16% |
 | 🔴 Solution | 0 | 0% |
 
 _Last updated: 25 Oct 2026_
@@ -46,7 +46,7 @@ _Last updated: 25 Oct 2026_
 
 | Topic | Solved | Easy | Med | Hard | Last solved | Status |
 |---|---:|---:|---:|---:|---|---|
-| [Arrays](01-arrays/) | 16 | 12 | 4 | 0 | 17 Oct | 💪 Strong |
+| [Arrays](01-arrays/) | 17 | 12 | 5 | 0 | 25 Oct | 💪 Strong |
 | Strings | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Hashing | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | [Two Pointers](04-two-pointers/) | 2 | 2 | 0 | 0 | 29 Sep | 🟡 In progress |
@@ -73,6 +73,7 @@ _Last updated: 25 Oct 2026_
 
 | Date | Problem | Difficulty | Pattern | Result | Solution |
 |---|---|---|---|:---:|---|
+| 25 Oct | [Count Subarrays With Loose Bounds](https://leetcode.com/problems/count-subarrays-with-loose-bounds/) | Medium | Array | 🟡 | [code](01-arrays/count-array-loose-bound.py) |
 | 17 Oct | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | Array | 🟢 | [code](01-arrays/plus_one.py) |
 | 08 Oct | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Array | 🟢 | [code](01-arrays/longest_consecutive_sequence.py) |
 | 29 Sep | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | 🟢 | [code](04-two-pointers/valid_palindrome.py) |
@@ -82,7 +83,6 @@ _Last updated: 25 Oct 2026_
 | 12 Sep | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers | 🟢 | [code](04-two-pointers/revers_string.py) |
 | 10 Sep | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | Array | 🟢 | [code](01-arrays/set-mismatch.py) |
 | 06 Sep | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array | 🟢 | [code](01-arrays/top-k-frequent-elements.py) |
-| 04 Sep | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Array | 🟢 | [code](01-arrays/sort_colors.py) |
 
 <!-- DSA-RECENT:END -->
 
@@ -100,7 +100,7 @@ All caught up.
 
 | Date | Problems |
 |---|---:|
-| 26 Oct | 1 |
+| 26 Oct | 2 |
 | 28 Oct | 1 |
 | 29 Oct | 1 |
 | 01 Nov | 3 |

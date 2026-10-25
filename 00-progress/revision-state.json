@@ -164,6 +164,14 @@
         }
       ]
     },
+    "count-subarrays-with-loose-bounds": {
+      "title": "Count Subarrays With Loose Bounds",
+      "path": "01-arrays/count-array-loose-bound.py",
+      "solved": "2026-10-25",
+      "rung": 0,
+      "anchor": "2026-10-25",
+      "history": []
+    },
     "group-anagrams": {
       "title": "Group Anagrams",
       "path": "01-arrays/group_anagram.py",
