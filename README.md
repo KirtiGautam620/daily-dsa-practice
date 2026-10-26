@@ -92,18 +92,15 @@ _Last updated: 26 Oct 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 2
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Count Subarrays With Loose Bounds | Array | 26 Oct |
-| Longest Common Prefix | Array | 26 Oct |
+All caught up.
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
-| 28 Oct | 1 |
+| 28 Oct | 2 |
 | 29 Oct | 1 |
 | 01 Nov | 3 |
 | 03 Nov | 1 |

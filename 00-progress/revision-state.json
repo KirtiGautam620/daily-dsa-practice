@@ -168,9 +168,18 @@
       "title": "Count Subarrays With Loose Bounds",
       "path": "01-arrays/count-array-loose-bound.py",
       "solved": "2026-10-25",
-      "rung": 0,
-      "anchor": "2026-10-25",
-      "history": []
+      "rung": 1,
+      "anchor": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "scheduled": "2026-10-26",
+          "result": "remembered",
+          "rung_from": 0,
+          "rung_to": 1,
+          "anchor_from": "2026-10-25"
+        }
+      ]
     },
     "group-anagrams": {
       "title": "Group Anagrams",
@@ -274,8 +283,8 @@
       "title": "Longest Common Prefix",
       "path": "01-arrays/longest-common-prefix.py",
       "solved": "2026-08-27",
-      "rung": 5,
-      "anchor": "2026-09-26",
+      "rung": 6,
+      "anchor": "2026-10-26",
       "history": [
         {
           "date": "2026-08-28",
@@ -316,6 +325,14 @@
           "rung_from": 4,
           "rung_to": 5,
           "anchor_from": "2026-09-11"
+        },
+        {
+          "date": "2026-10-26",
+          "scheduled": "2026-10-26",
+          "result": "remembered",
+          "rung_from": 5,
+          "rung_to": 6,
+          "anchor_from": "2026-09-26"
         }
       ]
     },

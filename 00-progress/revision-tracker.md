@@ -8,8 +8,7 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Problem | Solved | Done | R1 | R2 | R3 | R4 | R5 | R6 | Next due |
 |---|---|:---:|---|---|---|---|---|---|---|
-| [Count Subarrays With Loose Bounds](../01-arrays/count-array-loose-bound.py) | 25 Oct 2026 | 0/6 | ⬜ 26 Oct | · 28 Oct | · 01 Nov | · 09 Nov | · 24 Nov | · 24 Dec | 🔴 26 Oct 2026 (today) |
-| [Longest Common Prefix](../01-arrays/longest-common-prefix.py) | 27 Aug 2026 | 5/6 | ✅ 28 Aug | ✅ 30 Aug | ✅ 03 Sep | ✅ 11 Sep | ✅ 26 Sep | ⬜ 26 Oct | 🔴 26 Oct 2026 (today) |
+| [Count Subarrays With Loose Bounds](../01-arrays/count-array-loose-bound.py) | 25 Oct 2026 | 1/6 | ✅ 26 Oct | ⬜ 28 Oct | · 01 Nov | · 09 Nov | · 24 Nov | · 24 Dec | 28 Oct 2026 |
 | [Max Consecutive Ones](../01-arrays/max-consecutive-ones.py) | 29 Aug 2026 | 5/6 | ✅ 30 Aug | ✅ 01 Sep | ✅ 05 Sep | ✅ 13 Sep | ✅ 28 Sep | ⬜ 28 Oct | 28 Oct 2026 |
 | [Valid Palindrome](../04-two-pointers/valid_palindrome.py) | 29 Sep 2026 | 4/6 | ✅ 30 Sep | ✅ 02 Oct | ✅ 06 Oct | ✅ 14 Oct | ⬜ 29 Oct | · 28 Nov | 29 Oct 2026 |
 | [Group Anagrams](../01-arrays/group_anagram.py) | 02 Sep 2026 | 5/6 | ✅ 03 Sep | ✅ 05 Sep | ✅ 09 Sep | ✅ 17 Sep | ✅ 02 Oct | ⬜ 01 Nov | 01 Nov 2026 |
@@ -25,6 +24,7 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 | [3Sum](../01-arrays/three-sum.py) | 21 Sep 2026 | 5/6 | ✅ 22 Sep | ✅ 24 Sep | ✅ 28 Sep | ✅ 06 Oct | ✅ 24 Oct | ⬜ 23 Nov | 23 Nov 2026 |
 | [Concatenation of Array](../01-arrays/concatenation-of-array.py) | 23 Aug 2026 | 6/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ✅ 07 Sep | ✅ 22 Sep | ✅ 24 Oct | 🎓 graduated |
 | [Contains Duplicate](../01-arrays/contains-duplicate.py) | 23 Aug 2026 | 6/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ✅ 30 Aug | ✅ 14 Sep | ✅ 14 Oct | 🎓 graduated |
+| [Longest Common Prefix](../01-arrays/longest-common-prefix.py) | 27 Aug 2026 | 6/6 | ✅ 28 Aug | ✅ 30 Aug | ✅ 03 Sep | ✅ 11 Sep | ✅ 26 Sep | ✅ 26 Oct | 🎓 graduated |
 | [Two Sum](../01-arrays/two-sum.py) | 24 Aug 2026 | 6/6 | ✅ 25 Aug | ✅ 27 Aug | ✅ 31 Aug | ✅ 08 Sep | ✅ 23 Sep | ✅ 24 Oct | 🎓 graduated |
 | [Valid Anagram](../01-arrays/valid-anagram.py) | 23 Aug 2026 | 6/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ✅ 07 Sep | ✅ 22 Sep | ✅ 24 Oct | 🎓 graduated |
 
@@ -32,6 +32,8 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Revised on | Problem | Was scheduled | Result | Round |
 |---|---|---|:---:|:---:|
+| 26 Oct 2026 | Longest Common Prefix | 26 Oct 2026 | ✅ remembered | R6 |
+| 26 Oct 2026 | Count Subarrays With Loose Bounds | 26 Oct 2026 | ✅ remembered | R1 |
 | 24 Oct 2026 | Valid Anagram | 22 Oct 2026 | ✅ remembered | R6 |
 | 24 Oct 2026 | Two Sum | 23 Oct 2026 | ✅ remembered | R6 |
 | 24 Oct 2026 | Plus One | 24 Oct 2026 | ✅ remembered | R3 |
@@ -70,7 +72,5 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 | 23 Sep 2026 | Happy Number | 23 Sep 2026 | ✅ remembered | R3 |
 | 22 Sep 2026 | Valid Anagram | 22 Sep 2026 | ✅ remembered | R5 |
 | 22 Sep 2026 | Concatenation of Array | 22 Sep 2026 | ✅ remembered | R5 |
-| 22 Sep 2026 | 3Sum | 22 Sep 2026 | ✅ remembered | R1 |
-| 21 Sep 2026 | Top K Frequent Elements | 21 Sep 2026 | ✅ remembered | R4 |
 
 <!-- DSA-TRACKER:END -->
