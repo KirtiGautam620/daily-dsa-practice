@@ -34,7 +34,7 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 | 🟡 Hint | 3 | 16% |
 | 🔴 Solution | 0 | 0% |
 
-_Last updated: 28 Oct 2026_
+_Last updated: 29 Oct 2026_
 
 <!-- DSA-STATS:END -->
 
@@ -92,18 +92,23 @@ _Last updated: 28 Oct 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 2
+### 🔴 Due Today · 1
 
 | Problem | Topic | Revision |
 |---|---|---|
-| Count Subarrays With Loose Bounds | Array | 28 Oct |
-| Max Consecutive Ones | Array | 28 Oct |
+| Valid Palindrome | Two Pointers | 29 Oct |
+
+### ⚠️ Overdue · 2
+
+| Problem | Due | Overdue |
+|---|---|---:|
+| Count Subarrays With Loose Bounds | 28 Oct | 1 day |
+| Max Consecutive Ones | 28 Oct | 1 day |
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
-| 29 Oct | 1 |
 | 01 Nov | 3 |
 | 03 Nov | 1 |
 | 05 Nov | 1 |
@@ -111,9 +116,10 @@ _Last updated: 28 Oct 2026_
 | 09 Nov | 1 |
 | 11 Nov | 1 |
 | 15 Nov | 1 |
-| _later_ | 2 |
+| 17 Nov | 1 |
+| _later_ | 1 |
 
-_28 Oct 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
+_29 Oct 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
 <!-- DSA-REVISION:END -->
 
