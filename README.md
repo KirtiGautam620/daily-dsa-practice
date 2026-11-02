@@ -92,16 +92,9 @@ _Last updated: 02 Nov 2026_
 
 <!-- DSA-REVISION:START -->
 
-### ⚠️ Overdue · 6
+### ✅ Nothing due today
 
-| Problem | Due | Overdue |
-|---|---|---:|
-| Count Subarrays With Loose Bounds | 28 Oct | 5 days |
-| Max Consecutive Ones | 28 Oct | 5 days |
-| Valid Palindrome | 29 Oct | 4 days |
-| Group Anagrams | 01 Nov | 1 day |
-| Majority Element | 01 Nov | 1 day |
-| Plus One | 01 Nov | 1 day |
+All caught up.
 
 ### ⏳ Upcoming
 
@@ -109,12 +102,13 @@ _Last updated: 02 Nov 2026_
 |---|---:|
 | 03 Nov | 1 |
 | 05 Nov | 1 |
+| 06 Nov | 1 |
 | 08 Nov | 1 |
 | 09 Nov | 1 |
 | 11 Nov | 1 |
 | 15 Nov | 1 |
-| 17 Nov | 1 |
-| 23 Nov | 1 |
+| 17 Nov | 2 |
+| _later_ | 2 |
 
 _02 Nov 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
