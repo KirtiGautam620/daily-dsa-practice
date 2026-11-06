@@ -112,6 +112,7 @@ _Last updated: 06 Nov 2026_
 | 08 Nov | 1 |
 | 09 Nov | 1 |
 | 11 Nov | 1 |
+| 14 Nov | 1 |
 | 15 Nov | 1 |
 | 17 Nov | 2 |
 | 23 Nov | 1 |

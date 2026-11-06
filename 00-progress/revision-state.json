@@ -168,8 +168,8 @@
       "title": "Count Subarrays With Loose Bounds",
       "path": "01-arrays/count-array-loose-bound.py",
       "solved": "2026-10-25",
-      "rung": 2,
-      "anchor": "2026-11-02",
+      "rung": 3,
+      "anchor": "2026-11-06",
       "history": [
         {
           "date": "2026-10-26",
@@ -186,6 +186,14 @@
           "rung_from": 1,
           "rung_to": 2,
           "anchor_from": "2026-10-26"
+        },
+        {
+          "date": "2026-11-06",
+          "scheduled": "2026-11-06",
+          "result": "remembered",
+          "rung_from": 2,
+          "rung_to": 3,
+          "anchor_from": "2026-11-02"
         }
       ]
     },
@@ -715,8 +723,8 @@
       "title": "Sort Colors",
       "path": "01-arrays/sort_colors.py",
       "solved": "2026-09-04",
-      "rung": 5,
-      "anchor": "2026-10-04",
+      "rung": 6,
+      "anchor": "2026-11-06",
       "history": [
         {
           "date": "2026-09-05",
@@ -757,6 +765,14 @@
           "rung_from": 4,
           "rung_to": 5,
           "anchor_from": "2026-09-19"
+        },
+        {
+          "date": "2026-11-06",
+          "scheduled": "2026-11-03",
+          "result": "remembered",
+          "rung_from": 5,
+          "rung_to": 6,
+          "anchor_from": "2026-10-04"
         }
       ]
     },
@@ -764,8 +780,8 @@
       "title": "Top K Frequent Elements",
       "path": "01-arrays/top-k-frequent-elements.py",
       "solved": "2026-09-06",
-      "rung": 5,
-      "anchor": "2026-10-06",
+      "rung": 6,
+      "anchor": "2026-11-06",
       "history": [
         {
           "date": "2026-09-07",
@@ -806,6 +822,14 @@
           "rung_from": 4,
           "rung_to": 5,
           "anchor_from": "2026-09-21"
+        },
+        {
+          "date": "2026-11-06",
+          "scheduled": "2026-11-05",
+          "result": "remembered",
+          "rung_from": 5,
+          "rung_to": 6,
+          "anchor_from": "2026-10-06"
         }
       ]
     },
