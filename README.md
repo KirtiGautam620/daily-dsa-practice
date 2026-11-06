@@ -92,18 +92,9 @@ _Last updated: 06 Nov 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 1
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Count Subarrays With Loose Bounds | Array | 06 Nov |
-
-### ⚠️ Overdue · 2
-
-| Problem | Due | Overdue |
-|---|---|---:|
-| Sort Colors | 03 Nov | 3 days |
-| Top K Frequent Elements | 05 Nov | 1 day |
+All caught up.
 
 ### ⏳ Upcoming
 
