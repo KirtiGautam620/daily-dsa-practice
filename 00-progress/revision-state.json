@@ -633,8 +633,8 @@
       "title": "Reverse String",
       "path": "04-two-pointers/revers_string.py",
       "solved": "2026-09-12",
-      "rung": 5,
-      "anchor": "2026-10-12",
+      "rung": 6,
+      "anchor": "2026-11-11",
       "history": [
         {
           "date": "2026-09-13",
@@ -675,6 +675,14 @@
           "rung_from": 4,
           "rung_to": 5,
           "anchor_from": "2026-09-27"
+        },
+        {
+          "date": "2026-11-11",
+          "scheduled": "2026-11-11",
+          "result": "remembered",
+          "rung_from": 5,
+          "rung_to": 6,
+          "anchor_from": "2026-10-12"
         }
       ]
     },

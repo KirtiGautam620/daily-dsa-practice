@@ -92,11 +92,9 @@ _Last updated: 11 Nov 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 1
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Reverse String | Two Pointers | 11 Nov |
+All caught up.
 
 ### ⏳ Upcoming
 
