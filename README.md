@@ -34,7 +34,7 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 | 🟡 Hint | 3 | 16% |
 | 🔴 Solution | 0 | 0% |
 
-_Last updated: 13 Nov 2026_
+_Last updated: 14 Nov 2026_
 
 <!-- DSA-STATS:END -->
 
@@ -92,22 +92,23 @@ _Last updated: 13 Nov 2026_
 
 <!-- DSA-REVISION:START -->
 
-### ✅ Nothing due today
+### 🔴 Due Today · 1
 
-All caught up.
+| Problem | Topic | Revision |
+|---|---|---|
+| Count Subarrays With Loose Bounds | Array | 14 Nov |
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
-| 14 Nov | 1 |
 | 15 Nov | 1 |
 | 17 Nov | 2 |
 | 23 Nov | 1 |
 | 02 Dec | 1 |
 | 09 Dec | 1 |
 
-_13 Nov 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
+_14 Nov 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
 <!-- DSA-REVISION:END -->
 
