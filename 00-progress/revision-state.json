@@ -168,8 +168,8 @@
       "title": "Count Subarrays With Loose Bounds",
       "path": "01-arrays/count-array-loose-bound.py",
       "solved": "2026-10-25",
-      "rung": 3,
-      "anchor": "2026-11-06",
+      "rung": 4,
+      "anchor": "2026-11-14",
       "history": [
         {
           "date": "2026-10-26",
@@ -194,6 +194,14 @@
           "rung_from": 2,
           "rung_to": 3,
           "anchor_from": "2026-11-02"
+        },
+        {
+          "date": "2026-11-14",
+          "scheduled": "2026-11-14",
+          "result": "remembered",
+          "rung_from": 3,
+          "rung_to": 4,
+          "anchor_from": "2026-11-06"
         }
       ]
     },

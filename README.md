@@ -92,11 +92,9 @@ _Last updated: 14 Nov 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 1
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Count Subarrays With Loose Bounds | Array | 14 Nov |
+All caught up.
 
 ### ⏳ Upcoming
 
@@ -105,6 +103,7 @@ _Last updated: 14 Nov 2026_
 | 15 Nov | 1 |
 | 17 Nov | 2 |
 | 23 Nov | 1 |
+| 29 Nov | 1 |
 | 02 Dec | 1 |
 | 09 Dec | 1 |
 
