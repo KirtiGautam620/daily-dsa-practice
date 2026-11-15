@@ -92,11 +92,9 @@ _Last updated: 15 Nov 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 1
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Happy Number | Array | 15 Nov |
+All caught up.
 
 ### ⏳ Upcoming
 
