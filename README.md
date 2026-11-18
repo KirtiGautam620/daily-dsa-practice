@@ -92,12 +92,9 @@ _Last updated: 18 Nov 2026_
 
 <!-- DSA-REVISION:START -->
 
-### ⚠️ Overdue · 2
+### ✅ Nothing due today
 
-| Problem | Due | Overdue |
-|---|---|---:|
-| Palindrome Number | 17 Nov | 1 day |
-| Plus One | 17 Nov | 1 day |
+All caught up.
 
 ### ⏳ Upcoming
 
@@ -107,6 +104,7 @@ _Last updated: 18 Nov 2026_
 | 29 Nov | 1 |
 | 02 Dec | 1 |
 | 09 Dec | 1 |
+| 18 Dec | 1 |
 
 _18 Nov 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
