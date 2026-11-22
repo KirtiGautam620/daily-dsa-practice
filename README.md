@@ -19,19 +19,19 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 
 <!-- DSA-STATS:START -->
 
-**20** problems solved across **17** active days · 🔥 **1-day streak** (best: 2) · started 23 Aug 2026
+**21** problems solved across **17** active days · 🔥 **1-day streak** (best: 2) · started 23 Aug 2026
 
 | Difficulty | Solved | Share | |
 |---|---:|---:|---|
-| 🟩 Easy | 14 | 70% | `███████░░░` |
-| 🟨 Medium | 6 | 30% | `███░░░░░░░` |
+| 🟩 Easy | 14 | 67% | `███████░░░` |
+| 🟨 Medium | 7 | 33% | `███░░░░░░░` |
 | 🟥 Hard | 0 | 0% | `░░░░░░░░░░` |
-| **Total** | **20** | | |
+| **Total** | **21** | | |
 
 | How it was solved | Count | Share |
 |---|---:|---:|
-| 🟢 Independent | 16 | 80% |
-| 🟡 Hint | 4 | 20% |
+| 🟢 Independent | 16 | 76% |
+| 🟡 Hint | 5 | 24% |
 | 🔴 Solution | 0 | 0% |
 
 _Last updated: 22 Nov 2026_
@@ -49,7 +49,7 @@ _Last updated: 22 Nov 2026_
 | [Arrays](01-arrays/) | 17 | 12 | 5 | 0 | 25 Oct | 💪 Strong |
 | Strings | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Hashing | 0 | 0 | 0 | 0 | — | 🔴 Not started |
-| [Two Pointers](04-two-pointers/) | 3 | 2 | 1 | 0 | 22 Nov | 🟡 In progress |
+| [Two Pointers](04-two-pointers/) | 4 | 2 | 2 | 0 | 22 Nov | 🟡 In progress |
 | Sliding Window | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Stack | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Binary Search | 0 | 0 | 0 | 0 | — | 🔴 Not started |
@@ -73,6 +73,7 @@ _Last updated: 22 Nov 2026_
 
 | Date | Problem | Difficulty | Pattern | Result | Solution |
 |---|---|---|---|:---:|---|
+| 22 Nov | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Two Pointers | 🟡 | [code](04-two-pointers/two_sum_2.py) |
 | 22 Nov | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Two Pointers | 🟡 | [code](04-two-pointers/container_with_mx_water.py) |
 | 25 Oct | [Count Subarrays With Loose Bounds](https://leetcode.com/problems/count-subarrays-with-loose-bounds/) | Medium | Array | 🟡 | [code](01-arrays/count-array-loose-bound.py) |
 | 17 Oct | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | Array | 🟢 | [code](01-arrays/plus_one.py) |
@@ -82,7 +83,6 @@ _Last updated: 22 Nov 2026_
 | 18 Sep | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Array | 🟢 | [code](01-arrays/palindrom_number.py) |
 | 16 Sep | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | Array | 🟢 | [code](01-arrays/happy_numbers.py) |
 | 12 Sep | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers | 🟢 | [code](04-two-pointers/revers_string.py) |
-| 10 Sep | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | Array | 🟢 | [code](01-arrays/set-mismatch.py) |
 
 <!-- DSA-RECENT:END -->
 
@@ -100,7 +100,7 @@ All caught up.
 
 | Date | Problems |
 |---|---:|
-| 23 Nov | 2 |
+| 23 Nov | 3 |
 | 29 Nov | 1 |
 | 02 Dec | 1 |
 | 09 Dec | 1 |

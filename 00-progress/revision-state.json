@@ -962,6 +962,14 @@
       "anchor": "2026-08-29",
       "history": []
     },
+    "two-sum-ii-input-array-is-sorted": {
+      "title": "Two Sum II - Input Array Is Sorted",
+      "path": "04-two-pointers/two_sum_2.py",
+      "solved": "2026-11-22",
+      "rung": 0,
+      "anchor": "2026-11-22",
+      "history": []
+    },
     "valid-anagram": {
       "title": "Valid Anagram",
       "path": "01-arrays/valid-anagram.py",
