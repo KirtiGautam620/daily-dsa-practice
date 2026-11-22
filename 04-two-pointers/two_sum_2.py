@@ -1,6 +1,6 @@
 '''
 Problem: Two Sum II - Input Array Is Sorted
-LeetCode: #11
+LeetCode: #167
 Difficulty: Medium
 Pattern: Two Pointers
 Status: Hint
