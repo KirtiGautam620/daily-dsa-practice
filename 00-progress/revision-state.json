@@ -107,6 +107,14 @@
         }
       ]
     },
+    "container-with-most-water": {
+      "title": "Container With Most Water",
+      "path": "04-two-pointers/container_with_mx_water.py",
+      "solved": "2026-11-22",
+      "rung": 0,
+      "anchor": "2026-11-22",
+      "history": []
+    },
     "contains-duplicate": {
       "title": "Contains Duplicate",
       "path": "01-arrays/contains-duplicate.py",
