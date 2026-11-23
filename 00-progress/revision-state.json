@@ -458,6 +458,14 @@
         }
       ]
     },
+    "longest-substring-without-repeating-characters": {
+      "title": "Longest Substring Without Repeating Characters",
+      "path": "05-sliding-window/longest_substring_without_repeating_char.py",
+      "solved": "2026-11-23",
+      "rung": 0,
+      "anchor": "2026-11-23",
+      "history": []
+    },
     "majority-element": {
       "title": "Majority Element",
       "path": "01-arrays/majority_element.py",
