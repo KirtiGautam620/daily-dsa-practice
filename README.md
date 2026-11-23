@@ -92,18 +92,15 @@ _Last updated: 23 Nov 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 3
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| 3Sum | Array | 23 Nov |
-| Container With Most Water | Two Pointers | 23 Nov |
-| Two Sum II - Input Array Is Sorted | Two Pointers | 23 Nov |
+All caught up.
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
+| 25 Nov | 2 |
 | 29 Nov | 1 |
 | 02 Dec | 1 |
 | 09 Dec | 1 |

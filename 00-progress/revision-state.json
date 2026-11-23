@@ -5,8 +5,8 @@
       "title": "3Sum",
       "path": "01-arrays/three-sum.py",
       "solved": "2026-09-21",
-      "rung": 5,
-      "anchor": "2026-10-24",
+      "rung": 6,
+      "anchor": "2026-11-23",
       "history": [
         {
           "date": "2026-09-22",
@@ -47,6 +47,14 @@
           "rung_from": 4,
           "rung_to": 5,
           "anchor_from": "2026-10-06"
+        },
+        {
+          "date": "2026-11-23",
+          "scheduled": "2026-11-23",
+          "result": "remembered",
+          "rung_from": 5,
+          "rung_to": 6,
+          "anchor_from": "2026-10-24"
         }
       ]
     },
@@ -111,9 +119,18 @@
       "title": "Container With Most Water",
       "path": "04-two-pointers/container_with_mx_water.py",
       "solved": "2026-11-22",
-      "rung": 0,
-      "anchor": "2026-11-22",
-      "history": []
+      "rung": 1,
+      "anchor": "2026-11-23",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "scheduled": "2026-11-23",
+          "result": "remembered",
+          "rung_from": 0,
+          "rung_to": 1,
+          "anchor_from": "2026-11-22"
+        }
+      ]
     },
     "contains-duplicate": {
       "title": "Contains Duplicate",
@@ -966,9 +983,18 @@
       "title": "Two Sum II - Input Array Is Sorted",
       "path": "04-two-pointers/two_sum_2.py",
       "solved": "2026-11-22",
-      "rung": 0,
-      "anchor": "2026-11-22",
-      "history": []
+      "rung": 1,
+      "anchor": "2026-11-23",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "scheduled": "2026-11-23",
+          "result": "remembered",
+          "rung_from": 0,
+          "rung_to": 1,
+          "anchor_from": "2026-11-22"
+        }
+      ]
     },
     "valid-anagram": {
       "title": "Valid Anagram",

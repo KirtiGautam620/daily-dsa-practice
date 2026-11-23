@@ -8,13 +8,13 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Problem | Solved | Done | R1 | R2 | R3 | R4 | R5 | R6 | Next due |
 |---|---|:---:|---|---|---|---|---|---|---|
-| [3Sum](../01-arrays/three-sum.py) | 21 Sep 2026 | 5/6 | ✅ 22 Sep | ✅ 24 Sep | ✅ 28 Sep | ✅ 06 Oct | ✅ 24 Oct | ⬜ 23 Nov | 🔴 23 Nov 2026 (today) |
-| [Container With Most Water](../04-two-pointers/container_with_mx_water.py) | 22 Nov 2026 | 0/6 | ⬜ 23 Nov | · 25 Nov | · 29 Nov | · 07 Dec | · 22 Dec | · 21 Jan | 🔴 23 Nov 2026 (today) |
-| [Two Sum II - Input Array Is Sorted](../04-two-pointers/two_sum_2.py) | 22 Nov 2026 | 0/6 | ⬜ 23 Nov | · 25 Nov | · 29 Nov | · 07 Dec | · 22 Dec | · 21 Jan | 🔴 23 Nov 2026 (today) |
+| [Container With Most Water](../04-two-pointers/container_with_mx_water.py) | 22 Nov 2026 | 1/6 | ✅ 23 Nov | ⬜ 25 Nov | · 29 Nov | · 07 Dec | · 22 Dec | · 21 Jan | 25 Nov 2026 |
+| [Two Sum II - Input Array Is Sorted](../04-two-pointers/two_sum_2.py) | 22 Nov 2026 | 1/6 | ✅ 23 Nov | ⬜ 25 Nov | · 29 Nov | · 07 Dec | · 22 Dec | · 21 Jan | 25 Nov 2026 |
 | [Count Subarrays With Loose Bounds](../01-arrays/count-array-loose-bound.py) | 25 Oct 2026 | 4/6 | ✅ 26 Oct | ✅ 02 Nov | ✅ 06 Nov | ✅ 14 Nov | ⬜ 29 Nov | · 29 Dec | 29 Nov 2026 |
 | [Valid Palindrome](../04-two-pointers/valid_palindrome.py) | 29 Sep 2026 | 5/6 | ✅ 30 Sep | ✅ 02 Oct | ✅ 06 Oct | ✅ 14 Oct | ✅ 02 Nov | ⬜ 02 Dec | 02 Dec 2026 |
 | [Longest Consecutive Sequence](../01-arrays/longest_consecutive_sequence.py) | 08 Oct 2026 | 5/6 | ✅ 09 Oct | ✅ 11 Oct | ✅ 15 Oct | ✅ 24 Oct | ✅ 09 Nov | ⬜ 09 Dec | 09 Dec 2026 |
 | [Plus One](../01-arrays/plus_one.py) | 17 Oct 2026 | 5/6 | ✅ 18 Oct | ✅ 20 Oct | ✅ 24 Oct | ✅ 02 Nov | ✅ 18 Nov | ⬜ 18 Dec | 18 Dec 2026 |
+| [3Sum](../01-arrays/three-sum.py) | 21 Sep 2026 | 6/6 | ✅ 22 Sep | ✅ 24 Sep | ✅ 28 Sep | ✅ 06 Oct | ✅ 24 Oct | ✅ 23 Nov | 🎓 graduated |
 | [Concatenation of Array](../01-arrays/concatenation-of-array.py) | 23 Aug 2026 | 6/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ✅ 07 Sep | ✅ 22 Sep | ✅ 24 Oct | 🎓 graduated |
 | [Contains Duplicate](../01-arrays/contains-duplicate.py) | 23 Aug 2026 | 6/6 | ✅ 24 Aug | ✅ 26 Aug | ✅ 30 Aug | ✅ 30 Aug | ✅ 14 Sep | ✅ 14 Oct | 🎓 graduated |
 | [Group Anagrams](../01-arrays/group_anagram.py) | 02 Sep 2026 | 6/6 | ✅ 03 Sep | ✅ 05 Sep | ✅ 09 Sep | ✅ 17 Sep | ✅ 02 Oct | ✅ 02 Nov | 🎓 graduated |
@@ -34,6 +34,9 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Revised on | Problem | Was scheduled | Result | Round |
 |---|---|---|:---:|:---:|
+| 23 Nov 2026 | Two Sum II - Input Array Is Sorted | 23 Nov 2026 | ✅ remembered | R1 |
+| 23 Nov 2026 | Container With Most Water | 23 Nov 2026 | ✅ remembered | R1 |
+| 23 Nov 2026 | 3Sum | 23 Nov 2026 | ✅ remembered | R6 |
 | 18 Nov 2026 | Plus One | 17 Nov 2026 | ✅ remembered | R5 |
 | 18 Nov 2026 | Palindrome Number | 17 Nov 2026 | ✅ remembered | R6 |
 | 15 Nov 2026 | Happy Number | 15 Nov 2026 | ✅ remembered | R6 |
@@ -71,8 +74,5 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 | 09 Oct 2026 | Longest Consecutive Sequence | 09 Oct 2026 | ✅ remembered | R1 |
 | 06 Oct 2026 | Valid Palindrome | 06 Oct 2026 | ✅ remembered | R3 |
 | 06 Oct 2026 | Top K Frequent Elements | 06 Oct 2026 | ✅ remembered | R5 |
-| 06 Oct 2026 | 3Sum | 06 Oct 2026 | ✅ remembered | R4 |
-| 04 Oct 2026 | Sort Colors | 04 Oct 2026 | ✅ remembered | R5 |
-| 03 Oct 2026 | Palindrome Number | 03 Oct 2026 | ✅ remembered | R4 |
 
 <!-- DSA-TRACKER:END -->
