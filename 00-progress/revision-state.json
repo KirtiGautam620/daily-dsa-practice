@@ -58,6 +58,14 @@
         }
       ]
     },
+    "best-time-to-buy-and-sell-stock": {
+      "title": "Best Time to Buy and Sell Stock",
+      "path": "05-sliding-window/buy_and_sell.py",
+      "solved": "2026-11-23",
+      "rung": 0,
+      "anchor": "2026-11-23",
+      "history": []
+    },
     "concatenation-of-array": {
       "title": "Concatenation of Array",
       "path": "01-arrays/concatenation-of-array.py",

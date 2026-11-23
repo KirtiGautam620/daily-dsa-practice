@@ -19,19 +19,19 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 
 <!-- DSA-STATS:START -->
 
-**21** problems solved across **17** active days · 🔥 **1-day streak** (best: 2) · started 23 Aug 2026
+**22** problems solved across **18** active days · 🔥 **2-day streak** (best: 2) · started 23 Aug 2026
 
 | Difficulty | Solved | Share | |
 |---|---:|---:|---|
-| 🟩 Easy | 14 | 67% | `███████░░░` |
-| 🟨 Medium | 7 | 33% | `███░░░░░░░` |
+| 🟩 Easy | 15 | 68% | `███████░░░` |
+| 🟨 Medium | 7 | 32% | `███░░░░░░░` |
 | 🟥 Hard | 0 | 0% | `░░░░░░░░░░` |
-| **Total** | **21** | | |
+| **Total** | **22** | | |
 
 | How it was solved | Count | Share |
 |---|---:|---:|
-| 🟢 Independent | 16 | 76% |
-| 🟡 Hint | 5 | 24% |
+| 🟢 Independent | 16 | 73% |
+| 🟡 Hint | 6 | 27% |
 | 🔴 Solution | 0 | 0% |
 
 _Last updated: 23 Nov 2026_
@@ -50,7 +50,7 @@ _Last updated: 23 Nov 2026_
 | Strings | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Hashing | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | [Two Pointers](04-two-pointers/) | 4 | 2 | 2 | 0 | 22 Nov | 🟡 In progress |
-| Sliding Window | 0 | 0 | 0 | 0 | — | 🔴 Not started |
+| [Sliding Window](05-sliding-window/) | 1 | 1 | 0 | 0 | 23 Nov | 🟡 In progress |
 | Stack | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Binary Search | 0 | 0 | 0 | 0 | — | 🔴 Not started |
 | Linked List | 0 | 0 | 0 | 0 | — | 🔴 Not started |
@@ -73,6 +73,7 @@ _Last updated: 23 Nov 2026_
 
 | Date | Problem | Difficulty | Pattern | Result | Solution |
 |---|---|---|---|:---:|---|
+| 23 Nov | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Sliding Window | 🟡 | [code](05-sliding-window/buy_and_sell.py) |
 | 22 Nov | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Two Pointers | 🟡 | [code](04-two-pointers/two_sum_2.py) |
 | 22 Nov | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Two Pointers | 🟡 | [code](04-two-pointers/container_with_mx_water.py) |
 | 25 Oct | [Count Subarrays With Loose Bounds](https://leetcode.com/problems/count-subarrays-with-loose-bounds/) | Medium | Array | 🟡 | [code](01-arrays/count-array-loose-bound.py) |
@@ -82,7 +83,6 @@ _Last updated: 23 Nov 2026_
 | 21 Sep | [3Sum](https://leetcode.com/problems/3sum/) | Easy | Array | 🟢 | [code](01-arrays/three-sum.py) |
 | 18 Sep | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Array | 🟢 | [code](01-arrays/palindrom_number.py) |
 | 16 Sep | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | Array | 🟢 | [code](01-arrays/happy_numbers.py) |
-| 12 Sep | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers | 🟢 | [code](04-two-pointers/revers_string.py) |
 
 <!-- DSA-RECENT:END -->
 
@@ -100,6 +100,7 @@ All caught up.
 
 | Date | Problems |
 |---|---:|
+| 24 Nov | 1 |
 | 25 Nov | 2 |
 | 29 Nov | 1 |
 | 02 Dec | 1 |

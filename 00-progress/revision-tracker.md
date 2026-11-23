@@ -8,6 +8,7 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Problem | Solved | Done | R1 | R2 | R3 | R4 | R5 | R6 | Next due |
 |---|---|:---:|---|---|---|---|---|---|---|
+| [Best Time to Buy and Sell Stock](../05-sliding-window/buy_and_sell.py) | 23 Nov 2026 | 0/6 | ⬜ 24 Nov | · 26 Nov | · 30 Nov | · 08 Dec | · 23 Dec | · 22 Jan | 24 Nov 2026 |
 | [Container With Most Water](../04-two-pointers/container_with_mx_water.py) | 22 Nov 2026 | 1/6 | ✅ 23 Nov | ⬜ 25 Nov | · 29 Nov | · 07 Dec | · 22 Dec | · 21 Jan | 25 Nov 2026 |
 | [Two Sum II - Input Array Is Sorted](../04-two-pointers/two_sum_2.py) | 22 Nov 2026 | 1/6 | ✅ 23 Nov | ⬜ 25 Nov | · 29 Nov | · 07 Dec | · 22 Dec | · 21 Jan | 25 Nov 2026 |
 | [Count Subarrays With Loose Bounds](../01-arrays/count-array-loose-bound.py) | 25 Oct 2026 | 4/6 | ✅ 26 Oct | ✅ 02 Nov | ✅ 06 Nov | ✅ 14 Nov | ⬜ 29 Nov | · 29 Dec | 29 Nov 2026 |
