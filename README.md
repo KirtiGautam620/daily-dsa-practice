@@ -92,18 +92,16 @@ _Last updated: 24 Nov 2026_
 
 <!-- DSA-REVISION:START -->
 
-### 🔴 Due Today · 2
+### ✅ Nothing due today
 
-| Problem | Topic | Revision |
-|---|---|---|
-| Best Time to Buy and Sell Stock | Sliding Window | 24 Nov |
-| Longest Substring Without Repeating Characters | Sliding Window | 24 Nov |
+All caught up.
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
 | 25 Nov | 2 |
+| 26 Nov | 2 |
 | 29 Nov | 1 |
 | 02 Dec | 1 |
 | 09 Dec | 1 |

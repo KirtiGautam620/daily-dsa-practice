@@ -62,9 +62,18 @@
       "title": "Best Time to Buy and Sell Stock",
       "path": "05-sliding-window/buy_and_sell.py",
       "solved": "2026-11-23",
-      "rung": 0,
-      "anchor": "2026-11-23",
-      "history": []
+      "rung": 1,
+      "anchor": "2026-11-24",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "scheduled": "2026-11-24",
+          "result": "remembered",
+          "rung_from": 0,
+          "rung_to": 1,
+          "anchor_from": "2026-11-23"
+        }
+      ]
     },
     "concatenation-of-array": {
       "title": "Concatenation of Array",
@@ -462,9 +471,18 @@
       "title": "Longest Substring Without Repeating Characters",
       "path": "05-sliding-window/longest_substring_without_repeating_char.py",
       "solved": "2026-11-23",
-      "rung": 0,
-      "anchor": "2026-11-23",
-      "history": []
+      "rung": 1,
+      "anchor": "2026-11-24",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "scheduled": "2026-11-24",
+          "result": "remembered",
+          "rung_from": 0,
+          "rung_to": 1,
+          "anchor_from": "2026-11-23"
+        }
+      ]
     },
     "majority-element": {
       "title": "Majority Element",
