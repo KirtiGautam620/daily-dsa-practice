@@ -8,11 +8,11 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Problem | Solved | Done | R1 | R2 | R3 | R4 | R5 | R6 | Next due |
 |---|---|:---:|---|---|---|---|---|---|---|
-| [Container With Most Water](../04-two-pointers/container_with_mx_water.py) | 22 Nov 2026 | 1/6 | ✅ 23 Nov | ⬜ 25 Nov | · 29 Nov | · 07 Dec | · 22 Dec | · 21 Jan | 🔴 25 Nov 2026 (today) |
-| [Two Sum II - Input Array Is Sorted](../04-two-pointers/two_sum_2.py) | 22 Nov 2026 | 1/6 | ✅ 23 Nov | ⬜ 25 Nov | · 29 Nov | · 07 Dec | · 22 Dec | · 21 Jan | 🔴 25 Nov 2026 (today) |
 | [Best Time to Buy and Sell Stock](../05-sliding-window/buy_and_sell.py) | 23 Nov 2026 | 1/6 | ✅ 24 Nov | ⬜ 26 Nov | · 30 Nov | · 08 Dec | · 23 Dec | · 22 Jan | 26 Nov 2026 |
 | [Longest Substring Without Repeating Characters](../05-sliding-window/longest_substring_without_repeating_char.py) | 23 Nov 2026 | 1/6 | ✅ 24 Nov | ⬜ 26 Nov | · 30 Nov | · 08 Dec | · 23 Dec | · 22 Jan | 26 Nov 2026 |
+| [Container With Most Water](../04-two-pointers/container_with_mx_water.py) | 22 Nov 2026 | 2/6 | ✅ 23 Nov | ✅ 25 Nov | ⬜ 29 Nov | · 07 Dec | · 22 Dec | · 21 Jan | 29 Nov 2026 |
 | [Count Subarrays With Loose Bounds](../01-arrays/count-array-loose-bound.py) | 25 Oct 2026 | 4/6 | ✅ 26 Oct | ✅ 02 Nov | ✅ 06 Nov | ✅ 14 Nov | ⬜ 29 Nov | · 29 Dec | 29 Nov 2026 |
+| [Two Sum II - Input Array Is Sorted](../04-two-pointers/two_sum_2.py) | 22 Nov 2026 | 2/6 | ✅ 23 Nov | ✅ 25 Nov | ⬜ 29 Nov | · 07 Dec | · 22 Dec | · 21 Jan | 29 Nov 2026 |
 | [Valid Palindrome](../04-two-pointers/valid_palindrome.py) | 29 Sep 2026 | 5/6 | ✅ 30 Sep | ✅ 02 Oct | ✅ 06 Oct | ✅ 14 Oct | ✅ 02 Nov | ⬜ 02 Dec | 02 Dec 2026 |
 | [Longest Consecutive Sequence](../01-arrays/longest_consecutive_sequence.py) | 08 Oct 2026 | 5/6 | ✅ 09 Oct | ✅ 11 Oct | ✅ 15 Oct | ✅ 24 Oct | ✅ 09 Nov | ⬜ 09 Dec | 09 Dec 2026 |
 | [Plus One](../01-arrays/plus_one.py) | 17 Oct 2026 | 5/6 | ✅ 18 Oct | ✅ 20 Oct | ✅ 24 Oct | ✅ 02 Nov | ✅ 18 Nov | ⬜ 18 Dec | 18 Dec 2026 |
@@ -36,6 +36,8 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 
 | Revised on | Problem | Was scheduled | Result | Round |
 |---|---|---|:---:|:---:|
+| 25 Nov 2026 | Two Sum II - Input Array Is Sorted | 25 Nov 2026 | ✅ remembered | R2 |
+| 25 Nov 2026 | Container With Most Water | 25 Nov 2026 | ✅ remembered | R2 |
 | 24 Nov 2026 | Longest Substring Without Repeating Characters | 24 Nov 2026 | ✅ remembered | R1 |
 | 24 Nov 2026 | Best Time to Buy and Sell Stock | 24 Nov 2026 | ✅ remembered | R1 |
 | 23 Nov 2026 | Two Sum II - Input Array Is Sorted | 23 Nov 2026 | ✅ remembered | R1 |
@@ -74,7 +76,5 @@ Ladder: **1 → 3 → 7 → 15 → 30 → 60 days** after the solve, each gap me
 | 14 Oct 2026 | Contains Duplicate | 14 Oct 2026 | ✅ remembered | R6 |
 | 12 Oct 2026 | Reverse String | 12 Oct 2026 | ✅ remembered | R5 |
 | 11 Oct 2026 | Longest Consecutive Sequence | 11 Oct 2026 | ✅ remembered | R2 |
-| 10 Oct 2026 | Set Mismatch | 10 Oct 2026 | ✅ remembered | R5 |
-| 09 Oct 2026 | Longest Consecutive Sequence | 09 Oct 2026 | ✅ remembered | R1 |
 
 <!-- DSA-TRACKER:END -->

@@ -136,8 +136,8 @@
       "title": "Container With Most Water",
       "path": "04-two-pointers/container_with_mx_water.py",
       "solved": "2026-11-22",
-      "rung": 1,
-      "anchor": "2026-11-23",
+      "rung": 2,
+      "anchor": "2026-11-25",
       "history": [
         {
           "date": "2026-11-23",
@@ -146,6 +146,14 @@
           "rung_from": 0,
           "rung_to": 1,
           "anchor_from": "2026-11-22"
+        },
+        {
+          "date": "2026-11-25",
+          "scheduled": "2026-11-25",
+          "result": "remembered",
+          "rung_from": 1,
+          "rung_to": 2,
+          "anchor_from": "2026-11-23"
         }
       ]
     },
@@ -1017,8 +1025,8 @@
       "title": "Two Sum II - Input Array Is Sorted",
       "path": "04-two-pointers/two_sum_2.py",
       "solved": "2026-11-22",
-      "rung": 1,
-      "anchor": "2026-11-23",
+      "rung": 2,
+      "anchor": "2026-11-25",
       "history": [
         {
           "date": "2026-11-23",
@@ -1027,6 +1035,14 @@
           "rung_from": 0,
           "rung_to": 1,
           "anchor_from": "2026-11-22"
+        },
+        {
+          "date": "2026-11-25",
+          "scheduled": "2026-11-25",
+          "result": "remembered",
+          "rung_from": 1,
+          "rung_to": 2,
+          "anchor_from": "2026-11-23"
         }
       ]
     },
