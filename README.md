@@ -19,7 +19,7 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 
 <!-- DSA-STATS:START -->
 
-**23** problems solved across **18** active days · 🔥 **2-day streak** (best: 2) · started 23 Aug 2026
+**23** problems solved across **18** active days · 🔥 **0-day streak** (best: 2) · started 23 Aug 2026
 
 | Difficulty | Solved | Share | |
 |---|---:|---:|---|
@@ -34,7 +34,7 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 | 🟡 Hint | 7 | 30% |
 | 🔴 Solution | 0 | 0% |
 
-_Last updated: 24 Nov 2026_
+_Last updated: 25 Nov 2026_
 
 <!-- DSA-STATS:END -->
 
@@ -92,22 +92,24 @@ _Last updated: 24 Nov 2026_
 
 <!-- DSA-REVISION:START -->
 
-### ✅ Nothing due today
+### 🔴 Due Today · 2
 
-All caught up.
+| Problem | Topic | Revision |
+|---|---|---|
+| Container With Most Water | Two Pointers | 25 Nov |
+| Two Sum II - Input Array Is Sorted | Two Pointers | 25 Nov |
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
-| 25 Nov | 2 |
 | 26 Nov | 2 |
 | 29 Nov | 1 |
 | 02 Dec | 1 |
 | 09 Dec | 1 |
 | 18 Dec | 1 |
 
-_24 Nov 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
+_25 Nov 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
 <!-- DSA-REVISION:END -->
 
