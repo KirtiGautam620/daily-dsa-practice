@@ -34,7 +34,7 @@ I'm using this repository to document my daily DSA practice, track my weaknesses
 | 🟡 Hint | 7 | 30% |
 | 🔴 Solution | 0 | 0% |
 
-_Last updated: 25 Nov 2026_
+_Last updated: 26 Nov 2026_
 
 <!-- DSA-STATS:END -->
 
@@ -92,21 +92,23 @@ _Last updated: 25 Nov 2026_
 
 <!-- DSA-REVISION:START -->
 
-### ✅ Nothing due today
+### 🔴 Due Today · 2
 
-All caught up.
+| Problem | Topic | Revision |
+|---|---|---|
+| Best Time to Buy and Sell Stock | Sliding Window | 26 Nov |
+| Longest Substring Without Repeating Characters | Sliding Window | 26 Nov |
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
-| 26 Nov | 2 |
 | 29 Nov | 3 |
 | 02 Dec | 1 |
 | 09 Dec | 1 |
 | 18 Dec | 1 |
 
-_25 Nov 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
+_26 Nov 2026 (IST) · mark done: `python scripts/revise.py "<problem>"` · full schedule: [revision-tracker.md](00-progress/revision-tracker.md)_
 
 <!-- DSA-REVISION:END -->
 
