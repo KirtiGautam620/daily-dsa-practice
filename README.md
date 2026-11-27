@@ -92,18 +92,16 @@ _Last updated: 27 Nov 2026_
 
 <!-- DSA-REVISION:START -->
 
-### ⚠️ Overdue · 2
+### ✅ Nothing due today
 
-| Problem | Due | Overdue |
-|---|---|---:|
-| Best Time to Buy and Sell Stock | 26 Nov | 1 day |
-| Longest Substring Without Repeating Characters | 26 Nov | 1 day |
+All caught up.
 
 ### ⏳ Upcoming
 
 | Date | Problems |
 |---|---:|
 | 29 Nov | 3 |
+| 01 Dec | 2 |
 | 02 Dec | 1 |
 | 09 Dec | 1 |
 | 18 Dec | 1 |
